@@ -3,7 +3,7 @@ on:
     branches:    
       - 'master'
   schedule:
-  - cron: '0 0 * * *' # utc时间，背景时间8:00am
+  - cron: '0 0 * * *' # utc时间，北京时间8:00am
 
 jobs:
   excavate:
@@ -65,7 +65,7 @@ jobs:
         path: 'scoop-sysinternals'
     - name: Update buckets
       run: |
-        mkdir -p bucket scripts # 防止rm错误，没有也新建一个再删掉
+        mkdir -p bucket scripts   # 防止 rm 错误，没有也新建一个再删掉
         rm -r bucket scripts
         mkdir -p bucket scripts
         cp -r Main/bucket/*                  ./bucket
