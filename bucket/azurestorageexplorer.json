@@ -1,0 +1,22 @@
+{
+    "version": "1.29.0",
+    "description": "Easily manage the contents of Azure storage account.",
+    "homepage": "https://azure.microsoft.com/en-us/features/storage-explorer/",
+    "license": "CC-BY-4.0",
+    "url": "https://ghproxy.com/github.com/microsoft/AzureStorageExplorer/releases/download/v1.29.0/StorageExplorer-windows-ia32.exe",
+    "hash": "05d4ef58140b0449f93e10bc489303adbecf80fa8bdabe98a423c1e8ed0eef7c",
+    "innosetup": true,
+    "bin": "StorageExplorer.exe",
+    "shortcuts": [
+        [
+            "StorageExplorer.exe",
+            "Azure Storage Explorer"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/microsoft/AzureStorageExplorer"
+    },
+    "autoupdate": {
+        "url": "https://ghproxy.com/github.com/microsoft/AzureStorageExplorer/releases/download/v$version/StorageExplorer-windows-ia32.exe"
+    }
+}

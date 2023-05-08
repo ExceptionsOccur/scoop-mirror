@@ -1,0 +1,25 @@
+{
+    "version": "15.41.9",
+    "description": "A light version of Teamviewer, which enables a support technician to remotely access, remotely control, and remotely view your computer or mobile device for fast troubleshooting.",
+    "homepage": "https://www.teamviewer.com",
+    "license": {
+        "identifier": "Shareware",
+        "url": "https://www.teamviewer.com/en/eula/"
+    },
+    "url": "https://dl.teamviewer.com/download/TeamViewerQS.exe",
+    "hash": "a29ec4825ed1d653f7d29622284b43f91a643d9a112a3f87823b405b5e692c3c",
+    "shortcuts": [
+        [
+            "TeamViewerQS.exe",
+            "TeamViewer QuickSupport"
+        ]
+    ],
+    "checkver": {
+        "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.26 Safari/537.36",
+        "url": "https://www.teamviewer.com/en-us/download/windows/",
+        "regex": "<p>Current\\sversion:\\s([\\d.]+)</p>"
+    },
+    "autoupdate": {
+        "url": "https://dl.teamviewer.com/download/TeamViewerQS.exe"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "version": "3.157.0",
+    "description": "A safe place for your notes, thoughts, and life's work.",
+    "homepage": "https://standardnotes.org/",
+    "license": "AGPL-3.0-or-later",
+    "architecture": {
+        "64bit": {
+            "url": "https://ghproxy.com/github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.157.0/standard-notes-3.157.0-win-x64.exe#/dl.7z",
+            "hash": "sha512:ef95e3b381a5e954beda16ce91dff1e6547bd525f8179992cb4ad77557360110b45a57e9becf7cf0ea618464a2a061a687002bbc656494bcbaffc2f91eed5ddb"
+        },
+        "32bit": {
+            "url": "https://ghproxy.com/github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.157.0/standard-notes-3.157.0-win-ia32.exe#/dl.7z",
+            "hash": "sha512:df64a313b8258fbac2d92e67b5704160628c232dfb714dcad48a535831a5460ca8b912c37decd1570f903b0cab99854b1d6a3d80011717ec0b921329093f8a26"
+        }
+    },
+    "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-$($architecture.Substring(0,2)).7z\" \"$dir\"",
+    "post_install": "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Recurse",
+    "shortcuts": [
+        [
+            "Standard Notes.exe",
+            "Standard Notes"
+        ]
+    ],
+    "checkver": {
+        "url": "https://api.github.com/repos/standardnotes/app/releases/latest",
+        "regex": "@standardnotes/desktop@([\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://ghproxy.com/github.com/standardnotes/app/releases/download/@standardnotes/desktop@$version/standard-notes-$version-win-x64.exe#/dl.7z"
+            },
+            "32bit": {
+                "url": "https://ghproxy.com/github.com/standardnotes/app/releases/download/@standardnotes/desktop@$version/standard-notes-$version-win-ia32.exe#/dl.7z"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/latest.yml",
+            "regex": "(?is)$basename.*?$base64"
+        }
+    }
+}

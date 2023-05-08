@@ -1,0 +1,28 @@
+{
+    "version": "5.17.5.537",
+    "description": "Software Update Monitor",
+    "homepage": "https://kcsoftwares.com/?sumo",
+    "license": {
+        "identifier": "Freeware",
+        "url": "http://www.kcsoftwares.com/legal/ToU.pdf"
+    },
+    "url": "https://www.kcsoftwares.com/files/sumo.zip",
+    "hash": "85b9ab5914b89583db2f0857a5b4f7ade5dbc370d23215295f6bd91c4f6e5df2",
+    "extract_dir": "sumo",
+    "pre_install": "if (!(Test-Path \"$persist_dir\\settings.ini\")) { Set-Content \"$dir\\settings.ini\" '[Settings]', 'AutoUpdate=0' -Encoding Ascii }",
+    "bin": "SUMo.exe",
+    "shortcuts": [
+        [
+            "SUMo.exe",
+            "SUMo - Software Update Monitor"
+        ]
+    ],
+    "persist": "settings.ini",
+    "checkver": {
+        "url": "https://www.kcsoftwares.com/?download",
+        "regex": "(?sm)SUMo</h.*?Version\\s+:\\s*<code>([\\d.]+)</"
+    },
+    "autoupdate": {
+        "url": "https://www.kcsoftwares.com/files/sumo.zip"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "version": "115.0.1836.0",
+    "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
+    "homepage": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://msedgedriver.azureedge.net/EULA"
+    },
+    "notes": "For legacy (EdgeHTML) version, see 'versions/edgedriver-legacy'.",
+    "architecture": {
+        "64bit": {
+            "url": "https://msedgedriver.azureedge.net/115.0.1836.0/edgedriver_win64.zip",
+            "hash": "689f1c62d4ab8878409ac05b666ef75f75a7bc8688fdb74d09afe96bc3fd89c1"
+        },
+        "32bit": {
+            "url": "https://msedgedriver.azureedge.net/115.0.1836.0/edgedriver_win32.zip",
+            "hash": "276eacefe86966bfec16fe2aaeff8266896e437a10b2f04744a2f74b465bb016"
+        },
+        "arm64": {
+            "url": "https://msedgedriver.azureedge.net/115.0.1836.0/edgedriver_arm64.zip",
+            "hash": "6dc0a2657fb7a452d7460c8ebf73ed75ce834d176dd5729c0ddaeebb40b07c15"
+        }
+    },
+    "bin": "msedgedriver.exe",
+    "checkver": {
+        "script": "Write-Output $([System.Text.Encoding]::Unicode.GetString((Invoke-WebRequest -URI https://msedgedriver.azureedge.net/LATEST_CANARY).Content))",
+        "regex": "([\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://msedgedriver.azureedge.net/$version/edgedriver_win64.zip"
+            },
+            "32bit": {
+                "url": "https://msedgedriver.azureedge.net/$version/edgedriver_win32.zip"
+            },
+            "arm64": {
+                "url": "https://msedgedriver.azureedge.net/$version/edgedriver_arm64.zip"
+            }
+        }
+    }
+}

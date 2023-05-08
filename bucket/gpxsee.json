@@ -1,0 +1,29 @@
+{
+    "version": "13.1",
+    "description": "GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files",
+    "homepage": "https://www.gpxsee.org/",
+    "license": "GPL-3.0-only",
+    "architecture": {
+        "64bit": {
+            "url": "https://nchc.dl.sourceforge.net/project/gpxsee/Windows/GPXSee-13.1_x64.exe#/dl.7z",
+            "hash": "sha1:3228ee9f237ff9236f7554117c1d2137c046f75a"
+        }
+    },
+    "shortcuts": [
+        [
+            "GPXSee.exe",
+            "GPXSee"
+        ]
+    ],
+    "checkver": {
+        "url": "https://sourceforge.net/projects/gpxsee/files/Windows/",
+        "regex": "GPXSee-([0-9.]+)_x64\\.exe"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://nchc.dl.sourceforge.net/project/gpxsee/Windows/GPXSee-$version_x64.exe#/dl.7z"
+            }
+        }
+    }
+}
