@@ -65,6 +65,7 @@ jobs:
         path: 'scoop-sysinternals'
     - name: Update buckets
       run: |
+        mkdir -p bucket scripts
         rm -r bucket scripts
         mkdir -p bucket scripts
         cp -r Main/bucket/*                  ./bucket
