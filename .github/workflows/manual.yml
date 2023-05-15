@@ -6,7 +6,4 @@ on:
 jobs:
   excavate:
     name: manual update
-    runs-on: ubuntu-latest
-    steps:
-      - name: update
-        uses: ExceptionsOccur/scoop-mirror/.github/workflows/update.yml@master
+    uses: ExceptionsOccur/scoop-mirror/.github/workflows/update.yml@master
