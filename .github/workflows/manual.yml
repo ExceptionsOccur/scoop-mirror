@@ -1,17 +1,12 @@
-name: CI
+name: manual
 
 on:
   workflow_dispatch:
-    inputs:
-      environment:
-        description: 'Environment to deploy'
-        required: true
 
 jobs:
-  build:
+  excavate:
+    name: manual update
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
-    - name: Run a one-line script
-      run: echo Hello, world!
+      - name: update
+        uses: ExceptionsOccur/scoop-mirror/.github/workflows/update.yml@master
