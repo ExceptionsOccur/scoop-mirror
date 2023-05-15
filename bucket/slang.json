@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/shader-slang/slang/releases/download/v0.27.21/slang-0.27.21-win64.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/shader-slang/slang/releases/download/v0.27.21/slang-0.27.21-win64.zip",
             "hash": "105e80967ce585add4a9312808aeb2f08a603212f0a0cdd833178fd8752a4c4a",
             "bin": [
                 "bin/windows-x64/release/slangc.exe",
@@ -13,7 +13,7 @@
             ]
         },
         "32bit": {
-            "url": "https://ghproxy.com/github.com/shader-slang/slang/releases/download/v0.27.21/slang-0.27.21-win32.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/shader-slang/slang/releases/download/v0.27.21/slang-0.27.21-win32.zip",
             "hash": "e1c4f934df1dfdb6d075566a65210156f7d9cd6e5474e94f8db1cb4052ebbab6",
             "bin": [
                 "bin/windows-x86/release/slangc.exe",
@@ -21,7 +21,7 @@
             ]
         },
         "arm64": {
-            "url": "https://ghproxy.com/github.com/shader-slang/slang/releases/download/v0.27.21/slang-0.27.21-win-arm64.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/shader-slang/slang/releases/download/v0.27.21/slang-0.27.21-win-arm64.zip",
             "hash": "cb86262b34ecbda73c16314e27e5d366066b1443df8a7b613f86abd9cd0e8ecb",
             "bin": [
                 "bin/windows-aarch64/release/slangc.exe",
@@ -35,13 +35,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/shader-slang/slang/releases/download/v$version/slang-$version-win64.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/shader-slang/slang/releases/download/v$version/slang-$version-win64.zip"
             },
             "32bit": {
-                "url": "https://ghproxy.com/github.com/shader-slang/slang/releases/download/v$version/slang-$version-win32.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/shader-slang/slang/releases/download/v$version/slang-$version-win32.zip"
             },
             "arm64": {
-                "url": "https://ghproxy.com/github.com/shader-slang/slang/releases/download/v$version/slang-$version-win-arm64.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/shader-slang/slang/releases/download/v$version/slang-$version-win-arm64.zip"
             }
         }
     }

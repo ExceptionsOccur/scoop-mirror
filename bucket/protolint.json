@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/yoheimuta/protolint/releases/download/v0.44.0/protolint_0.44.0_Windows_x86_64.tar.gz",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/yoheimuta/protolint/releases/download/v0.44.0/protolint_0.44.0_Windows_x86_64.tar.gz",
             "hash": "8352a1cae8cacbf8d058501ea3a749e3a68831aee8b06d6ce74f26dcb0ad3523"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/yoheimuta/protolint/releases/download/v$version/protolint_$version_Windows_x86_64.tar.gz"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/yoheimuta/protolint/releases/download/v$version/protolint_$version_Windows_x86_64.tar.gz"
             }
         },
         "hash": {

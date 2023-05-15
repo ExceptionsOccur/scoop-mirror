@@ -6,7 +6,7 @@
     "extract_dir": "ColorControl",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/Maassoft/ColorControl/releases/download/v9.4.0.0/ColorControl.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Maassoft/ColorControl/releases/download/v9.4.0.0/ColorControl.zip",
             "hash": "a31d5c426fa89876ef933a369c9bdf112c23544d03a22c7094ebf8a8050efcd3"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/Maassoft/ColorControl/releases/download/v$version/ColorControl.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Maassoft/ColorControl/releases/download/v$version/ColorControl.zip"
             }
         }
     }

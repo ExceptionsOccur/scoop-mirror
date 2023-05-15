@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/oschwartz10612/poppler-windows/releases/download/v23.05.0-0/Release-23.05.0-0.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/oschwartz10612/poppler-windows/releases/download/v23.05.0-0/Release-23.05.0-0.zip",
             "hash": "2ae51c1deee696e1124752a0b4bf7f7b33087aa4969862970d35d37c41666fc9"
         }
     },
@@ -31,7 +31,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/oschwartz10612/poppler-windows/releases/download/v$version/Release-$version.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/oschwartz10612/poppler-windows/releases/download/v$version/Release-$version.zip"
             }
         },
         "extract_dir": "poppler-$matchHead\\Library"

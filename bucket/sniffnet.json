@@ -7,8 +7,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://ghproxy.com/github.com/GyulyVGC/sniffnet/releases/download/v1.1.4/Sniffnet_Windows.msi",
-                "https://ghproxy.com/github.com/GyulyVGC/sniffnet/raw/v1.1.4/resources/logos/icon.ico"
+                "https://ghgo.feizhuqwq.workers.dev/github.com/GyulyVGC/sniffnet/releases/download/v1.1.4/Sniffnet_Windows.msi",
+                "https://ghgo.feizhuqwq.workers.dev/github.com/GyulyVGC/sniffnet/raw/v1.1.4/resources/logos/icon.ico"
             ],
             "hash": [
                 "225a15edca811347a928e485309f559cb289777a64a02a5f11b4968f95703cfc",
@@ -31,8 +31,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://ghproxy.com/github.com/GyulyVGC/sniffnet/releases/download/v$version/Sniffnet_Windows.msi",
-                    "https://ghproxy.com/github.com/GyulyVGC/sniffnet/raw/v$version/resources/logos/icon.ico"
+                    "https://ghgo.feizhuqwq.workers.dev/github.com/GyulyVGC/sniffnet/releases/download/v$version/Sniffnet_Windows.msi",
+                    "https://ghgo.feizhuqwq.workers.dev/github.com/GyulyVGC/sniffnet/raw/v$version/resources/logos/icon.ico"
                 ]
             }
         }

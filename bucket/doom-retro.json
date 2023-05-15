@@ -22,11 +22,11 @@
     ],
     "architecture": {
         "32bit": {
-            "url": "https://ghproxy.com/github.com/bradharding/doomretro/releases/download/v4.9.2/doomretro-4.9.2-win32.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/bradharding/doomretro/releases/download/v4.9.2/doomretro-4.9.2-win32.zip",
             "hash": "cc32657e496abe056b68c19f266e022e843885d86e54bbb87b600e17e2e32f03"
         },
         "64bit": {
-            "url": "https://ghproxy.com/github.com/bradharding/doomretro/releases/download/v4.9.2/doomretro-4.9.2-win64.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/bradharding/doomretro/releases/download/v4.9.2/doomretro-4.9.2-win64.zip",
             "hash": "5e9c4e9a7aa0129d46119924691f73d23e3bc2ecc80adbdf049883d39a089b53"
         }
     },
@@ -56,10 +56,10 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://ghproxy.com/github.com/bradharding/doomretro/releases/download/v$version/doomretro-$version-win32.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/bradharding/doomretro/releases/download/v$version/doomretro-$version-win32.zip"
             },
             "64bit": {
-                "url": "https://ghproxy.com/github.com/bradharding/doomretro/releases/download/v$version/doomretro-$version-win64.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/bradharding/doomretro/releases/download/v$version/doomretro-$version-win64.zip"
             }
         }
     }

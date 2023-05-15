@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/tailwindlabs/tailwindcss/releases/download/v3.3.2/tailwindcss-windows-x64.exe#/tailwindcss.exe",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/tailwindlabs/tailwindcss/releases/download/v3.3.2/tailwindcss-windows-x64.exe#/tailwindcss.exe",
             "hash": "6b7a24ac88c1140f53e0c581419b5b052f75ddec5725e872348f2aa166c77f4a"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/tailwindlabs/tailwindcss/releases/download/v$version/tailwindcss-windows-x64.exe#/tailwindcss.exe"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/tailwindlabs/tailwindcss/releases/download/v$version/tailwindcss-windows-x64.exe#/tailwindcss.exe"
             }
         }
     }

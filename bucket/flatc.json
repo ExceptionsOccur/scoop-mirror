@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/google/flatbuffers/releases/download/v23.5.9/Windows.flatc.binary.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/google/flatbuffers/releases/download/v23.5.9/Windows.flatc.binary.zip",
             "hash": "00a5f6c0765c95e5846f6f5ada9af9dc70aaf57cb1c8ebca78cd701b50e380ff"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/google/flatbuffers/releases/download/v$version/Windows.flatc.binary.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/google/flatbuffers/releases/download/v$version/Windows.flatc.binary.zip"
             }
         }
     }

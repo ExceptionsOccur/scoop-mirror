@@ -3,7 +3,7 @@
     "description": "Nerd Fonts patched 'SpaceMono' Font family. (Proportional version, for GUI usecases)",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
     "license": "MIT",
-    "url": "https://ghproxy.com/github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/SpaceMono.zip",
+    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/SpaceMono.zip",
     "hash": "84e0fb6e4b1cf0a8b527a07ecdf11f71ea89554ee6e5e832ba0b9d2d58690c83",
     "installer": {
         "script": [
@@ -87,6 +87,6 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghproxy.com/github.com/ryanoasis/nerd-fonts/releases/download/v$version/SpaceMono.zip"
+        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ryanoasis/nerd-fonts/releases/download/v$version/SpaceMono.zip"
     }
 }

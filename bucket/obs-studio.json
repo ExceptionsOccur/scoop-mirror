@@ -9,7 +9,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/obsproject/obs-studio/releases/download/29.1/OBS-Studio-29.1-Full.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/obsproject/obs-studio/releases/download/29.1/OBS-Studio-29.1-Full.zip",
             "hash": "bb6c18f9a9bf0ca847e7d20b8afee76c39b2bbec0f7612c6fb899f773ee12f27",
             "shortcuts": [
                 [
@@ -37,7 +37,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/obsproject/obs-studio/releases/download/$version/OBS-Studio-$version-Full.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/obsproject/obs-studio/releases/download/$version/OBS-Studio-$version-Full.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/responsively-org/responsively-app-releases/releases/download/v1.2.2/ResponsivelyApp-Setup-1.2.2.exe#/dl.7z",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/responsively-org/responsively-app-releases/releases/download/v1.2.2/ResponsivelyApp-Setup-1.2.2.exe#/dl.7z",
             "hash": "sha512:bdf9aa8a48fa18c260849a546daf5eb1ca241572da33b898cf844014274161bf9707753cf79c8b05f3ee53e7067b456a12251d30412dd6fd1cb2756615f4b1ee",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" -DestinationPath \"$dir\"",
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/responsively-org/responsively-app-releases/releases/download/v$version/ResponsivelyApp-Setup-$version.exe#/dl.7z"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/responsively-org/responsively-app-releases/releases/download/v$version/ResponsivelyApp-Setup-$version.exe#/dl.7z"
             }
         },
         "hash": {

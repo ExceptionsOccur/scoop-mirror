@@ -5,11 +5,11 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "32bit": {
-            "url": "https://ghproxy.com/github.com/orhun/git-cliff/releases/download/v1.2.0/git-cliff-1.2.0-i686-pc-windows-msvc.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/orhun/git-cliff/releases/download/v1.2.0/git-cliff-1.2.0-i686-pc-windows-msvc.zip",
             "hash": "dfcc311ece4e7bdd23ad94eb7df10ccf7783fc5c67e2fa2f1eda2f1e04c088dd"
         },
         "64bit": {
-            "url": "https://ghproxy.com/github.com/orhun/git-cliff/releases/download/v1.2.0/git-cliff-1.2.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/orhun/git-cliff/releases/download/v1.2.0/git-cliff-1.2.0-x86_64-pc-windows-msvc.zip",
             "hash": "8f8412bc3ae7da3a7ee16fa10fe3b0003ac4bfcafd7d1fdceb744df952a97c23"
         }
     },
@@ -19,10 +19,10 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://ghproxy.com/github.com/orhun/git-cliff/releases/download/v$version/git-cliff-$version-i686-pc-windows-msvc.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/orhun/git-cliff/releases/download/v$version/git-cliff-$version-i686-pc-windows-msvc.zip"
             },
             "64bit": {
-                "url": "https://ghproxy.com/github.com/orhun/git-cliff/releases/download/v$version/git-cliff-$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/orhun/git-cliff/releases/download/v$version/git-cliff-$version-x86_64-pc-windows-msvc.zip"
             }
         },
         "extract_dir": "git-cliff-$version"

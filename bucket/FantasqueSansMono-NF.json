@@ -3,7 +3,7 @@
     "description": "Nerd Fonts patched 'FantasqueSansMono' Font family. (Normal version, Nerd Fonts Symbol/Icon could be 1 or 2 cell wide)",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
     "license": "MIT",
-    "url": "https://ghproxy.com/github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/FantasqueSansMono.zip",
+    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/FantasqueSansMono.zip",
     "hash": "72d029291d7a40919d22a5758396daf63f01a0377b5efdec972e20e521a412e6",
     "installer": {
         "script": [
@@ -87,6 +87,6 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghproxy.com/github.com/ryanoasis/nerd-fonts/releases/download/v$version/FantasqueSansMono.zip"
+        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ryanoasis/nerd-fonts/releases/download/v$version/FantasqueSansMono.zip"
     }
 }

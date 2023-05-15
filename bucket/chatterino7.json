@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/SevenTV/chatterino7/releases/download/v7.4.3/Chatterino7.Qt5.Portable.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/SevenTV/chatterino7/releases/download/v7.4.3/Chatterino7.Qt5.Portable.zip",
             "hash": "149da9aee50cc1a31bba7ca173eed681985e5c740c1dfe2b76887d8009c1edcf"
         }
     },
@@ -33,7 +33,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/SevenTV/chatterino7/releases/download/v$version/Chatterino7.Qt5.Portable.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/SevenTV/chatterino7/releases/download/v$version/Chatterino7.Qt5.Portable.zip"
             }
         },
         "hash": {

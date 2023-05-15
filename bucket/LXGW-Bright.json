@@ -4,12 +4,12 @@
     "homepage": "https://github.com/lxgw/LxgwBright",
     "license": "OFL-1.1",
     "url": [
-        "https://ghproxy.com/raw.githubusercontent.com/lxgw/LxgwBright/v5.300/LXGWBright/LXGWBright-Italic.otf",
-        "https://ghproxy.com/raw.githubusercontent.com/lxgw/LxgwBright/v5.300/LXGWBright/LXGWBright-Medium.otf",
-        "https://ghproxy.com/raw.githubusercontent.com/lxgw/LxgwBright/v5.300/LXGWBright/LXGWBright-MediumItalic.otf",
-        "https://ghproxy.com/raw.githubusercontent.com/lxgw/LxgwBright/v5.300/LXGWBright/LXGWBright-Regular.otf",
-        "https://ghproxy.com/raw.githubusercontent.com/lxgw/LxgwBright/v5.300/LXGWBright/LXGWBright-SemiLight.otf",
-        "https://ghproxy.com/raw.githubusercontent.com/lxgw/LxgwBright/v5.300/LXGWBright/LXGWBright-SemiLightItalic.otf"
+        "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/lxgw/LxgwBright/v5.300/LXGWBright/LXGWBright-Italic.otf",
+        "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/lxgw/LxgwBright/v5.300/LXGWBright/LXGWBright-Medium.otf",
+        "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/lxgw/LxgwBright/v5.300/LXGWBright/LXGWBright-MediumItalic.otf",
+        "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/lxgw/LxgwBright/v5.300/LXGWBright/LXGWBright-Regular.otf",
+        "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/lxgw/LxgwBright/v5.300/LXGWBright/LXGWBright-SemiLight.otf",
+        "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/lxgw/LxgwBright/v5.300/LXGWBright/LXGWBright-SemiLightItalic.otf"
     ],
     "hash": [
         "250a02f9c9d88ad28ce0893b950a4c10742e34bd4ea4dbd7405c76edea05c1ee",
@@ -102,12 +102,12 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://ghproxy.com/raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-Italic.otf",
-            "https://ghproxy.com/raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-Medium.otf",
-            "https://ghproxy.com/raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-MediumItalic.otf",
-            "https://ghproxy.com/raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-Regular.otf",
-            "https://ghproxy.com/raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-SemiLight.otf",
-            "https://ghproxy.com/raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-SemiLightItalic.otf"
+            "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-Italic.otf",
+            "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-Medium.otf",
+            "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-MediumItalic.otf",
+            "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-Regular.otf",
+            "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-SemiLight.otf",
+            "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-SemiLightItalic.otf"
         ]
     }
 }

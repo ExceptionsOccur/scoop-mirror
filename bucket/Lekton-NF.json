@@ -3,7 +3,7 @@
     "description": "Nerd Fonts patched 'Lekton' Font family. (Normal version, Nerd Fonts Symbol/Icon could be 1 or 2 cell wide)",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
     "license": "MIT",
-    "url": "https://ghproxy.com/github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Lekton.zip",
+    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Lekton.zip",
     "hash": "1f4489ddc3fed6f008684d52a10d60f0d0c4b90062a77a00c56f8278a2678958",
     "installer": {
         "script": [
@@ -87,6 +87,6 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghproxy.com/github.com/ryanoasis/nerd-fonts/releases/download/v$version/Lekton.zip"
+        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ryanoasis/nerd-fonts/releases/download/v$version/Lekton.zip"
     }
 }

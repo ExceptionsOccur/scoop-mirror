@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/Suwayomi/Tachidesk-Server-preview/releases/download/v0.7.0-r1266/Tachidesk-Server-v0.7.0-r1266-windows-x64.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Suwayomi/Tachidesk-Server-preview/releases/download/v0.7.0-r1266/Tachidesk-Server-v0.7.0-r1266-windows-x64.zip",
             "hash": "db46b4260c490669d900def5944b24ed5bec77e6462e20ffb2504380130fd6c6",
             "extract_dir": "Tachidesk-Server-v0.7.0-r1266-windows-x64"
         },
         "32bit": {
-            "url": "https://ghproxy.com/github.com/Suwayomi/Tachidesk-Server-preview/releases/download/v0.7.0-r1266/Tachidesk-Server-v0.7.0-r1266-windows-x86.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Suwayomi/Tachidesk-Server-preview/releases/download/v0.7.0-r1266/Tachidesk-Server-v0.7.0-r1266-windows-x86.zip",
             "hash": "ed2efcdb1a5f61cce32819f45dd1c98988fb915502300913e8ad222ce493b2bd",
             "extract_dir": "Tachidesk-Server-v0.7.0-r1266-windows-x86"
         }
@@ -31,11 +31,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/Suwayomi/Tachidesk-Server-preview/releases/download/v$version/Tachidesk-Server-v$version-windows-x64.zip",
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Suwayomi/Tachidesk-Server-preview/releases/download/v$version/Tachidesk-Server-v$version-windows-x64.zip",
                 "extract_dir": "Tachidesk-Server-v$version-windows-x64"
             },
             "32bit": {
-                "url": "https://ghproxy.com/github.com/Suwayomi/Tachidesk-Server-preview/releases/download/v$version/Tachidesk-Server-v$version-windows-x86.zip",
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Suwayomi/Tachidesk-Server-preview/releases/download/v$version/Tachidesk-Server-v$version-windows-x86.zip",
                 "extract_dir": "Tachidesk-Server-v$version-windows-x86"
             }
         }

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/buttercup/buttercup-desktop/releases/download/v2.20.2/Buttercup-win-x64-2.20.2.7z",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/buttercup/buttercup-desktop/releases/download/v2.20.2/Buttercup-win-x64-2.20.2.7z",
             "hash": "0c9573fcc9cc2174235a16a66f2520bd4cb2fa88440c68dcf8d0854241c5e303"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/buttercup/buttercup-desktop/releases/download/v$version/Buttercup-win-x64-$version.7z"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/buttercup/buttercup-desktop/releases/download/v$version/Buttercup-win-x64-$version.7z"
             }
         }
     }

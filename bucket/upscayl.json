@@ -5,7 +5,7 @@
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/upscayl/upscayl/releases/download/v2.5.1/upscayl-2.5.1-win.exe#/dl.7z",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/upscayl/upscayl/releases/download/v2.5.1/upscayl-2.5.1-win.exe#/dl.7z",
             "hash": "sha512:e2a5a89554d4c7521069637add45cdf3f98f9a5ced8d5ee03a99beca2ebde4c000966ec116cd5a29af4f99a8472c8894899854eb1394fdad9875140c21d1f8a0"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/upscayl/upscayl/releases/download/v$version/upscayl-$version-win.exe#/dl.7z"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/upscayl/upscayl/releases/download/v$version/upscayl-$version-win.exe#/dl.7z"
             }
         },
         "hash": {

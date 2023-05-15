@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/sumneko/lua-language-server/releases/download/3.6.19/lua-language-server-3.6.19-win32-x64.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/sumneko/lua-language-server/releases/download/3.6.19/lua-language-server-3.6.19-win32-x64.zip",
             "hash": "02ddcf545e1093d3b24a7908c0e627fafb1faafa70191c107d8e04ae15b7b0b9"
         },
         "32bit": {
-            "url": "https://ghproxy.com/github.com/sumneko/lua-language-server/releases/download/3.6.19/lua-language-server-3.6.19-win32-ia32.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/sumneko/lua-language-server/releases/download/3.6.19/lua-language-server-3.6.19-win32-ia32.zip",
             "hash": "b4cf050268b6e7954fe586e5ff5401ff90208b424e5b6590b9691ec00283c59b"
         }
     },
@@ -19,10 +19,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/sumneko/lua-language-server/releases/download/$version/lua-language-server-$version-win32-x64.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/sumneko/lua-language-server/releases/download/$version/lua-language-server-$version-win32-x64.zip"
             },
             "32bit": {
-                "url": "https://ghproxy.com/github.com/sumneko/lua-language-server/releases/download/$version/lua-language-server-$version-win32-ia32.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/sumneko/lua-language-server/releases/download/$version/lua-language-server-$version-win32-ia32.zip"
             }
         }
     }

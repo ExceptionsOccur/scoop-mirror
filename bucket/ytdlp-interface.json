@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/ErrorFlynn/ytdlp-interface/releases/download/v2.2.1/ytdlp-interface.7z",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ErrorFlynn/ytdlp-interface/releases/download/v2.2.1/ytdlp-interface.7z",
             "hash": "9da729be324996099cf7decbec158cdc24a62ce1c6fc4295a35cce84172c3802",
             "pre_install": "if (!(Test-Path \"$persist_dir\\ytdlp-interface.json\")) { Set-Content \"$dir\\ytdlp-interface.json\" '{}' -Encoding Ascii }",
             "shortcuts": [
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/ErrorFlynn/ytdlp-interface/releases/download/v$version/ytdlp-interface.7z"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ErrorFlynn/ytdlp-interface/releases/download/v$version/ytdlp-interface.7z"
             }
         }
     }

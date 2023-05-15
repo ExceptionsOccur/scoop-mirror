@@ -3,7 +3,7 @@
     "description": "Nerd Fonts patched 'IBMPlexMono' Font family. (Proportional version, for GUI usecases)",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
     "license": "MIT",
-    "url": "https://ghproxy.com/github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/IBMPlexMono.zip",
+    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/IBMPlexMono.zip",
     "hash": "649550a4b45fbf0cfccd859ae665c6c11d94f870a5ac5e2de17a9e07b69d88e8",
     "installer": {
         "script": [
@@ -87,6 +87,6 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghproxy.com/github.com/ryanoasis/nerd-fonts/releases/download/v$version/IBMPlexMono.zip"
+        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ryanoasis/nerd-fonts/releases/download/v$version/IBMPlexMono.zip"
     }
 }

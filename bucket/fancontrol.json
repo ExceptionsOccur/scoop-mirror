@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/Rem0o/FanControl.Releases/releases/download/V156/FanControl_net_7_0.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Rem0o/FanControl.Releases/releases/download/V156/FanControl_net_7_0.zip",
             "hash": "6be7d93a80805e6e989044b1c2155f4b62f9917b650a7c2107ca772de1a4258a"
         }
     },
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/Rem0o/FanControl.Releases/releases/download/V$version/FanControl_net_$matchNetver.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Rem0o/FanControl.Releases/releases/download/V$version/FanControl_net_$matchNetver.zip"
             }
         }
     }

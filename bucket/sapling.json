@@ -17,7 +17,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/facebook/sapling/releases/download/0.2.20230426-145232+7ea1f245/sapling_windows_0.2.20230426-145232+7ea1f245_amd64.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/facebook/sapling/releases/download/0.2.20230426-145232+7ea1f245/sapling_windows_0.2.20230426-145232+7ea1f245_amd64.zip",
             "hash": "eda1f2dc0aa7c0d7600d1d1a3b29e7311aecd6a1ff9cd2776c3efd3cd7435983"
         }
     },
@@ -32,7 +32,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/facebook/sapling/releases/download/$matchTag/sapling_windows_$matchTag_amd64.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/facebook/sapling/releases/download/$matchTag/sapling_windows_$matchTag_amd64.zip"
             }
         }
     }

@@ -10,7 +10,7 @@
     "suggest": {
         "vcredist": "extras/vcredist"
     },
-    "url": "https://ghproxy.com/github.com/microsoft/winget-cli/releases/download/v1.5.1081-preview/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle#/dl.7z",
+    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/microsoft/winget-cli/releases/download/v1.5.1081-preview/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle#/dl.7z",
     "hash": "6af974fff6fe266a478fccb5811e9c1844f039c6f02d5c4373bdd879bd184df5",
     "architecture": {
         "64bit": {
@@ -29,9 +29,9 @@
         "regex": "tag/v([\\d.]+)-preview"
     },
     "autoupdate": {
-        "url": "https://ghproxy.com/github.com/microsoft/winget-cli/releases/download/v$version-preview/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle#/dl.7z",
+        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/microsoft/winget-cli/releases/download/v$version-preview/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle#/dl.7z",
         "hash": {
-            "url": "https://ghproxy.com/github.com/microsoft/winget-cli/releases/download/v$version-preview/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.txt"
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/microsoft/winget-cli/releases/download/v$version-preview/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.txt"
         }
     }
 }

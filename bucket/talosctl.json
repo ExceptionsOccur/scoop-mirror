@@ -5,7 +5,7 @@
     "license": " MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/siderolabs/talos/releases/download/v1.4.4/talosctl-windows-amd64.exe#/talosctl.exe",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/siderolabs/talos/releases/download/v1.4.4/talosctl-windows-amd64.exe#/talosctl.exe",
             "hash": "cd2e6c2595494c6736b6a5e15345b989ae12c9f401f9a0a5664d8db1d58e1ea6"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/siderolabs/talos/releases/download/v$version/talosctl-windows-amd64.exe#/talosctl.exe"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/siderolabs/talos/releases/download/v$version/talosctl-windows-amd64.exe#/talosctl.exe"
             }
         },
         "hash": {

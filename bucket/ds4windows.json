@@ -9,11 +9,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/Ryochan7/DS4Windows/releases/download/v3.2.10/DS4Windows_3.2.10_x64.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Ryochan7/DS4Windows/releases/download/v3.2.10/DS4Windows_3.2.10_x64.zip",
             "hash": "107526450a06ad7e8538704e86203822a3cd37a724e3db3320dd3f1f73128a06"
         },
         "32bit": {
-            "url": "https://ghproxy.com/github.com/Ryochan7/DS4Windows/releases/download/v3.2.10/DS4Windows_3.2.10_x86.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Ryochan7/DS4Windows/releases/download/v3.2.10/DS4Windows_3.2.10_x86.zip",
             "hash": "ba85da2bf013d71bbdbc65637c5a9cf650501bae25d465f9dc65e4b2a210c02f"
         }
     },
@@ -68,10 +68,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/Ryochan7/DS4Windows/releases/download/v$version/DS4Windows_$version_x64.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Ryochan7/DS4Windows/releases/download/v$version/DS4Windows_$version_x64.zip"
             },
             "32bit": {
-                "url": "https://ghproxy.com/github.com/Ryochan7/DS4Windows/releases/download/v$version/DS4Windows_$version_x86.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Ryochan7/DS4Windows/releases/download/v$version/DS4Windows_$version_x86.zip"
             }
         }
     }

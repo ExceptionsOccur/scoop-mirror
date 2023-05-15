@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/ThaUnknown/miru/releases/download/v3.10.4/win-Miru-3.10.4.exe#/dl.7z",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ThaUnknown/miru/releases/download/v3.10.4/win-Miru-3.10.4.exe#/dl.7z",
             "hash": "sha512:273520c2f0a0f089f8dc168b316d86c300a3e84698e95580825b02d242a96c9cb7c76e1a80fad4dca17a520a2db26bdcfb1e9dc305e97ec58851f6e5c80a1a18"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/ThaUnknown/miru/releases/download/v$version/win-Miru-$version.exe#/dl.7z",
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ThaUnknown/miru/releases/download/v$version/win-Miru-$version.exe#/dl.7z",
                 "hash": {
                     "url": "$baseurl/latest.yml",
                     "regex": "sha512:\\s+$base64"

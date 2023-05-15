@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/ankitects/anki/releases/download/2.1.62/anki-2.1.62-windows-qt6.exe#/installer.exe",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ankitects/anki/releases/download/2.1.62/anki-2.1.62-windows-qt6.exe#/installer.exe",
             "hash": "e0a22c418c85af852962e2afca5c7d4720a913115b475b596cf3783919d31ff5"
         }
     },
@@ -38,7 +38,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/ankitects/anki/releases/download/$version/anki-$version-windows-qt6.exe#/installer.exe"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ankitects/anki/releases/download/$version/anki-$version-windows-qt6.exe#/installer.exe"
             }
         },
         "hash": {

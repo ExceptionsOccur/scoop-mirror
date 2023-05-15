@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-2023-05-14-12-33/ffmpeg-n6.0-18-g27205c0b47-win64-gpl-6.0.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-2023-05-14-12-33/ffmpeg-n6.0-18-g27205c0b47-win64-gpl-6.0.zip",
             "hash": "882a8ed53a51edd12b1537e10c8c64ba0b36439514877eeb643c0c9b688280e6",
             "extract_dir": "ffmpeg-n6.0-18-g27205c0b47-win64-gpl-6.0"
         },
         "32bit": {
-            "url": "https://ghproxy.com/github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-2023-05-14-12-33/ffmpeg-n6.0-18-g27205c0b47-win32-gpl-6.0.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-2023-05-14-12-33/ffmpeg-n6.0-18-g27205c0b47-win32-gpl-6.0.zip",
             "hash": "7bb91c69c3ab03e2c12b21da92754490588b898ec2472efe573c230bce6583b9",
             "extract_dir": "ffmpeg-n6.0-18-g27205c0b47-win32-gpl-6.0"
         }
@@ -47,11 +47,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/$matchFilename64bit.zip",
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/$matchFilename64bit.zip",
                 "extract_dir": "$matchFilename64bit"
             },
             "32bit": {
-                "url": "https://ghproxy.com/github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/$matchFilename32bit.zip",
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/$matchFilename32bit.zip",
                 "extract_dir": "$matchFilename32bit"
             }
         }

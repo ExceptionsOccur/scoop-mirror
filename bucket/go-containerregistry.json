@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/google/go-containerregistry/releases/download/v0.15.1/go-containerregistry_Windows_x86_64.tar.gz",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/google/go-containerregistry/releases/download/v0.15.1/go-containerregistry_Windows_x86_64.tar.gz",
             "hash": "c47838d10b7616560bd96391ae782e07a7449a5f09c6dff98f1c27f269424e60"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/google/go-containerregistry/releases/download/v$version/go-containerregistry_Windows_x86_64.tar.gz"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/google/go-containerregistry/releases/download/v$version/go-containerregistry_Windows_x86_64.tar.gz"
             }
         },
         "hash": {

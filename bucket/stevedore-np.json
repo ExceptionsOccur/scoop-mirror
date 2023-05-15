@@ -9,7 +9,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/slonopotamus/stevedore/releases/download/0.13.0/stevedore-0.13.0-x86_64.msi#/setup.msi_",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/slonopotamus/stevedore/releases/download/0.13.0/stevedore-0.13.0-x86_64.msi#/setup.msi_",
             "hash": "5c56b5704dceb3559ae4254e2b63a478130b3c6f9e8ec2803127284a853717ec"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/slonopotamus/stevedore/releases/download/$version/stevedore-$version-x86_64.msi#/setup.msi_"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/slonopotamus/stevedore/releases/download/$version/stevedore-$version-x86_64.msi#/setup.msi_"
             }
         }
     }

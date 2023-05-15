@@ -6,7 +6,7 @@
     "notes": "Look Mobel *.bin weights at https://rentry.org/nur779",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/LostRuins/koboldcpp/releases/download/v1.21.3/koboldcpp.exe",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/LostRuins/koboldcpp/releases/download/v1.21.3/koboldcpp.exe",
             "hash": "1de77f8d5d357ef9e2388336d2f979e1fc0f1ec21de7911e4354dce5d6320efc"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/LostRuins/koboldcpp/releases/download/v$version/koboldcpp.exe"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/LostRuins/koboldcpp/releases/download/v$version/koboldcpp.exe"
             }
         }
     }

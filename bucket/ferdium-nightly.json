@@ -3,7 +3,7 @@
     "description": "All-in-one messaging apps for various services",
     "homepage": "https://github.com/ferdium/ferdium-app",
     "license": "Apache-2.0",
-    "url": "https://ghproxy.com/github.com/ferdium/ferdium-app/releases/download/v6.3.0-nightly.5/Ferdium-win-AutoSetup-6.3.0-nightly.5.exe#/dl.7z",
+    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ferdium/ferdium-app/releases/download/v6.3.0-nightly.5/Ferdium-win-AutoSetup-6.3.0-nightly.5.exe#/dl.7z",
     "hash": "sha512:c0fdaf74cd26d147132215b36efcd968a3b06878e816b5f370a0cf06257ff71804d43a7531bfee6b31b78bc28a68833ca03375f2c582122d479e5316c64475d8",
     "architecture": {
         "64bit": {
@@ -29,7 +29,7 @@
         "regex": "/releases/tag/(?:v|V)?([\\d\\-nightly.]+)"
     },
     "autoupdate": {
-        "url": "https://ghproxy.com/github.com/ferdium/ferdium-app/releases/download/v$version/Ferdium-win-AutoSetup-$version.exe#/dl.7z",
+        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ferdium/ferdium-app/releases/download/v$version/Ferdium-win-AutoSetup-$version.exe#/dl.7z",
         "hash": {
             "url": "$baseurl/latest.yml",
             "regex": "sha512:\\s+$base64"

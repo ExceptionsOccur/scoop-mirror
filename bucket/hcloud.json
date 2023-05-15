@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/hetznercloud/cli/releases/download/v1.33.2/hcloud-windows-amd64.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/hetznercloud/cli/releases/download/v1.33.2/hcloud-windows-amd64.zip",
             "hash": "26abcbc7fb1f7343b11d33c07cfdddbbe2fb801a10ad0b961cb83959bba9c324"
         },
         "32bit": {
-            "url": "https://ghproxy.com/github.com/hetznercloud/cli/releases/download/v1.33.2/hcloud-windows-386.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/hetznercloud/cli/releases/download/v1.33.2/hcloud-windows-386.zip",
             "hash": "6b16f5ffe18a2c6ca5ddb58731baa2e0ceeb7270153a7294a1264dac0480b517"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/hetznercloud/cli/releases/download/v$version/hcloud-windows-amd64.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/hetznercloud/cli/releases/download/v$version/hcloud-windows-amd64.zip"
             },
             "32bit": {
-                "url": "https://ghproxy.com/github.com/hetznercloud/cli/releases/download/v$version/hcloud-windows-386.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/hetznercloud/cli/releases/download/v$version/hcloud-windows-386.zip"
             }
         },
         "hash": {

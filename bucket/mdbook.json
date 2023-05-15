@@ -5,7 +5,7 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/rust-lang/mdBook/releases/download/v0.4.29/mdbook-v0.4.29-x86_64-pc-windows-msvc.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/rust-lang/mdBook/releases/download/v0.4.29/mdbook-v0.4.29-x86_64-pc-windows-msvc.zip",
             "hash": "ff2b491b41ecd65350137278e72f8ef10c161374cd47c474fc2a196c37f5e03e"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/rust-lang/mdBook/releases/download/v$version/mdbook-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/rust-lang/mdBook/releases/download/v$version/mdbook-v$version-x86_64-pc-windows-msvc.zip"
             }
         }
     }

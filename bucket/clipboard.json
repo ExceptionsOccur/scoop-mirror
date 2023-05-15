@@ -5,11 +5,11 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/Slackadays/Clipboard/releases/download/0.7.1/clipboard-windows-amd64.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Slackadays/Clipboard/releases/download/0.7.1/clipboard-windows-amd64.zip",
             "hash": "660ee5568d9d573b0beef2919630bae2520f111eb92257289f4f8a619c5e75d9"
         },
         "arm64": {
-            "url": "https://ghproxy.com/github.com/Slackadays/Clipboard/releases/download/0.7.1/clipboard-windows-arm64.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Slackadays/Clipboard/releases/download/0.7.1/clipboard-windows-arm64.zip",
             "hash": "42dcdeaa7ab81fee5ef7a63cd66a1a7f36961a05353b55be9214bbc310d1490b"
         }
     },
@@ -19,10 +19,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/Slackadays/Clipboard/releases/download/$version/clipboard-windows-amd64.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Slackadays/Clipboard/releases/download/$version/clipboard-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://ghproxy.com/github.com/Slackadays/Clipboard/releases/download/$version/clipboard-windows-arm64.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Slackadays/Clipboard/releases/download/$version/clipboard-windows-arm64.zip"
             }
         }
     }

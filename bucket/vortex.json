@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/Nexus-Mods/Vortex/releases/download/v1.8.1/vortex-setup-1.8.1.exe#/dl.7z",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Nexus-Mods/Vortex/releases/download/v1.8.1/vortex-setup-1.8.1.exe#/dl.7z",
             "hash": "7b5505946da6839819ba9702dbae5488a8c6ec02d0c05a17860aaa286fcdbd5d",
             "installer": {
                 "script": [
@@ -27,9 +27,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/Nexus-Mods/Vortex/releases/download/v$version/vortex-setup-$version.exe#/dl.7z",
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Nexus-Mods/Vortex/releases/download/v$version/vortex-setup-$version.exe#/dl.7z",
                 "hash": {
-                    "url": "https://ghproxy.com/github.com/Nexus-Mods/Vortex/releases/download/v$version/latest.yml",
+                    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Nexus-Mods/Vortex/releases/download/v$version/latest.yml",
                     "find": "sha2: $sha256"
                 }
             }

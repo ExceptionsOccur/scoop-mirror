@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/sindresorhus/caprine/releases/download/v2.57.4/Caprine-Setup-2.57.4.exe#/dl.7z",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/sindresorhus/caprine/releases/download/v2.57.4/Caprine-Setup-2.57.4.exe#/dl.7z",
             "hash": "f6f418fa81414e6eacc3d4b6a8a4d087008d6d56a4e0033ede066baa3efc3f03",
             "installer": {
                 "script": [
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/sindresorhus/caprine/releases/download/v$version/Caprine-Setup-$version.exe#/dl.7z"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/sindresorhus/caprine/releases/download/v$version/Caprine-Setup-$version.exe#/dl.7z"
             }
         }
     }

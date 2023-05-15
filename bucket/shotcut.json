@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/mltframework/shotcut/releases/download/v23.05.14/shotcut-win64-230514.zip",
+            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/mltframework/shotcut/releases/download/v23.05.14/shotcut-win64-230514.zip",
             "hash": "fc6b07bed6ef8431c51779c9a98801fc3f480a1eecb48a9c9d6ad07213fa2533"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/mltframework/shotcut/releases/download/v$version/shotcut-win64-$cleanVersion.zip"
+                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/mltframework/shotcut/releases/download/v$version/shotcut-win64-$cleanVersion.zip"
             }
         },
         "hash": {

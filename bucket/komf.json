@@ -8,11 +8,11 @@
         "Java17": "java/openjdk17",
         "Komga": "extras/komga"
     },
-    "url": "https://ghproxy.com/github.com/Snd-R/komf/releases/download/0.29.0/komf-0.29.0.jar#/komf.jar",
+    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Snd-R/komf/releases/download/0.29.0/komf-0.29.0.jar#/komf.jar",
     "hash": "01bd266a5f0f34bbfa5cf8af8310fb10adb06264f7e488697fd42717815c7180",
     "bin": "komf.jar",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghproxy.com/github.com/Snd-R/komf/releases/download/$version/komf-$version.jar#/komf.jar"
+        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Snd-R/komf/releases/download/$version/komf-$version.jar#/komf.jar"
     }
 }

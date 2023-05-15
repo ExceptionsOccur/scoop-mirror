@@ -9,9 +9,9 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://ghproxy.com/github.com/bazelbuild/buildtools/releases/download/v6.1.2/buildifier-windows-amd64.exe#/buildifier.exe",
-                "https://ghproxy.com/github.com/bazelbuild/buildtools/releases/download/v6.1.2/buildozer-windows-amd64.exe#/buildozer.exe",
-                "https://ghproxy.com/github.com/bazelbuild/buildtools/releases/download/v6.1.2/unused_deps-windows-amd64.exe#/unused_deps.exe"
+                "https://ghgo.feizhuqwq.workers.dev/github.com/bazelbuild/buildtools/releases/download/v6.1.2/buildifier-windows-amd64.exe#/buildifier.exe",
+                "https://ghgo.feizhuqwq.workers.dev/github.com/bazelbuild/buildtools/releases/download/v6.1.2/buildozer-windows-amd64.exe#/buildozer.exe",
+                "https://ghgo.feizhuqwq.workers.dev/github.com/bazelbuild/buildtools/releases/download/v6.1.2/unused_deps-windows-amd64.exe#/unused_deps.exe"
             ],
             "hash": [
                 "92bdd284fbc6766fc3e300b434ff9e68ac4d76a06cb29d1bdefe79a102a8d135",
@@ -30,9 +30,9 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://ghproxy.com/github.com/bazelbuild/buildtools/releases/download/v$version/buildifier-windows-amd64.exe#/buildifier.exe",
-                    "https://ghproxy.com/github.com/bazelbuild/buildtools/releases/download/v$version/buildozer-windows-amd64.exe#/buildozer.exe",
-                    "https://ghproxy.com/github.com/bazelbuild/buildtools/releases/download/v$version/unused_deps-windows-amd64.exe#/unused_deps.exe"
+                    "https://ghgo.feizhuqwq.workers.dev/github.com/bazelbuild/buildtools/releases/download/v$version/buildifier-windows-amd64.exe#/buildifier.exe",
+                    "https://ghgo.feizhuqwq.workers.dev/github.com/bazelbuild/buildtools/releases/download/v$version/buildozer-windows-amd64.exe#/buildozer.exe",
+                    "https://ghgo.feizhuqwq.workers.dev/github.com/bazelbuild/buildtools/releases/download/v$version/unused_deps-windows-amd64.exe#/unused_deps.exe"
                 ]
             }
         }
