@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/carvel-dev/ytt/releases/download/v0.45.1/ytt-windows-amd64.exe#/ytt.exe",
+            "url": "https://ghproxy.com/github.com/carvel-dev/ytt/releases/download/v0.45.1/ytt-windows-amd64.exe#/ytt.exe",
             "hash": "50cee1125897b67aa51d02c5ef13bf9632ad042251fec7fc7ae51376a90fe5da"
         },
         "arm64": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/carvel-dev/ytt/releases/download/v0.45.1/ytt-windows-arm64.exe#/ytt.exe",
+            "url": "https://ghproxy.com/github.com/carvel-dev/ytt/releases/download/v0.45.1/ytt-windows-arm64.exe#/ytt.exe",
             "hash": "0d06d9a822b589234dc000111e993e244705e117d20c4c74435fc642c0f2d459"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/carvel-dev/ytt/releases/download/v$version/ytt-windows-amd64.exe#/ytt.exe"
+                "url": "https://ghproxy.com/github.com/carvel-dev/ytt/releases/download/v$version/ytt-windows-amd64.exe#/ytt.exe"
             },
             "arm64": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/carvel-dev/ytt/releases/download/v$version/ytt-windows-arm64.exe#/ytt.exe"
+                "url": "https://ghproxy.com/github.com/carvel-dev/ytt/releases/download/v$version/ytt-windows-arm64.exe#/ytt.exe"
             }
         },
         "hash": {

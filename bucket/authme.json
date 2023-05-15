@@ -5,7 +5,7 @@
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Levminer/authme/releases/download/4.1.0/authme-4.1.0-windows-x64.msi",
+            "url": "https://ghproxy.com/github.com/Levminer/authme/releases/download/4.1.0/authme-4.1.0-windows-x64.msi",
             "hash": "a4fc8a8fa6335c9565b01d07b9bc994233c978c31f84ff272f6320a0d93395fb"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Levminer/authme/releases/download/$version/authme-$version-windows-x64.msi"
+                "url": "https://ghproxy.com/github.com/Levminer/authme/releases/download/$version/authme-$version-windows-x64.msi"
             }
         }
     }

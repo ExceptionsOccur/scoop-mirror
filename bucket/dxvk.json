@@ -14,10 +14,10 @@
         "Finding other DLL files is usually a good indication of where to copy the DLL file from DXVK.",
         ""
     ],
-    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/doitsujin/dxvk/releases/download/v2.2/dxvk-2.2.tar.gz",
+    "url": "https://ghproxy.com/github.com/doitsujin/dxvk/releases/download/v2.2/dxvk-2.2.tar.gz",
     "hash": "fcbede6da370d138f275ca05bc887f5a562f27cd8bd00f436706a7142cb51630",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/doitsujin/dxvk/releases/download/v$version/dxvk-$version.tar.gz"
+        "url": "https://ghproxy.com/github.com/doitsujin/dxvk/releases/download/v$version/dxvk-$version.tar.gz"
     }
 }

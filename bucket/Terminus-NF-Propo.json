@@ -3,7 +3,7 @@
     "description": "Nerd Fonts patched 'Terminus' Font family. (Proportional version, for GUI usecases)",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
     "license": "MIT",
-    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Terminus.zip",
+    "url": "https://ghproxy.com/github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Terminus.zip",
     "hash": "e9cf6d53f49e04d7991f62e1776578547c34edfe3a22bc2de412027be72d75f9",
     "installer": {
         "script": [
@@ -87,6 +87,6 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ryanoasis/nerd-fonts/releases/download/v$version/Terminus.zip"
+        "url": "https://ghproxy.com/github.com/ryanoasis/nerd-fonts/releases/download/v$version/Terminus.zip"
     }
 }

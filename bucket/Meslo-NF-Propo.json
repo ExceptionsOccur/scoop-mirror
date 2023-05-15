@@ -3,7 +3,7 @@
     "description": "Nerd Fonts patched 'Meslo' Font family. (Proportional version, for GUI usecases)",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
     "license": "MIT",
-    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Meslo.zip",
+    "url": "https://ghproxy.com/github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Meslo.zip",
     "hash": "7e0247775e04d935b2d3331a4b29f802d23d43fee5d30120e0fb0769ecdd9393",
     "installer": {
         "script": [
@@ -87,6 +87,6 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ryanoasis/nerd-fonts/releases/download/v$version/Meslo.zip"
+        "url": "https://ghproxy.com/github.com/ryanoasis/nerd-fonts/releases/download/v$version/Meslo.zip"
     }
 }

@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ClementTsang/bottom/releases/download/nightly/bottom_x86_64-pc-windows-msvc.zip",
+            "url": "https://ghproxy.com/github.com/ClementTsang/bottom/releases/download/nightly/bottom_x86_64-pc-windows-msvc.zip",
             "hash": "d86d691824d5d97bc1c0646b1221eceeb5bf47ef8c28271b5cbee81669b1d8d3"
         },
         "32bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ClementTsang/bottom/releases/download/nightly/bottom_i686-pc-windows-msvc.zip",
+            "url": "https://ghproxy.com/github.com/ClementTsang/bottom/releases/download/nightly/bottom_i686-pc-windows-msvc.zip",
             "hash": "bd57e9f546054c5e3742c677a8e4b8caa957bde5dc0bd53aa35d87678b4de75a"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ClementTsang/bottom/releases/download/nightly/bottom_x86_64-pc-windows-msvc.zip"
+                "url": "https://ghproxy.com/github.com/ClementTsang/bottom/releases/download/nightly/bottom_x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ClementTsang/bottom/releases/download/nightly/bottom_i686-pc-windows-msvc.zip"
+                "url": "https://ghproxy.com/github.com/ClementTsang/bottom/releases/download/nightly/bottom_i686-pc-windows-msvc.zip"
             }
         }
     }

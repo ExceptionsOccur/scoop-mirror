@@ -8,7 +8,7 @@
         ".NET Desktop Runtime": "extras/windowsdesktop-runtime-lts",
         "v2fly-core": "main/v2ray"
     },
-    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/2dust/v2rayN/releases/download/6.23/v2rayN.zip",
+    "url": "https://ghproxy.com/github.com/2dust/v2rayN/releases/download/6.23/v2rayN.zip",
     "hash": "e03163198e4dbebdbb50f030da6104d802d9c108f262a33ffa9a1bf0cdf4126f",
     "extract_dir": "v2rayN",
     "pre_install": [
@@ -39,6 +39,6 @@
     "persist": "guiConfigs",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/2dust/v2rayN/releases/download/$version/v2rayN.zip"
+        "url": "https://ghproxy.com/github.com/2dust/v2rayN/releases/download/$version/v2rayN.zip"
     }
 }

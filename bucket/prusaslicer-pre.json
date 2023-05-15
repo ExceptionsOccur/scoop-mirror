@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/prusa3d/PrusaSlicer/releases/download/version_2.6.0-beta1/PrusaSlicer-2.6.0-beta1+win64-202305121513.zip",
+            "url": "https://ghproxy.com/github.com/prusa3d/PrusaSlicer/releases/download/version_2.6.0-beta1/PrusaSlicer-2.6.0-beta1+win64-202305121513.zip",
             "hash": "2f23297efed0597d629aedfa6945e8203ae58ea18a5123a02db735e2f928984e",
             "extract_dir": "PrusaSlicer-2.6.0-beta1+win64-202305121513"
         }
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/prusa3d/PrusaSlicer/releases/download/version_$version/PrusaSlicer-$version+win64-$matchTimestamp64.zip",
+                "url": "https://ghproxy.com/github.com/prusa3d/PrusaSlicer/releases/download/version_$version/PrusaSlicer-$version+win64-$matchTimestamp64.zip",
                 "extract_dir": "PrusaSlicer-$version+win64-$matchTimestamp64"
             }
         }

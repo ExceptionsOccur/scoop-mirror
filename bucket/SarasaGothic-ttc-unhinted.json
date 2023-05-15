@@ -3,7 +3,7 @@
     "description": "Sarasa Gothic, a CJK (Chinese-Japanese-Korean) programming font based on Iosevka and Source Han Sans. (unhinted TTC version)",
     "homepage": "https://github.com/be5invis/Sarasa-Gothic",
     "license": "OFL-1.1",
-    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/be5invis/Sarasa-Gothic/releases/download/v0.40.7/sarasa-gothic-ttc-unhinted-0.40.7.7z",
+    "url": "https://ghproxy.com/github.com/be5invis/Sarasa-Gothic/releases/download/v0.40.7/sarasa-gothic-ttc-unhinted-0.40.7.7z",
     "hash": "5ddc4610cd64627f6bd17f7732ade90b9eefddb65c4480327833e1858f04ef07",
     "installer": {
         "script": [
@@ -87,6 +87,6 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/be5invis/Sarasa-Gothic/releases/download/v$version/sarasa-gothic-ttc-unhinted-$version.7z"
+        "url": "https://ghproxy.com/github.com/be5invis/Sarasa-Gothic/releases/download/v$version/sarasa-gothic-ttc-unhinted-$version.7z"
     }
 }

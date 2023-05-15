@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Orange-OpenSource/hurl/releases/download/3.0.0/hurl-3.0.0-win64.zip",
+            "url": "https://ghproxy.com/github.com/Orange-OpenSource/hurl/releases/download/3.0.0/hurl-3.0.0-win64.zip",
             "hash": "9ab6a1028229d26e196d6e4b20be97856bf7f6d0707adf8de7f9cbd4359c2c55"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Orange-OpenSource/hurl/releases/download/$version/hurl-$version-win64.zip"
+                "url": "https://ghproxy.com/github.com/Orange-OpenSource/hurl/releases/download/$version/hurl-$version-win64.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Backblaze/B2_Command_Line_Tool/releases/download/v3.9.0/b2-windows.exe#/b2.exe",
+            "url": "https://ghproxy.com/github.com/Backblaze/B2_Command_Line_Tool/releases/download/v3.9.0/b2-windows.exe#/b2.exe",
             "hash": "f7b6153d2120bff7f35e1d7e75a34281502bfa8be34bd1f049a4d51475b55611"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Backblaze/B2_Command_Line_Tool/releases/download/v$version/b2-windows.exe#/b2.exe"
+                "url": "https://ghproxy.com/github.com/Backblaze/B2_Command_Line_Tool/releases/download/v$version/b2-windows.exe#/b2.exe"
             }
         }
     }

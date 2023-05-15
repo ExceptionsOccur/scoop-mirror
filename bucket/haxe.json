@@ -9,11 +9,11 @@
     "depends": "neko",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/HaxeFoundation/haxe/releases/download/4.3.1/haxe-4.3.1-win64.zip",
+            "url": "https://ghproxy.com/github.com/HaxeFoundation/haxe/releases/download/4.3.1/haxe-4.3.1-win64.zip",
             "hash": "8f77bf1dc3fae88b3174e311c60e69ab25c02093a0801bd3e49b28609f465e1e"
         },
         "32bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/HaxeFoundation/haxe/releases/download/4.3.1/haxe-4.3.1-win.zip",
+            "url": "https://ghproxy.com/github.com/HaxeFoundation/haxe/releases/download/4.3.1/haxe-4.3.1-win.zip",
             "hash": "260d0afd6e5a5ded14761ec8b23ecab7deaea552d7b6230bfc19411fdf248780"
         }
     },
@@ -36,10 +36,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/HaxeFoundation/haxe/releases/download/$version/haxe-$version-win64.zip"
+                "url": "https://ghproxy.com/github.com/HaxeFoundation/haxe/releases/download/$version/haxe-$version-win64.zip"
             },
             "32bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/HaxeFoundation/haxe/releases/download/$version/haxe-$version-win.zip"
+                "url": "https://ghproxy.com/github.com/HaxeFoundation/haxe/releases/download/$version/haxe-$version-win.zip"
             }
         }
     }

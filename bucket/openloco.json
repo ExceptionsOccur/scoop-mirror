@@ -4,9 +4,9 @@
     "homepage": "https://github.com/OpenLoco/OpenLoco",
     "license": {
         "identifier": "MIT",
-        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/OpenLoco/OpenLoco/raw/master/LICENSE"
+        "url": "https://ghproxy.com/github.com/OpenLoco/OpenLoco/raw/master/LICENSE"
     },
-    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/OpenLoco/OpenLoco/releases/download/v23.04.1/OpenLoco-v23.04.1-win32.zip",
+    "url": "https://ghproxy.com/github.com/OpenLoco/OpenLoco/releases/download/v23.04.1/OpenLoco-v23.04.1-win32.zip",
     "hash": "4bc9236f41449f8555f064b755860ce25404d71cac5f54a18747cbd47f6c3864",
     "bin": "OpenLoco.exe",
     "shortcuts": [
@@ -17,6 +17,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/OpenLoco/OpenLoco/releases/download/v$version/OpenLoco-v$version-win32.zip"
+        "url": "https://ghproxy.com/github.com/OpenLoco/OpenLoco/releases/download/v$version/OpenLoco-v$version-win32.zip"
     }
 }

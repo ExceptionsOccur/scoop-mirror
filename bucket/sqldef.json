@@ -6,9 +6,9 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://ghgo.feizhuqwq.workers.dev/github.com/k0kubun/sqldef/releases/download/v0.15.25/mssqldef_windows_amd64.zip",
-                "https://ghgo.feizhuqwq.workers.dev/github.com/k0kubun/sqldef/releases/download/v0.15.25/mysqldef_windows_amd64.zip",
-                "https://ghgo.feizhuqwq.workers.dev/github.com/k0kubun/sqldef/releases/download/v0.15.25/sqlite3def_windows_amd64.zip"
+                "https://ghproxy.com/github.com/k0kubun/sqldef/releases/download/v0.15.25/mssqldef_windows_amd64.zip",
+                "https://ghproxy.com/github.com/k0kubun/sqldef/releases/download/v0.15.25/mysqldef_windows_amd64.zip",
+                "https://ghproxy.com/github.com/k0kubun/sqldef/releases/download/v0.15.25/sqlite3def_windows_amd64.zip"
             ],
             "hash": [
                 "4305ff795e7ade8ba60590f8e35920cab27365a70c2c5d282fcf2b4f4c9c5fc9",
@@ -18,9 +18,9 @@
         },
         "32bit": {
             "url": [
-                "https://ghgo.feizhuqwq.workers.dev/github.com/k0kubun/sqldef/releases/download/v0.13.23/mssqldef_windows_386.zip",
-                "https://ghgo.feizhuqwq.workers.dev/github.com/k0kubun/sqldef/releases/download/v0.13.23/mysqldef_windows_386.zip",
-                "https://ghgo.feizhuqwq.workers.dev/github.com/k0kubun/sqldef/releases/download/v0.13.23/sqlite3def_windows_386.zip"
+                "https://ghproxy.com/github.com/k0kubun/sqldef/releases/download/v0.13.23/mssqldef_windows_386.zip",
+                "https://ghproxy.com/github.com/k0kubun/sqldef/releases/download/v0.13.23/mysqldef_windows_386.zip",
+                "https://ghproxy.com/github.com/k0kubun/sqldef/releases/download/v0.13.23/sqlite3def_windows_386.zip"
             ],
             "hash": [
                 "",
@@ -39,9 +39,9 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://ghgo.feizhuqwq.workers.dev/github.com/k0kubun/sqldef/releases/download/v$version/mssqldef_windows_amd64.zip",
-                    "https://ghgo.feizhuqwq.workers.dev/github.com/k0kubun/sqldef/releases/download/v$version/mysqldef_windows_amd64.zip",
-                    "https://ghgo.feizhuqwq.workers.dev/github.com/k0kubun/sqldef/releases/download/v$version/sqlite3def_windows_amd64.zip"
+                    "https://ghproxy.com/github.com/k0kubun/sqldef/releases/download/v$version/mssqldef_windows_amd64.zip",
+                    "https://ghproxy.com/github.com/k0kubun/sqldef/releases/download/v$version/mysqldef_windows_amd64.zip",
+                    "https://ghproxy.com/github.com/k0kubun/sqldef/releases/download/v$version/sqlite3def_windows_amd64.zip"
                 ]
             }
         }

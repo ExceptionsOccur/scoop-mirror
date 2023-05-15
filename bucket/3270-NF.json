@@ -3,7 +3,7 @@
     "description": "Nerd Fonts patched '3270' Font family. (Normal version, Nerd Fonts Symbol/Icon could be 1 or 2 cell wide)",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
     "license": "MIT",
-    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/3270.zip",
+    "url": "https://ghproxy.com/github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/3270.zip",
     "hash": "81618bd995ca93a00348c7794d043f44739f65e87c326bcdad21b4e1be5212ce",
     "installer": {
         "script": [
@@ -87,6 +87,6 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ryanoasis/nerd-fonts/releases/download/v$version/3270.zip"
+        "url": "https://ghproxy.com/github.com/ryanoasis/nerd-fonts/releases/download/v$version/3270.zip"
     }
 }

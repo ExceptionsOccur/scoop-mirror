@@ -62,7 +62,7 @@
         }
     },
     "checkver": {
-        "url": "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/notmyfault.md",
+        "url": "https://ghproxy.com/raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/notmyfault.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {

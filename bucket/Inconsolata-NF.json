@@ -3,7 +3,7 @@
     "description": "Nerd Fonts patched 'Inconsolata' Font family. (Normal version, Nerd Fonts Symbol/Icon could be 1 or 2 cell wide)",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
     "license": "MIT",
-    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Inconsolata.zip",
+    "url": "https://ghproxy.com/github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Inconsolata.zip",
     "hash": "691498a9cfb6113d6380f66ecca9f0517e330fdc6941f39efc6ea512ee2588ba",
     "installer": {
         "script": [
@@ -87,6 +87,6 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ryanoasis/nerd-fonts/releases/download/v$version/Inconsolata.zip"
+        "url": "https://ghproxy.com/github.com/ryanoasis/nerd-fonts/releases/download/v$version/Inconsolata.zip"
     }
 }

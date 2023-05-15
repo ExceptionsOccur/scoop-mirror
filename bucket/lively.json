@@ -7,7 +7,7 @@
         ".NET Desktop Runtime": "extras/windowsdesktop-runtime",
         "VCRedist": "extras/vcredist"
     },
-    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/rocksdanister/lively/releases/download/v2.0.6.6/lively_setup_x86_full_v2066.exe",
+    "url": "https://ghproxy.com/github.com/rocksdanister/lively/releases/download/v2.0.6.6/lively_setup_x86_full_v2066.exe",
     "hash": "f62eb93451e4aa704d5d94c40511e3af146b74b2cca9f304cd3b81f05e37df9a",
     "innosetup": true,
     "shortcuts": [
@@ -25,7 +25,7 @@
         "github": "https://github.com/rocksdanister/lively"
     },
     "autoupdate": {
-        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/rocksdanister/lively/releases/download/v$version/lively_setup_x86_full_v$cleanVersion.exe",
+        "url": "https://ghproxy.com/github.com/rocksdanister/lively/releases/download/v$version/lively_setup_x86_full_v$cleanVersion.exe",
         "hash": {
             "url": "https://github.com/rocksdanister/lively/releases/latest",
             "regex": ">SHA256</h2>\\n+<p>$sha256<"

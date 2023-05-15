@@ -5,7 +5,7 @@
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Blinue/Magpie/releases/download/v0.10.2/Magpie_v0.10.2.zip",
+            "url": "https://ghproxy.com/github.com/Blinue/Magpie/releases/download/v0.10.2/Magpie_v0.10.2.zip",
             "hash": "322475dec660a922057d214904463eb5e918c1786157df2fdfc2709148ebf429"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Blinue/Magpie/releases/download/v$version/Magpie_v$version.zip"
+                "url": "https://ghproxy.com/github.com/Blinue/Magpie/releases/download/v$version/Magpie_v$version.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/omrikiei/ktunnel/releases/download/v1.5.3/ktunnel_1.5.3_Windows_x86_64.tar.gz",
+            "url": "https://ghproxy.com/github.com/omrikiei/ktunnel/releases/download/v1.5.3/ktunnel_1.5.3_Windows_x86_64.tar.gz",
             "hash": "2fd1d7aaa565f9d05a39a778ba222c80122feb46bd1dc15dbcd2217d43778435"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/omrikiei/ktunnel/releases/download/v$version/ktunnel_$version_Windows_x86_64.tar.gz"
+                "url": "https://ghproxy.com/github.com/omrikiei/ktunnel/releases/download/v$version/ktunnel_$version_Windows_x86_64.tar.gz"
             }
         },
         "hash": {

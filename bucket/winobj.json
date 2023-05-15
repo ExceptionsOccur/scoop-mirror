@@ -51,7 +51,7 @@
         }
     },
     "checkver": {
-        "url": "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/winobj.md",
+        "url": "https://ghproxy.com/raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/winobj.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {

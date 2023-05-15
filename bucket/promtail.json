@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/grafana/loki/releases/download/v2.8.2/promtail-windows-amd64.exe.zip",
+            "url": "https://ghproxy.com/github.com/grafana/loki/releases/download/v2.8.2/promtail-windows-amd64.exe.zip",
             "hash": "4a193beef15a02f1064e4c004d6f0c5cf45a74bace2759540c007258becc672b",
             "bin": [
                 [
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/grafana/loki/releases/download/v$version/promtail-windows-amd64.exe.zip"
+                "url": "https://ghproxy.com/github.com/grafana/loki/releases/download/v$version/promtail-windows-amd64.exe.zip"
             }
         },
         "hash": {

@@ -8,8 +8,8 @@
         "64bit": {
             "url": [
                 "https://www.voidtools.com/Everything-1.4.1.1023.x64.Lite.zip",
-                "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/everything/install-context.reg",
-                "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/everything/uninstall-context.reg"
+                "https://ghproxy.com/raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/everything/install-context.reg",
+                "https://ghproxy.com/raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/everything/uninstall-context.reg"
             ],
             "hash": [
                 "8ea39a3d2439792f55e2004a878131218f4a9df8a65ba239b2f58d9da3f31267",
@@ -20,8 +20,8 @@
         "32bit": {
             "url": [
                 "https://www.voidtools.com/Everything-1.4.1.1023.x86.Lite.zip",
-                "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/everything/install-context.reg",
-                "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/everything/uninstall-context.reg"
+                "https://ghproxy.com/raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/everything/install-context.reg",
+                "https://ghproxy.com/raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/everything/uninstall-context.reg"
             ],
             "hash": [
                 "a660999b2a64bdec38825a7cc96bd6f2c925f99a8f64b3bb710c73bdda3f085b",

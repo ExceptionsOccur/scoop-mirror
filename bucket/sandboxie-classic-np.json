@@ -10,11 +10,11 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/sandboxie-plus/Sandboxie/releases/download/v1.9.3/Sandboxie-Classic-x64-v5.64.3.exe#/setup.exe",
+            "url": "https://ghproxy.com/github.com/sandboxie-plus/Sandboxie/releases/download/v1.9.3/Sandboxie-Classic-x64-v5.64.3.exe#/setup.exe",
             "hash": "86e992b6c90344ac5b10fcc45c90a084e4b6f960662440d296ec28ef7485c596"
         },
         "32bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/sandboxie-plus/Sandboxie/releases/download/v1.9.3/Sandboxie-Classic-x86-v5.64.3.exe#/setup.exe",
+            "url": "https://ghproxy.com/github.com/sandboxie-plus/Sandboxie/releases/download/v1.9.3/Sandboxie-Classic-x86-v5.64.3.exe#/setup.exe",
             "hash": "4938f1d256f0f3a1d0804810bf80300dc209ad5fd8e42869aaadf6a08b5f8762"
         }
     },
@@ -38,10 +38,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/sandboxie-plus/Sandboxie/releases/download/v$matchPlusver/Sandboxie-Classic-x64-v$version.exe#/setup.exe"
+                "url": "https://ghproxy.com/github.com/sandboxie-plus/Sandboxie/releases/download/v$matchPlusver/Sandboxie-Classic-x64-v$version.exe#/setup.exe"
             },
             "32bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/sandboxie-plus/Sandboxie/releases/download/v$matchPlusver/Sandboxie-Classic-x86-v$version.exe#/setup.exe"
+                "url": "https://ghproxy.com/github.com/sandboxie-plus/Sandboxie/releases/download/v$matchPlusver/Sandboxie-Classic-x86-v$version.exe#/setup.exe"
             }
         }
     }

@@ -6,7 +6,7 @@
     "notes": "See https://carvel.dev/vendir/#examples for some examples",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/vmware-tanzu/carvel-vendir/releases/download/v0.33.2/vendir-windows-amd64.exe#/vendir.exe",
+            "url": "https://ghproxy.com/github.com/vmware-tanzu/carvel-vendir/releases/download/v0.33.2/vendir-windows-amd64.exe#/vendir.exe",
             "hash": "4ca1697bb65622ca9b7ab858c6d01048959b18493c9d833f5bfb01e2847eb14d"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/vmware-tanzu/carvel-vendir/releases/download/v$version/vendir-windows-amd64.exe#/vendir.exe",
+                "url": "https://ghproxy.com/github.com/vmware-tanzu/carvel-vendir/releases/download/v$version/vendir-windows-amd64.exe#/vendir.exe",
                 "hash": {
                     "url": "https://github.com/vmware-tanzu/carvel-vendir/releases",
                     "regex": "$sha256  \\./vendir-windows-amd64\\.exe"

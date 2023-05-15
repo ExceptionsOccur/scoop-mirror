@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/facebook/flipper/releases/download/v0.190.0/Flipper-win.zip",
+            "url": "https://ghproxy.com/github.com/facebook/flipper/releases/download/v0.190.0/Flipper-win.zip",
             "hash": "4e0b9c73f08d146d3f27b3dffb5560c19f7cb1a693dc033ca5be429e05d33b86"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/facebook/flipper/releases/download/v$version/Flipper-win.zip"
+                "url": "https://ghproxy.com/github.com/facebook/flipper/releases/download/v$version/Flipper-win.zip"
             }
         }
     }

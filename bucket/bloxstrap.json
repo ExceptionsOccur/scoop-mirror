@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/pizzaboxer/bloxstrap/releases/download/v2.3.0/Bloxstrap-v2.3.0-x64.exe#/setup.exe",
+            "url": "https://ghproxy.com/github.com/pizzaboxer/bloxstrap/releases/download/v2.3.0/Bloxstrap-v2.3.0-x64.exe#/setup.exe",
             "hash": "385f9ac853fcc9d165c8e9d6af751f2b9897da992e239d2f5be0177bafc0dcf8"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/pizzaboxer/bloxstrap/releases/download/v$version/Bloxstrap-v$version-x64.exe#/setup.exe"
+                "url": "https://ghproxy.com/github.com/pizzaboxer/bloxstrap/releases/download/v$version/Bloxstrap-v$version-x64.exe#/setup.exe"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/RicoSuter/NSwag/releases/download/v13.19.0/NSwag.zip",
+            "url": "https://ghproxy.com/github.com/RicoSuter/NSwag/releases/download/v13.19.0/NSwag.zip",
             "hash": "1d57f2067e623033699fbc90cdfe482b514503921a66a9f1da014c7e9e54a394"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/RicoSuter/NSwag/releases/download/v$version/NSwag.zip"
+                "url": "https://ghproxy.com/github.com/RicoSuter/NSwag/releases/download/v$version/NSwag.zip"
             }
         }
     }

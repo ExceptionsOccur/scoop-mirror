@@ -23,7 +23,7 @@
         "SarasaGothic-K (Korea)",
         ""
     ],
-    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/be5invis/Sarasa-Gothic/releases/download/v0.40.7/sarasa-gothic-ttf-0.40.7.7z",
+    "url": "https://ghproxy.com/github.com/be5invis/Sarasa-Gothic/releases/download/v0.40.7/sarasa-gothic-ttf-0.40.7.7z",
     "hash": "92662f6a88420257c026d43a8d951f35b3e5e9b7c66a9e5e4b935dc25d9bbedf",
     "installer": {
         "script": [
@@ -107,6 +107,6 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/be5invis/Sarasa-Gothic/releases/download/v$version/sarasa-gothic-ttf-$version.7z"
+        "url": "https://ghproxy.com/github.com/be5invis/Sarasa-Gothic/releases/download/v$version/sarasa-gothic-ttf-$version.7z"
     }
 }

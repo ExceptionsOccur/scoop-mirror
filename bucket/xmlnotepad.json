@@ -3,7 +3,7 @@
     "description": "Provides a simple intuitive User Interface for browsing and editing XML documents",
     "homepage": "https://microsoft.github.io/XmlNotepad/",
     "license": "MIT",
-    "url": "https://ghgo.feizhuqwq.workers.dev/github.com/microsoft/XmlNotepad/releases/download/2.9.0.3/XmlNotepadPackage_2.9.0.3_AnyCPU.msixbundle#/dl.7z",
+    "url": "https://ghproxy.com/github.com/microsoft/XmlNotepad/releases/download/2.9.0.3/XmlNotepadPackage_2.9.0.3_AnyCPU.msixbundle#/dl.7z",
     "hash": "5feb4737117ee565530ee9d8e90edb90a5bc077c72a661e7fd52f1ea3efcd456",
     "installer": {
         "script": [
@@ -22,6 +22,6 @@
         "github": "https://github.com/microsoft/XmlNotepad"
     },
     "autoupdate": {
-        "url": "https://ghgo.feizhuqwq.workers.dev/github.com/microsoft/XmlNotepad/releases/download/$version/XmlNotepadPackage_$version_AnyCPU.msixbundle#/dl.7z"
+        "url": "https://ghproxy.com/github.com/microsoft/XmlNotepad/releases/download/$version/XmlNotepadPackage_$version_AnyCPU.msixbundle#/dl.7z"
     }
 }

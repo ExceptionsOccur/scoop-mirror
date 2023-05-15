@@ -5,11 +5,11 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/dnGrep/dnGrep/releases/download/v3.2.306.0/dnGREP.3.2.306.x64.msi",
+            "url": "https://ghproxy.com/github.com/dnGrep/dnGrep/releases/download/v3.2.306.0/dnGREP.3.2.306.x64.msi",
             "hash": "b2b8f32657525a9f64c486e19b00b16c22d1b36139ec4083a9ee71bbbbf85309"
         },
         "32bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/dnGrep/dnGrep/releases/download/v3.2.306.0/dnGREP.3.2.306.x86.msi",
+            "url": "https://ghproxy.com/github.com/dnGrep/dnGrep/releases/download/v3.2.306.0/dnGREP.3.2.306.x86.msi",
             "hash": "d3ee191a96b6e24d99036d138c0d60e9520d056352d3b4e1ea7c554422e6321d"
         }
     },
@@ -34,14 +34,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/dnGrep/dnGrep/releases/download/v$version/dnGREP.$matchHead.x64.msi",
+                "url": "https://ghproxy.com/github.com/dnGrep/dnGrep/releases/download/v$version/dnGREP.$matchHead.x64.msi",
                 "hash": {
                     "url": "https://github.com/dnGrep/dnGrep/releases/v$version",
                     "regex": "x64.msi[<>/\\w\\n: \\(\\)]+SHA256: ($sha256)"
                 }
             },
             "32bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/dnGrep/dnGrep/releases/download/v$version/dnGREP.$matchHead.x86.msi",
+                "url": "https://ghproxy.com/github.com/dnGrep/dnGrep/releases/download/v$version/dnGREP.$matchHead.x86.msi",
                 "hash": {
                     "url": "https://github.com/dnGrep/dnGrep/releases/v$version",
                     "find": "x86.msi[<>/\\w\\n: \\(\\)]+SHA256: ($sha256)"

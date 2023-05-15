@@ -6,7 +6,7 @@
     "depends": "extras/kindlegen",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ciromattia/kcc/releases/download/v5.6.2/KCC_5.6.2.exe",
+            "url": "https://ghproxy.com/github.com/ciromattia/kcc/releases/download/v5.6.2/KCC_5.6.2.exe",
             "hash": "c750578a161152c2909812fe872f7791ae9c14b522a0b20e3cd78c13a8c3464d",
             "shortcuts": [
                 [
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/ciromattia/kcc/releases/download/v$version/KCC_$version.exe"
+                "url": "https://ghproxy.com/github.com/ciromattia/kcc/releases/download/v$version/KCC_$version.exe"
             }
         }
     }

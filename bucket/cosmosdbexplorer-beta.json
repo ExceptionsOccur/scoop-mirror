@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/sachabruttin/CosmosDbExplorer/releases/download/v0.9.7-beta/CosmosDbExplorer.zip",
+            "url": "https://ghproxy.com/github.com/sachabruttin/CosmosDbExplorer/releases/download/v0.9.7-beta/CosmosDbExplorer.zip",
             "hash": "3c1436f7f9aa1c483c905d8762f79153247954ffd140821b03b93683b94e8b4c"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/sachabruttin/CosmosDbExplorer/releases/download/v$version/CosmosDbExplorer.zip"
+                "url": "https://ghproxy.com/github.com/sachabruttin/CosmosDbExplorer/releases/download/v$version/CosmosDbExplorer.zip"
             }
         }
     }

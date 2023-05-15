@@ -5,11 +5,11 @@
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/adoptium/temurin11-binaries/releases/download/jdk11u-2023-05-12-02-00-beta/OpenJDK11U-jdk_x64_windows_hotspot_2023-05-12-02-00.zip",
+            "url": "https://ghproxy.com/github.com/adoptium/temurin11-binaries/releases/download/jdk11u-2023-05-12-02-00-beta/OpenJDK11U-jdk_x64_windows_hotspot_2023-05-12-02-00.zip",
             "hash": "f670f9dfc2306cb39826320478c65f4eba10121efe3df52495acce7a84d95b7f"
         },
         "32bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/adoptium/temurin11-binaries/releases/download/jdk11u-2023-05-12-02-00-beta/OpenJDK11U-jdk_x86-32_windows_hotspot_2023-05-12-02-00.zip",
+            "url": "https://ghproxy.com/github.com/adoptium/temurin11-binaries/releases/download/jdk11u-2023-05-12-02-00-beta/OpenJDK11U-jdk_x86-32_windows_hotspot_2023-05-12-02-00.zip",
             "hash": "6b2ae2fbcc550992a090db988e5856ae0cd2c933aaa2b3f2df965c052d3532d7"
         }
     },

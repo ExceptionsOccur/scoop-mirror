@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/jewlexx/sfsu/releases/download/v1.4.8/dl-x86_64.7z",
+            "url": "https://ghproxy.com/github.com/jewlexx/sfsu/releases/download/v1.4.8/dl-x86_64.7z",
             "hash": "be73d6694edbb412f99f9f020e5cb7412b2fb71789bc4ef8158d8b5905fce3a9"
         },
         "32bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/jewlexx/sfsu/releases/download/v1.4.8/dl-i686.7z",
+            "url": "https://ghproxy.com/github.com/jewlexx/sfsu/releases/download/v1.4.8/dl-i686.7z",
             "hash": "0ac21d280eb0c8865cd5f59fdb2c53861047413ef90797c1ec07d585b0de8df9"
         }
     },
@@ -19,10 +19,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/jewlexx/sfsu/releases/download/v$version/dl-x86_64.7z"
+                "url": "https://ghproxy.com/github.com/jewlexx/sfsu/releases/download/v$version/dl-x86_64.7z"
             },
             "32bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/jewlexx/sfsu/releases/download/v$version/dl-i686.7z"
+                "url": "https://ghproxy.com/github.com/jewlexx/sfsu/releases/download/v$version/dl-i686.7z"
             }
         },
         "hash": {

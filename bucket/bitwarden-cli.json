@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/bitwarden/clients/releases/download/cli-v2023.4.0/bw-windows-2023.4.0.zip",
+            "url": "https://ghproxy.com/github.com/bitwarden/clients/releases/download/cli-v2023.4.0/bw-windows-2023.4.0.zip",
             "hash": "abc4a585d9fae51e223bc853fa4603dedc1d1ffe4adccf2a91f0e2e9b2464e21"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/bitwarden/clients/releases/download/cli-v$version/bw-windows-$version.zip",
+                "url": "https://ghproxy.com/github.com/bitwarden/clients/releases/download/cli-v$version/bw-windows-$version.zip",
                 "hash": {
                     "url": "$baseurl/bw-windows-sha256-$version.txt"
                 }

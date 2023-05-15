@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/sedwards2009/extraterm/releases/download/v0.71.1/extratermqt-0.71.1-windows-x64.zip",
+            "url": "https://ghproxy.com/github.com/sedwards2009/extraterm/releases/download/v0.71.1/extratermqt-0.71.1-windows-x64.zip",
             "hash": "fe0f6e08c3d0b5d79a3bd6f1c3bf248323da52a07f2c27c3e2b0c6960e441449",
             "extract_dir": "extratermqt-0.71.1-windows-x64"
         }
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/sedwards2009/extraterm/releases/download/v$version/extratermqt-$version-windows-x64.zip",
+                "url": "https://ghproxy.com/github.com/sedwards2009/extraterm/releases/download/v$version/extratermqt-$version-windows-x64.zip",
                 "extract_dir": "extratermqt-$version-windows-x64"
             }
         }

@@ -5,11 +5,11 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/google/protobuf/releases/download/v23.0/protoc-23.0-win64.zip",
+            "url": "https://ghproxy.com/github.com/google/protobuf/releases/download/v23.0/protoc-23.0-win64.zip",
             "hash": "031f00a9b46ce9a2253ee681ff05d43b8f842780cac4e9f5eb3c9a3a61a33e3e"
         },
         "32bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/google/protobuf/releases/download/v23.0/protoc-23.0-win32.zip",
+            "url": "https://ghproxy.com/github.com/google/protobuf/releases/download/v23.0/protoc-23.0-win32.zip",
             "hash": "d235925e15b3ab427660a3fb2b89af9410e1c29f4ded4201c59ab6df31c71c91"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/google/protobuf/releases/download/v$version/protoc-$version-win64.zip"
+                "url": "https://ghproxy.com/github.com/google/protobuf/releases/download/v$version/protoc-$version-win64.zip"
             },
             "32bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/google/protobuf/releases/download/v$version/protoc-$version-win32.zip"
+                "url": "https://ghproxy.com/github.com/google/protobuf/releases/download/v$version/protoc-$version-win32.zip"
             }
         }
     }

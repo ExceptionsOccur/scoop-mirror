@@ -5,7 +5,7 @@
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Dummerle/Rare/releases/download/1.10.1/Rare-1.10.1.msi",
+            "url": "https://ghproxy.com/github.com/Dummerle/Rare/releases/download/1.10.1/Rare-1.10.1.msi",
             "hash": "c2bc591b5e4b3c270c658d3000ed9bc8c8a177904575bb44cb5d6664d341c525"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Dummerle/Rare/releases/download/$version/Rare-$version.msi"
+                "url": "https://ghproxy.com/github.com/Dummerle/Rare/releases/download/$version/Rare-$version.msi"
             }
         }
     }

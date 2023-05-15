@@ -5,7 +5,7 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/soywod/himalaya/releases/download/v0.7.3/himalaya-windows.tar.gz",
+            "url": "https://ghproxy.com/github.com/soywod/himalaya/releases/download/v0.7.3/himalaya-windows.tar.gz",
             "hash": "e4eec0adfabb6038d5be80c15f65ee26b8ecdc7f53e4f5c4b099bc6bd6b6759f"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/soywod/himalaya/releases/download/v$version/himalaya-windows.tar.gz"
+                "url": "https://ghproxy.com/github.com/soywod/himalaya/releases/download/v$version/himalaya-windows.tar.gz"
             }
         }
     }

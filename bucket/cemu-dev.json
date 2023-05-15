@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/cemu-project/Cemu/releases/download/v2.0-39/cemu-2.0-39-windows-x64.zip",
+            "url": "https://ghproxy.com/github.com/cemu-project/Cemu/releases/download/v2.0-39/cemu-2.0-39-windows-x64.zip",
             "hash": "feaf50fbb37fbe6d93e2d3fc20e3d71521cf6fea8b8746a61614177f427f49e9"
         }
     },
@@ -65,7 +65,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/cemu-project/Cemu/releases/download/v$matchVer/cemu-$matchVer-windows-x64.zip"
+                "url": "https://ghproxy.com/github.com/cemu-project/Cemu/releases/download/v$matchVer/cemu-$matchVer-windows-x64.zip"
             }
         },
         "extract_dir": "Cemu_$matchVer"

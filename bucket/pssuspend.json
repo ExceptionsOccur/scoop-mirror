@@ -18,7 +18,7 @@
     },
     "bin": "pssuspend.exe",
     "checkver": {
-        "url": "https://ghgo.feizhuqwq.workers.dev/raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/pssuspend.md",
+        "url": "https://ghproxy.com/raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/pssuspend.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {

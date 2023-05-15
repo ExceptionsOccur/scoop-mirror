@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip",
+            "url": "https://ghproxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip",
             "hash": "dbd2bd643c4184bd76f949d563f34840c892e468140e0fdfa34db2f7daf20530"
         }
     },
@@ -49,7 +49,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghgo.feizhuqwq.workers.dev/github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip"
+                "url": "https://ghproxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip"
             }
         }
     }
