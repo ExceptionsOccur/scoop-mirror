@@ -4,6 +4,7 @@ on:
       - "master"
   schedule:
     - cron: "0 0 * * *" # utc时间，北京时间8:00am
+  workflow_call:
 
 jobs:
   excavate:
