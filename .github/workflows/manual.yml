@@ -6,4 +6,4 @@ on:
 jobs:
   excavate:
     name: manual update
-    uses: ExceptionsOccur/scoop-mirror/.github/workflows/update.yml@master
+    uses: ExceptionsOccur/scoop-mirror/.github/workflows/update.yml@main
