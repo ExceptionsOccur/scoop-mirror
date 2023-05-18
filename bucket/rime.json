@@ -1,23 +1,18 @@
 {
-    "version": "0.14.3.0",
+    "version": "0.14.3",
     "description": "【小狼毫】Rime for Windows",
     "homepage": "https://github.com/rime/weasel",
     "license": "GPLv3",
     "notes": [
         "【小狼毫】Rime for Windows ",
-        "项目主页：https://rime.im",
+        "项目主页：https://rime.im"
     ],
-    "architecture": {
-        "32bit": {
-            "url": "https://ghproxy.com/github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe",
-            "hash": "de63dc2ef45d5b094a239fc704051270f3185bf9e883132532b7e17d2fdaf81b"
-        },
-    },
+    "architecture": "x86",
+    "url": "https://ghproxy.com/github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe",
+    "hash": "sha256:de63dc2ef45d5b094a239fc704051270f3185bf9e883132532b7e17d2fdaf81b",
     "bin": [
         [
-            "WeaselServer.exe",
-            "WeaselDeployer.exe",
-            "WeaselSetup.exe"
+            "weasel-0.14.3.0-installer.exe"
         ]
     ],
     "shortcuts": [
@@ -30,32 +25,22 @@
             "小狼毫重新部署"
         ],
         [
-            "WeaselSetup.exe"
+            "WeaselSetup.exe",
             "小狼毫设置"
-        ],
+        ]
     ],
     "installer": {
-        "script": [
-            "if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }",
-            "Invoke-ExternalCommand \"$dir\\weasel-0.14.3.0-installer.exe\" -ArgumentList '/S' -RunAs | Out-Null"
-        ],
+        "script": ".\\weasel-0.14.3.0-installer.exe /S /allusers",
+        "requiresAdmin": true,
+        "uninstallscript": ".\\uninstall.exe /S /allusers"
     },
-    "uninstaller": {
-        "uninstaller": {
-            "file": "uninstall.exe",
-            "args": "/s"
-        },
-    },
-    "post_install": [
-        "Remove-Item -Recurse \"$([Environment]::GetFolderPath('commonstartmenu'))\\Programs\\小狼毫輸入法\""
-    ],
     "pre_uninstall": "Stop-Process -Name '小狼毫算法服務' -Force -ErrorAction SilentlyContinue",
     "checkver": "github",
     "autoupdate": {
         "architecture": {
             "32bit": {
                 "url": "https://ghproxy.com/github.com/rime/weasel/releases/download/$version/weasel-$version-installer.exe"
-            },
+            }
         }
     }
 }
