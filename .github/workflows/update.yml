@@ -91,7 +91,7 @@ jobs:
           cp -r scoop-games/scripts/*          ./scripts
           cp -r scoop-sysinternals/bucket/*    ./bucket
           # cp -r scoop-sysinternals/scripts/*   ./scripts
-          cp -r privatebucket/*                ./bucket   // 新添加的库
+          cp -r privatebucket/*                ./bucket   # 新添加的库
           rm -r Main Extras Versions Nonportable Java PHP scoop-nirsoft scoop-nerd-fonts scoop-games scoop-sysinternals
           # GitHub Release
           perl -pi -e 's#(github\.com/.+/releases/download)#ghproxy\.com/$1#g' ./bucket/*.json
