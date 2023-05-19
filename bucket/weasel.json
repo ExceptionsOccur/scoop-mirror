@@ -29,11 +29,11 @@
             "小狼毫设置"
         ]
     ],
-    "installer": {
-        "script": ".\\weasel-0.14.3.0-installer.exe /S /allusers",
-        "requiresAdmin": true,
-        "uninstallscript": ".\\uninstall.exe /S /allusers"
-    },
+    // "installer": {
+    //     "script": ".\\weasel-0.14.3.0-installer.exe /S /allusers",
+    //     "requiresAdmin": true,
+    //     "uninstallscript": ".\\uninstall.exe /S /allusers"
+    // },
     "pre_uninstall": "Stop-Process -Name '小狼毫算法服務' -Force -ErrorAction SilentlyContinue",
     "checkver": "github",
     "autoupdate": {
