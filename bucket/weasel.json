@@ -19,7 +19,7 @@
     "uninstall": {
         "executable": ["{app}\\uninstall.ext"],
         "silent": "/S"
-    }
+    },
     "checkver": "github",
     "autoupdate": {
         "architecture": {
