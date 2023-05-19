@@ -64,11 +64,6 @@ jobs:
           repository: "niheaven/scoop-sysinternals"
           fetch-depth: 1
           path: "scoop-sysinternals"
-      - uses: actions/checkout@v3
-        with:
-          repository: "ExceptionsOccur/privatebucket"
-          fetch-depth: 1
-          path: "privatebucket"
       - name: Update buckets
         run: |
           mkdir -p bucket scripts   # 防止 rm 错误，没有也新建一个再删掉
@@ -91,8 +86,7 @@ jobs:
           cp -r scoop-games/scripts/*          ./scripts
           cp -r scoop-sysinternals/bucket/*    ./bucket
           # cp -r scoop-sysinternals/scripts/*   ./scripts
-          cp -r privatebucket/*                ./bucket   # 新添加的库
-          rm -r Main Extras Versions Nonportable Java PHP scoop-nirsoft scoop-nerd-fonts scoop-games scoop-sysinternals privatebucket
+          rm -r Main Extras Versions Nonportable Java PHP scoop-nirsoft scoop-nerd-fonts scoop-games scoop-sysinternals
           # GitHub Release
           perl -pi -e 's#(github\.com/.+/releases/download)#ghproxy\.com/$1#g' ./bucket/*.json
           # GitHub Raw
