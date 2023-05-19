@@ -8,23 +8,21 @@
         "项目主页：https://rime.im"
     ],
     "architecture": "32bit",
-    "url": "https://ghproxy.com/github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe",
+    "url": "https://ghproxy.com/ghproxy.com/github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe",
     "hash": "sha256:de63dc2ef45d5b094a239fc704051270f3185bf9e883132532b7e17d2fdaf81b",
-    "bin": [
-        {
-            "executable": "{app}\\weasel-0.14.3.0-installer.exe",
-            "args": ["/S"]
-        }
+    "post_install": [
+        "if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }",
+        "Start-Process \"$dir\\weasel-0.14.3.0-installer.exe\" -Wait -Verb 'RunAs' -ArgumentList @('-q', '-dir', \"$dir\"); Remove-Item \"$dir\\weasel-0.14.3.0-installer.exe\""
     ],
-    "uninstall": {
-        "executable": ["{app}\\uninstall.ext"],
-        "silent": "/S"
-    },
+    "pre_uninstall": [
+        "if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }",
+        "Start-Process \"$dir\\uninstall.exe\" -Wait -Verb 'RunAs' -ArgumentList '-q'"
+    ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://ghproxy.com/ghproxy.com/github.com/rime/weasel/releases/download/$version/weasel-$version-installer.exe"
+                "url": "https://ghproxy.com/ghproxy.com/ghproxy.com/github.com/rime/weasel/releases/download/$version/weasel-$version-installer.exe"
             }
         }
     }
