@@ -17,11 +17,11 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/ggerganov/whisper.cpp/releases/download/v1.5.1/whisper-bin-x64.zip",
+            "url": "https://mirror.ghproxy.com/github.com/ggerganov/whisper.cpp/releases/download/v1.5.1/whisper-bin-x64.zip",
             "hash": "d01967ba282a1da802dd79b91aec2157b9094725075d2e91e543cc42faf93c88"
         },
         "32bit": {
-            "url": "https://ghproxy.com/github.com/ggerganov/whisper.cpp/releases/download/v1.5.1/whisper-bin-Win32.zip",
+            "url": "https://mirror.ghproxy.com/github.com/ggerganov/whisper.cpp/releases/download/v1.5.1/whisper-bin-Win32.zip",
             "hash": "c29a3f1931fd75e05f7e59485c4a2e74a5a623ae3451a55bcbdf1e0df3f0eed5"
         }
     },
@@ -31,10 +31,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/ggerganov/whisper.cpp/releases/download/v$version/whisper-bin-x64.zip"
+                "url": "https://mirror.ghproxy.com/github.com/ggerganov/whisper.cpp/releases/download/v$version/whisper-bin-x64.zip"
             },
             "32bit": {
-                "url": "https://ghproxy.com/github.com/ggerganov/whisper.cpp/releases/download/v$version/whisper-bin-Win32.zip"
+                "url": "https://mirror.ghproxy.com/github.com/ggerganov/whisper.cpp/releases/download/v$version/whisper-bin-Win32.zip"
             }
         }
     }

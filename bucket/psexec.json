@@ -30,7 +30,7 @@
         }
     },
     "checkver": {
-        "url": "https://ghproxy.com/raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/psexec.md",
+        "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/psexec.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {

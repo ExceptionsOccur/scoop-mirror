@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/AmrDeveloper/GQL/releases/download/0.9.0/gql-x86_64-windows.exe#/gitql.exe",
+            "url": "https://mirror.ghproxy.com/github.com/AmrDeveloper/GQL/releases/download/0.9.0/gql-x86_64-windows.exe#/gitql.exe",
             "hash": "98d5d4bb14021c41419ed1cdf6c6f24fc9699e7c8f91bda521c1bb406a2fda54"
         },
         "32bit": {
-            "url": "https://ghproxy.com/github.com/AmrDeveloper/GQL/releases/download/0.9.0/gql-x86-windows.exe#/gitql.exe",
+            "url": "https://mirror.ghproxy.com/github.com/AmrDeveloper/GQL/releases/download/0.9.0/gql-x86-windows.exe#/gitql.exe",
             "hash": "9da9f33bd5617dbd97210ec4a550c344bb95eb9baae708d7c88a807bcf10b731"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/AmrDeveloper/GQL/releases/download/$version/gql-x86_64-windows.exe#/gitql.exe"
+                "url": "https://mirror.ghproxy.com/github.com/AmrDeveloper/GQL/releases/download/$version/gql-x86_64-windows.exe#/gitql.exe"
             },
             "32bit": {
-                "url": "https://ghproxy.com/github.com/AmrDeveloper/GQL/releases/download/$version/gql-x86-windows.exe#/gitql.exe"
+                "url": "https://mirror.ghproxy.com/github.com/AmrDeveloper/GQL/releases/download/$version/gql-x86-windows.exe#/gitql.exe"
             }
         },
         "hash": {

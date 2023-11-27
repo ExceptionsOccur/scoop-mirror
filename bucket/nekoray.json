@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/github.com/MatsuriDayo/nekoray/releases/download/3.25/nekoray-3.25-2023-11-25-windows64.zip",
+            "url": "https://mirror.ghproxy.com/github.com/MatsuriDayo/nekoray/releases/download/3.25/nekoray-3.25-2023-11-25-windows64.zip",
             "hash": "eab3edf624f21b6f63fde2c1b5617a1567552f6a2d6b9ada760f548645267b33"
         }
     },
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/github.com/MatsuriDayo/nekoray/releases/download/$version/nekoray-$version-$matchExtra-windows64.zip",
+                "url": "https://mirror.ghproxy.com/github.com/MatsuriDayo/nekoray/releases/download/$version/nekoray-$version-$matchExtra-windows64.zip",
                 "extract_dir": "nekoray"
             }
         }
