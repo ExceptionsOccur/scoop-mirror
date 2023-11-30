@@ -98,7 +98,7 @@ jobs:
           # KDE Apps
           perl -pi -e 's#download\.kde\.org#mirrors\.ustc\.edu\.cn/kde#g' ./bucket/*.json
           # 7-Zip
-          perl -pi -e 's#www\.7-zip\.org/a#experiments-alicdn\.sparanoid\.net/7z#g' ./bucket/7zip*.json
+          # perl -pi -e 's#www\.7-zip\.org/a#experiments-alicdn\.sparanoid\.net/7z#g' ./bucket/7zip*.json
           # LaTeX, MiKTeX
           perl -pi -e 's#(miktex\.org/download/ctan)|(mirrors.+/CTAN)#mirrors\.aliyun\.com/CTAN#g' ./bucket/{latex,miktex}.json
           # Node
