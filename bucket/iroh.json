@@ -5,7 +5,7 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://mirror.ghproxy.com/github.com/n0-computer/iroh/releases/download/v0.28.0/iroh-v0.28.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://ghp.ci/github.com/n0-computer/iroh/releases/download/v0.28.0/iroh-v0.28.0-x86_64-pc-windows-msvc.zip",
             "hash": "d44019133510de6f34e036a30c8341c05aeffb80bd48467d601bac37a49498c3"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://mirror.ghproxy.com/github.com/n0-computer/iroh/releases/download/v$version/iroh-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://ghp.ci/github.com/n0-computer/iroh/releases/download/v$version/iroh-v$version-x86_64-pc-windows-msvc.zip"
             }
         }
     }

@@ -9,7 +9,7 @@
         "For saving disk space, we recommend installing the unhinted TTC version (takes about 600 MB, requires Win10 or above)",
         "To install it, run: scoop install SarasaGothic-ttc-unhinted"
     ],
-    "url": "https://mirror.ghproxy.com/github.com/be5invis/Sarasa-Gothic/releases/download/v1.0.23/Sarasa-TTF-Unhinted-1.0.23.7z",
+    "url": "https://ghp.ci/github.com/be5invis/Sarasa-Gothic/releases/download/v1.0.23/Sarasa-TTF-Unhinted-1.0.23.7z",
     "hash": "b615f67521c13ddcbc8d3fd784e225741b28b519ed742915e00886779cd7bc2f",
     "installer": {
         "script": [
@@ -93,6 +93,6 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://mirror.ghproxy.com/github.com/be5invis/Sarasa-Gothic/releases/download/v$version/Sarasa-TTF-Unhinted-$version.7z"
+        "url": "https://ghp.ci/github.com/be5invis/Sarasa-Gothic/releases/download/v$version/Sarasa-TTF-Unhinted-$version.7z"
     }
 }

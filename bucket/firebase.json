@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://mirror.ghproxy.com/github.com/firebase/firebase-tools/releases/download/v13.24.0/firebase-tools-win.exe#/firebase.exe",
+            "url": "https://ghp.ci/github.com/firebase/firebase-tools/releases/download/v13.24.0/firebase-tools-win.exe#/firebase.exe",
             "hash": "3e6fd362d663e2f7636575313db04d1264b90dd06ae4589972e29e906d7982b7"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://mirror.ghproxy.com/github.com/firebase/firebase-tools/releases/download/v$version/firebase-tools-win.exe#/firebase.exe"
+                "url": "https://ghp.ci/github.com/firebase/firebase-tools/releases/download/v$version/firebase-tools-win.exe#/firebase.exe"
             }
         }
     }

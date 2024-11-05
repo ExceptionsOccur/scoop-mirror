@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://mirror.ghproxy.com/github.com/gohugoio/hugo/releases/download/v0.137.0/hugo_0.137.0_windows-amd64.zip",
+            "url": "https://ghp.ci/github.com/gohugoio/hugo/releases/download/v0.137.0/hugo_0.137.0_windows-amd64.zip",
             "hash": "39208ed7ab19bcaa055e852c5ddd8678c7d70db69a2e08c0535356671934287e"
         },
         "arm64": {
-            "url": "https://mirror.ghproxy.com/github.com/gohugoio/hugo/releases/download/v0.137.0/hugo_0.137.0_windows-arm64.zip",
+            "url": "https://ghp.ci/github.com/gohugoio/hugo/releases/download/v0.137.0/hugo_0.137.0_windows-arm64.zip",
             "hash": "e875b8d84cc9d7324704e59f27cbd1abc269c606ac81cdc9aa4e239738436095"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://mirror.ghproxy.com/github.com/gohugoio/hugo/releases/download/v$version/hugo_$version_windows-amd64.zip"
+                "url": "https://ghp.ci/github.com/gohugoio/hugo/releases/download/v$version/hugo_$version_windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://mirror.ghproxy.com/github.com/gohugoio/hugo/releases/download/v$version/hugo_$version_windows-arm64.zip"
+                "url": "https://ghp.ci/github.com/gohugoio/hugo/releases/download/v$version/hugo_$version_windows-arm64.zip"
             }
         },
         "hash": {

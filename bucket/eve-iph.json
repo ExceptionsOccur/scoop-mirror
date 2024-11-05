@@ -4,10 +4,10 @@
     "homepage": "http://eveiph.github.io/",
     "license": {
         "identifier": "Unknown",
-        "url": "https://mirror.ghproxy.com/github.com/EVEIPH/EVE-IPH-Update-Program/raw/master/Licence.txt"
+        "url": "https://ghp.ci/github.com/EVEIPH/EVE-IPH-Update-Program/raw/master/Licence.txt"
     },
     "hash": "4ffab13395924c2e11cd58a2d7fbc61142fcf1c9e24389b2d2a44095df07b023",
-    "url": "https://mirror.ghproxy.com/github.com/EVEIPH/LatestFiles/raw/master/EVEIPH%20Binaries.zip",
+    "url": "https://ghp.ci/github.com/EVEIPH/LatestFiles/raw/master/EVEIPH%20Binaries.zip",
     "bin": "EVE Isk per Hour.exe",
     "shortcuts": [
         [
@@ -16,11 +16,11 @@
         ]
     ],
     "checkver": {
-        "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/EVEIPH/LatestFiles/master/Patch%20Notes.txt",
+        "url": "https://ghp.ci/raw.githubusercontent.com/EVEIPH/LatestFiles/master/Patch%20Notes.txt",
         "regex": "Build ([0-9]+(.[0-9]+)+)"
     },
     "autoupdate": {
-        "url": "https://mirror.ghproxy.com/github.com/EVEIPH/LatestFiles/raw/master/EVEIPH%20Binaries.zip",
+        "url": "https://ghp.ci/github.com/EVEIPH/LatestFiles/raw/master/EVEIPH%20Binaries.zip",
         "hash": {
             "mode": "download"
         }

@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://mirror.ghproxy.com/github.com/jenkins-x/jx/releases/download/v3.10.176/jx-windows-amd64.zip",
+            "url": "https://ghp.ci/github.com/jenkins-x/jx/releases/download/v3.10.176/jx-windows-amd64.zip",
             "hash": "3d0466d4e9e6e3497a77160b2291511b367df6aa75f13f601d5c49371f8c1fea"
         },
         "arm64": {
-            "url": "https://mirror.ghproxy.com/github.com/jenkins-x/jx/releases/download/v3.10.176/jx-windows-arm64.zip",
+            "url": "https://ghp.ci/github.com/jenkins-x/jx/releases/download/v3.10.176/jx-windows-arm64.zip",
             "hash": "7c6d6aba61f2eda4c19dfa9c7deb2764e7b14cf09fa7d00c6afac0d6c28d6138"
         }
     },
@@ -19,10 +19,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://mirror.ghproxy.com/github.com/jenkins-x/jx/releases/download/v$version/jx-windows-amd64.zip"
+                "url": "https://ghp.ci/github.com/jenkins-x/jx/releases/download/v$version/jx-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://mirror.ghproxy.com/github.com/jenkins-x/jx/releases/download/v$version/jx-windows-arm64.zip"
+                "url": "https://ghp.ci/github.com/jenkins-x/jx/releases/download/v$version/jx-windows-arm64.zip"
             }
         },
         "hash": {

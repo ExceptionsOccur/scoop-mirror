@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://mirror.ghproxy.com/github.com/updatecli/updatecli/releases/download/v0.86.0/updatecli_Windows_x86_64.zip",
+            "url": "https://ghp.ci/github.com/updatecli/updatecli/releases/download/v0.86.0/updatecli_Windows_x86_64.zip",
             "hash": "505408ba423d5d109a0be1b93060cf6cf7fad0fa8166a9da124122dcbbbd98fb"
         },
         "arm64": {
-            "url": "https://mirror.ghproxy.com/github.com/updatecli/updatecli/releases/download/v0.86.0/updatecli_Windows_arm64.zip",
+            "url": "https://ghp.ci/github.com/updatecli/updatecli/releases/download/v0.86.0/updatecli_Windows_arm64.zip",
             "hash": "8ba55ec57c33a9a2ba6ab09f1a9ca09eee8f405be635b2902c782305b64af777"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://mirror.ghproxy.com/github.com/updatecli/updatecli/releases/download/v$version/updatecli_Windows_x86_64.zip"
+                "url": "https://ghp.ci/github.com/updatecli/updatecli/releases/download/v$version/updatecli_Windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://mirror.ghproxy.com/github.com/updatecli/updatecli/releases/download/v$version/updatecli_Windows_arm64.zip"
+                "url": "https://ghp.ci/github.com/updatecli/updatecli/releases/download/v$version/updatecli_Windows_arm64.zip"
             }
         },
         "hash": {
