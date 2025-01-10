@@ -88,10 +88,10 @@ jobs:
           # cp -r scoop-sysinternals/scripts/*   ./scripts
           rm -r Main Extras Versions Nonportable Java PHP scoop-nirsoft scoop-nerd-fonts scoop-games scoop-sysinternals
           # GitHub Release
-          perl -pi -e 's#(github\.com/.+/releases/download)#ghp\.ci/$1#g' ./bucket/*.json
+          perl -pi -e 's#(github\.com/.+/releases/download)#gh\.api\.99988866\.xyz/$1#g' ./bucket/*.json
           # GitHub Raw
-          perl -pi -e 's#(raw\.githubusercontent\.com)#ghp\.ci/$1#g' ./bucket/*.json
-          perl -pi -e 's#(github\.com/.+/raw)#ghp\.ci/$1#g' ./bucket/*.json
+          perl -pi -e 's#(raw\.githubusercontent\.com)#gh\.api\.99988866\.xyz/$1#g' ./bucket/*.json
+          perl -pi -e 's#(github\.com/.+/raw)#gh\.api\.99988866\.xyz/$1#g' ./bucket/*.json
           # SourceForge
           # https://sourceforge.net/p/forge/documentation/Mirrors/
           perl -pi -e 's#downloads\.sourceforge\.net#nchc\.dl\.sourceforge\.net#g' ./bucket/*.json
@@ -108,16 +108,16 @@ jobs:
           # VLC
           perl -pi -e 's#download\.videolan\.org/pub#mirrors\.ustc\.edu\.cn/videolan-ftp#g' ./bucket/vlc.json
           # DBeaver
-          perl -pi -e 's#download\.dbeaver\.com/community#ghp\.ci/github\.com/dbeaver/dbeaver/releases/download#g' ./bucket/dbeaver.json
+          perl -pi -e 's#download\.dbeaver\.com/community#gh\.api\.99988866\.xyz/github\.com/dbeaver/dbeaver/releases/download#g' ./bucket/dbeaver.json
           # OBS Studio
-          perl -pi -e 's#cdn-fastly\.obsproject\.com/downloads/OBS-Studio-(.+)-Full#ghp\.ci/github\.com/obsproject/obs-studio/releases/download/$1/OBS-Studio-$1-Full#g' ./bucket/obs-studio{,27}.json
+          perl -pi -e 's#cdn-fastly\.obsproject\.com/downloads/OBS-Studio-(.+)-Full#gh\.api\.99988866\.xyz/github\.com/obsproject/obs-studio/releases/download/$1/OBS-Studio-$1-Full#g' ./bucket/obs-studio{,27}.json
           # Tor Browser
-          perl -pi -e 's#dist\.torproject\.org/torbrowser/(.+)/torbrowser-install-win64-#ghp\.ci/github\.com/TheTorProject/gettorbrowser/releases/download/win64-$1/torbrowser-install-win64-#g' ./bucket/tor-browser.json
-          perl -pi -e 's#dist\.torproject\.org/torbrowser/(.+)/torbrowser-install-#ghp\.ci/github\.com/TheTorProject/gettorbrowser/releases/download/win32-$1/torbrowser-install-#g' ./bucket/tor-browser.json
+          perl -pi -e 's#dist\.torproject\.org/torbrowser/(.+)/torbrowser-install-win64-#gh\.api\.99988866\.xyz/github\.com/TheTorProject/gettorbrowser/releases/download/win64-$1/torbrowser-install-win64-#g' ./bucket/tor-browser.json
+          perl -pi -e 's#dist\.torproject\.org/torbrowser/(.+)/torbrowser-install-#gh\.api\.99988866\.xyz/github\.com/TheTorProject/gettorbrowser/releases/download/win32-$1/torbrowser-install-#g' ./bucket/tor-browser.json
           # Scripts
           perl -pi -e 's#(bucketsdir\\\\).+(\\\\scripts)#$1scoop-mirror$2#g' ./bucket/*.json
           # install.ps1
-          curl https://raw.githubusercontent.com/scoopinstaller/install/master/install.ps1 | perl -pi -e 's#"https://github\.com#"https://ghp\.ci/github\.com#g' > ./install.ps1
+          curl https://raw.githubusercontent.com/scoopinstaller/install/master/install.ps1 | perl -pi -e 's#"https://github\.com#"https://gh\.api\.99988866\.xyz/github\.com#g' > ./install.ps1
           git config user.name github-actions
           git config user.email github-actions#github.com
           git add .
