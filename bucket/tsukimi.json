@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://ghp.ci/github.com/tsukinaha/tsukimi/releases/download/v0.18.2/tsukimi-x86_64-windows-gnu.7z",
+            "url": "https://gh.api.99988866.xyz/github.com/tsukinaha/tsukimi/releases/download/v0.18.2/tsukimi-x86_64-windows-gnu.7z",
             "hash": "sha512:b9e1f59c25d2608b1bdd60d6615008a0061acd975550fad9237a56a666c310a806be87169e4dfcdc4ef79be2f9f9e8ac0bcbb73c7da28c41f3ba94a64e2360d9"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghp.ci/github.com/tsukinaha/tsukimi/releases/download/v$version/tsukimi-x86_64-windows-gnu.7z"
+                "url": "https://gh.api.99988866.xyz/github.com/tsukinaha/tsukimi/releases/download/v$version/tsukimi-x86_64-windows-gnu.7z"
             }
         },
         "hash": {

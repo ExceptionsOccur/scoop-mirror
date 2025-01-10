@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghp.ci/github.com/cloudposse/atmos/releases/download/v1.143.0/atmos_1.143.0_windows_amd64.exe#/atmos.exe",
+            "url": "https://gh.api.99988866.xyz/github.com/cloudposse/atmos/releases/download/v1.143.0/atmos_1.143.0_windows_amd64.exe#/atmos.exe",
             "hash": "8ec5aabeca00c12b5c5880fed100b1280d323afb3227c226cc45fede0085191b"
         },
         "32bit": {
-            "url": "https://ghp.ci/github.com/cloudposse/atmos/releases/download/v1.143.0/atmos_1.143.0_windows_386.exe#/atmos.exe",
+            "url": "https://gh.api.99988866.xyz/github.com/cloudposse/atmos/releases/download/v1.143.0/atmos_1.143.0_windows_386.exe#/atmos.exe",
             "hash": "42cea4c9ff66221548de631f716a66a11a4ef51961ac3bf54b9055b7ea6bd1ee"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghp.ci/github.com/cloudposse/atmos/releases/download/v$version/atmos_$version_windows_amd64.exe#/atmos.exe"
+                "url": "https://gh.api.99988866.xyz/github.com/cloudposse/atmos/releases/download/v$version/atmos_$version_windows_amd64.exe#/atmos.exe"
             },
             "32bit": {
-                "url": "https://ghp.ci/github.com/cloudposse/atmos/releases/download/v$version/atmos_$version_windows_386.exe#/atmos.exe"
+                "url": "https://gh.api.99988866.xyz/github.com/cloudposse/atmos/releases/download/v$version/atmos_$version_windows_386.exe#/atmos.exe"
             }
         },
         "hash": {

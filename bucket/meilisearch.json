@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghp.ci/github.com/meilisearch/meilisearch/releases/download/v1.12.2/meilisearch-windows-amd64.exe#/meilisearch.exe",
+            "url": "https://gh.api.99988866.xyz/github.com/meilisearch/meilisearch/releases/download/v1.12.2/meilisearch-windows-amd64.exe#/meilisearch.exe",
             "hash": "36186db49b88a8061da930dbf85cd10c3a082b0ad3c17081b50166f7853b76d1"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghp.ci/github.com/meilisearch/meilisearch/releases/download/v$version/meilisearch-windows-amd64.exe#/meilisearch.exe"
+                "url": "https://gh.api.99988866.xyz/github.com/meilisearch/meilisearch/releases/download/v$version/meilisearch-windows-amd64.exe#/meilisearch.exe"
             }
         }
     }

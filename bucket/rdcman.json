@@ -16,7 +16,7 @@
         ]
     ],
     "checkver": {
-        "url": "https://ghp.ci/raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/rdcman.md",
+        "url": "https://gh.api.99988866.xyz/raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/rdcman.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {

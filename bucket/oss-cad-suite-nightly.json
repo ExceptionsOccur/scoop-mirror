@@ -5,7 +5,7 @@
     "license": "ISC",
     "architecture": {
         "64bit": {
-            "url": "https://ghp.ci/github.com/YosysHQ/oss-cad-suite-build/releases/download/2025-01-09/oss-cad-suite-windows-x64-20250109.exe#/dl.7z",
+            "url": "https://gh.api.99988866.xyz/github.com/YosysHQ/oss-cad-suite-build/releases/download/2025-01-09/oss-cad-suite-windows-x64-20250109.exe#/dl.7z",
             "hash": "c405b94872f4b2ebd0a7623c5c1a2bdc2f4d9d2cf88c137b44d12824b465e344"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghp.ci/github.com/YosysHQ/oss-cad-suite-build/releases/download/$version/oss-cad-suite-windows-x64-$cleanVersion.exe#/dl.7z"
+                "url": "https://gh.api.99988866.xyz/github.com/YosysHQ/oss-cad-suite-build/releases/download/$version/oss-cad-suite-windows-x64-$cleanVersion.exe#/dl.7z"
             }
         }
     }
