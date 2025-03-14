@@ -1,5 +1,5 @@
 {
-    "version": "13751724677",
+    "version": "13833847525",
     "description": "Free and reliable P2P Bittorent client.",
     "homepage": "https://github.com/qbittorrent/qBittorrent",
     "license": {
@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://nightly.link/qbittorrent/qBittorrent/workflows/ci_windows.yaml/master/qBittorrent-CI_Windows-x64_libtorrent-2.0.11.zip",
-            "hash": "5749090b6ddefb7a6d5161f0cea92039731d8e4195ea79f9b3f9fc3094dfaad0",
+            "hash": "c164d61635694abbcadab397666826d7df7dfda2897239c4b693bc2c2d2ba69c",
             "extract_dir": "qBittorrent"
         }
     },
@@ -48,7 +48,7 @@
         "script": [
             "try {",
             "    (Invoke-RestMethod 'https://api.github.com/repositories/3351871/actions/workflows/ci_windows.yaml/runs?branch=master&status=success').workflow_runs[0].id,",
-            "    (Invoke-RestMethod https://gh.api.99988866.xyz/raw.githubusercontent.com/qbittorrent/qBittorrent/master/.github/workflows/ci_windows.yaml | Select-String 'libt_version: \\[\"([\\d.]+)\", \"[\\d.]+\"\\]').matches.groups[1].value -join ' '",
+            "    (Invoke-RestMethod https://github.moeyy.xyz/raw.githubusercontent.com/qbittorrent/qBittorrent/master/.github/workflows/ci_windows.yaml | Select-String 'libt_version: \\[\"([\\d.]+)\", \"[\\d.]+\"\\]').matches.groups[1].value -join ' '",
             "}",
             "catch { '' }"
         ],

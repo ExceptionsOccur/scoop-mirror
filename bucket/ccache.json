@@ -5,12 +5,12 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh.api.99988866.xyz/github.com/ccache/ccache/releases/download/v4.11/ccache-4.11-windows-x86_64.zip",
+            "url": "https://github.moeyy.xyz/github.com/ccache/ccache/releases/download/v4.11/ccache-4.11-windows-x86_64.zip",
             "hash": "47bbeefc588ec3de4ef6e5006feb11771bfe3b30380facf24605352b2d6ec04d",
             "extract_dir": "ccache-4.11-windows-x86_64"
         },
         "32bit": {
-            "url": "https://gh.api.99988866.xyz/github.com/ccache/ccache/releases/download/v4.11/ccache-4.11-windows-i686.zip",
+            "url": "https://github.moeyy.xyz/github.com/ccache/ccache/releases/download/v4.11/ccache-4.11-windows-i686.zip",
             "hash": "d0d84bcda3fc32f1f898aa24249c646f553ce4c6a329a99d4d364532f5d6a590",
             "extract_dir": "ccache-4.11-windows-i686"
         }
@@ -22,11 +22,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.api.99988866.xyz/github.com/ccache/ccache/releases/download/v$version/ccache-$version-windows-x86_64.zip",
+                "url": "https://github.moeyy.xyz/github.com/ccache/ccache/releases/download/v$version/ccache-$version-windows-x86_64.zip",
                 "extract_dir": "ccache-$version-windows-x86_64"
             },
             "32bit": {
-                "url": "https://gh.api.99988866.xyz/github.com/ccache/ccache/releases/download/v$version/ccache-$version-windows-i686.zip",
+                "url": "https://github.moeyy.xyz/github.com/ccache/ccache/releases/download/v$version/ccache-$version-windows-i686.zip",
                 "extract_dir": "ccache-$version-windows-i686"
             }
         }

@@ -17,11 +17,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.api.99988866.xyz/github.com/microsoft/garnet/releases/download/v1.0.59/win-x64-based-readytorun.zip",
+            "url": "https://github.moeyy.xyz/github.com/microsoft/garnet/releases/download/v1.0.59/win-x64-based-readytorun.zip",
             "hash": "b0a1dc3cd1ba1fd2b923ba074d9cecf35128b230b3bfdce28b2a4f0990fe2c0c"
         },
         "arm64": {
-            "url": "https://gh.api.99988866.xyz/github.com/microsoft/garnet/releases/download/v1.0.59/win-arm64-based-readytorun.zip",
+            "url": "https://github.moeyy.xyz/github.com/microsoft/garnet/releases/download/v1.0.59/win-arm64-based-readytorun.zip",
             "hash": "ce90dd77b33dc3bd5f3533d483d6777cd126e3c55fd646db29c9ec792c80e6ae"
         }
     },
@@ -36,10 +36,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.api.99988866.xyz/github.com/microsoft/garnet/releases/download/v$version/win-x64-based-readytorun.zip"
+                "url": "https://github.moeyy.xyz/github.com/microsoft/garnet/releases/download/v$version/win-x64-based-readytorun.zip"
             },
             "arm64": {
-                "url": "https://gh.api.99988866.xyz/github.com/microsoft/garnet/releases/download/v$version/win-arm64-based-readytorun.zip"
+                "url": "https://github.moeyy.xyz/github.com/microsoft/garnet/releases/download/v$version/win-arm64-based-readytorun.zip"
             }
         }
     }

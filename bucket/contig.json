@@ -30,7 +30,7 @@
         }
     },
     "checkver": {
-        "url": "https://gh.api.99988866.xyz/raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/contig.md",
+        "url": "https://github.moeyy.xyz/raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/contig.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {

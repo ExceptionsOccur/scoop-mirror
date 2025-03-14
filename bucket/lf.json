@@ -6,9 +6,9 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh.api.99988866.xyz/github.com/gokcehan/lf/releases/download/r34/lf-windows-amd64.zip",
-                "https://gh.api.99988866.xyz/raw.githubusercontent.com/gokcehan/lf/r34/etc/lfcd.cmd",
-                "https://gh.api.99988866.xyz/raw.githubusercontent.com/gokcehan/lf/r34/etc/lfcd.ps1"
+                "https://github.moeyy.xyz/github.com/gokcehan/lf/releases/download/r34/lf-windows-amd64.zip",
+                "https://github.moeyy.xyz/raw.githubusercontent.com/gokcehan/lf/r34/etc/lfcd.cmd",
+                "https://github.moeyy.xyz/raw.githubusercontent.com/gokcehan/lf/r34/etc/lfcd.ps1"
             ],
             "hash": [
                 "deef0536bbb9b90c784acd738db97ba0eb26a2f4466390b82b718c9c5d12ccbe",
@@ -18,9 +18,9 @@
         },
         "32bit": {
             "url": [
-                "https://gh.api.99988866.xyz/github.com/gokcehan/lf/releases/download/r34/lf-windows-386.zip",
-                "https://gh.api.99988866.xyz/raw.githubusercontent.com/gokcehan/lf/r34/etc/lfcd.cmd",
-                "https://gh.api.99988866.xyz/raw.githubusercontent.com/gokcehan/lf/r34/etc/lfcd.ps1"
+                "https://github.moeyy.xyz/github.com/gokcehan/lf/releases/download/r34/lf-windows-386.zip",
+                "https://github.moeyy.xyz/raw.githubusercontent.com/gokcehan/lf/r34/etc/lfcd.cmd",
+                "https://github.moeyy.xyz/raw.githubusercontent.com/gokcehan/lf/r34/etc/lfcd.ps1"
             ],
             "hash": [
                 "147ae731ed8269374f2e4e7f82c15f531031ffd1d0c9a42999f4c4a739e461d2",
@@ -40,16 +40,16 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh.api.99988866.xyz/github.com/gokcehan/lf/releases/download/$version/lf-windows-amd64.zip",
-                    "https://gh.api.99988866.xyz/raw.githubusercontent.com/gokcehan/lf/$version/etc/lfcd.cmd",
-                    "https://gh.api.99988866.xyz/raw.githubusercontent.com/gokcehan/lf/$version/etc/lfcd.ps1"
+                    "https://github.moeyy.xyz/github.com/gokcehan/lf/releases/download/$version/lf-windows-amd64.zip",
+                    "https://github.moeyy.xyz/raw.githubusercontent.com/gokcehan/lf/$version/etc/lfcd.cmd",
+                    "https://github.moeyy.xyz/raw.githubusercontent.com/gokcehan/lf/$version/etc/lfcd.ps1"
                 ]
             },
             "32bit": {
                 "url": [
-                    "https://gh.api.99988866.xyz/github.com/gokcehan/lf/releases/download/$version/lf-windows-386.zip",
-                    "https://gh.api.99988866.xyz/raw.githubusercontent.com/gokcehan/lf/$version/etc/lfcd.cmd",
-                    "https://gh.api.99988866.xyz/raw.githubusercontent.com/gokcehan/lf/$version/etc/lfcd.ps1"
+                    "https://github.moeyy.xyz/github.com/gokcehan/lf/releases/download/$version/lf-windows-386.zip",
+                    "https://github.moeyy.xyz/raw.githubusercontent.com/gokcehan/lf/$version/etc/lfcd.cmd",
+                    "https://github.moeyy.xyz/raw.githubusercontent.com/gokcehan/lf/$version/etc/lfcd.ps1"
                 ]
             }
         }
