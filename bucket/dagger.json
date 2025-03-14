@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/github.com/dagger/dagger/releases/download/v0.16.3/dagger_v0.16.3_windows_amd64.zip",
+            "url": "https://gh.llkk.cc/https://github.com/dagger/dagger/releases/download/v0.16.3/dagger_v0.16.3_windows_amd64.zip",
             "hash": "0458d69b8bfe18ec913636b6590da9ffdb4ec57dfe84c0f872b24bb43fff5336"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/github.com/dagger/dagger/releases/download/v$version/dagger_v$version_windows_amd64.zip",
+                "url": "https://gh.llkk.cc/https://github.com/dagger/dagger/releases/download/v$version/dagger_v$version_windows_amd64.zip",
                 "hash": {
                     "url": "$baseurl/checksums.txt"
                 }

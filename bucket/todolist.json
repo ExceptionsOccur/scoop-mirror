@@ -9,7 +9,7 @@
     "suggest": {
         "vcredist": "extras/vcredist2010"
     },
-    "url": "https://gh.llkk.cc/raw.githubusercontent.com/abstractspoon/ToDoList_Downloads/master/Latest/todolist_exe.zip",
+    "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/abstractspoon/ToDoList_Downloads/master/Latest/todolist_exe.zip",
     "hash": "9db3acd3050599e3315a90e361f2a4bbb65aaff8eeab17748a9fa64dc9d34164",
     "pre_install": [
         "function persistFile ([String] $name) {",
@@ -46,6 +46,6 @@
         "regex": "Update todolist_exe.zip to (\\d+[\\d.]+\\.\\d+)"
     },
     "autoupdate": {
-        "url": "https://gh.llkk.cc/raw.githubusercontent.com/abstractspoon/ToDoList_Downloads/master/Latest/todolist_exe.zip"
+        "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/abstractspoon/ToDoList_Downloads/master/Latest/todolist_exe.zip"
     }
 }

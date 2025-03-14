@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/github.com/tinygo-org/tinygo/releases/download/v0.36.0/tinygo0.36.0.windows-amd64.zip",
+            "url": "https://gh.llkk.cc/https://github.com/tinygo-org/tinygo/releases/download/v0.36.0/tinygo0.36.0.windows-amd64.zip",
             "hash": "cc73790cc888e9d3068a4961831a46bbb16cad1efe909ab108981b79851a9ab9"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/github.com/tinygo-org/tinygo/releases/download/v$version/tinygo$version.windows-amd64.zip"
+                "url": "https://gh.llkk.cc/https://github.com/tinygo-org/tinygo/releases/download/v$version/tinygo$version.windows-amd64.zip"
             }
         }
     }

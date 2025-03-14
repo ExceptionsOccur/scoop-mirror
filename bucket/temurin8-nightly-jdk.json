@@ -5,11 +5,11 @@
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b04-ea-beta/OpenJDK8U-jdk_x64_windows_hotspot_8u452b04-ea.zip",
+            "url": "https://gh.llkk.cc/https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b04-ea-beta/OpenJDK8U-jdk_x64_windows_hotspot_8u452b04-ea.zip",
             "hash": "3c0e431ed83185c3a3213af12f089df2f69bf5d6df12cd9b83a2743696015bd1"
         },
         "32bit": {
-            "url": "https://gh.llkk.cc/github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b04-ea-beta/OpenJDK8U-jdk_x86-32_windows_hotspot_8u452b04-ea.zip",
+            "url": "https://gh.llkk.cc/https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b04-ea-beta/OpenJDK8U-jdk_x86-32_windows_hotspot_8u452b04-ea.zip",
             "hash": "254db7bcb0e10bb5cbed6c04f7ebbf5562794cc718544b1bcb76fa6e30bfbc8d"
         }
     },

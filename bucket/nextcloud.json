@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/github.com/nextcloud-releases/desktop/releases/download/v3.16.1/Nextcloud-3.16.1-x64.msi",
+            "url": "https://gh.llkk.cc/https://github.com/nextcloud-releases/desktop/releases/download/v3.16.1/Nextcloud-3.16.1-x64.msi",
             "hash": "e23e9eb5505b75151d426b920a50619e3e237df2c1c043f8e55ae93d7a4199f2"
         }
     },
@@ -33,7 +33,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/github.com/nextcloud-releases/desktop/releases/download/v$version/Nextcloud-$version-x64.msi"
+                "url": "https://gh.llkk.cc/https://github.com/nextcloud-releases/desktop/releases/download/v$version/Nextcloud-$version-x64.msi"
             }
         }
     }

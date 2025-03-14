@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/github.com/HandBrake/HandBrake-snapshots/releases/download/win/HandBrake-20250310-f02f44a6a-x86_64-Win_GUI.zip",
+            "url": "https://gh.llkk.cc/https://github.com/HandBrake/HandBrake-snapshots/releases/download/win/HandBrake-20250310-f02f44a6a-x86_64-Win_GUI.zip",
             "hash": "4bad289c59f02871080ecec65d64f42a2ab021288fcdb5ba137854d9d6588ffb"
         }
     },
@@ -42,7 +42,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/github.com/HandBrake/HandBrake-snapshots/releases/download/win/HandBrake-$version-x86_64-Win_GUI.zip",
+                "url": "https://gh.llkk.cc/https://github.com/HandBrake/HandBrake-snapshots/releases/download/win/HandBrake-$version-x86_64-Win_GUI.zip",
                 "hash": {
                     "url": "https://github.com/HandBrake/handbrake-snapshots/releases/tag/win",
                     "regex": "<td>$sha256</td>\\s+<td>HandBrake-([\\d]+-[\\w]+)-x86_64-Win_GUI.zip</td>"

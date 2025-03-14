@@ -5,12 +5,12 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/github.com/streetwriters/notesnook/releases/download/v3.0.30/notesnook_win_x64.exe#/dl.7z",
+            "url": "https://gh.llkk.cc/https://github.com/streetwriters/notesnook/releases/download/v3.0.30/notesnook_win_x64.exe#/dl.7z",
             "hash": "sha512:ecf67ab659062028cbc3e0596468a4a18884c7c72101a731ec17d50b5bfe623ddf4a290ac84c5720c41d5ad8f51ea8da1f6e4a8ea6d8cb9c20e9029c17952625",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""
         },
         "arm64": {
-            "url": "https://gh.llkk.cc/github.com/streetwriters/notesnook/releases/download/v3.0.30/notesnook_win_arm64.exe#/dl.7z",
+            "url": "https://gh.llkk.cc/https://github.com/streetwriters/notesnook/releases/download/v3.0.30/notesnook_win_arm64.exe#/dl.7z",
             "hash": "sha512:332d48341af2368e721e632ae8f57d6ba6ae238db716b44ad8ce0e23ead757fe1ba76341677fb331f2e472470281fc53a8cd149a2c62d909afcbf6613d46afc7",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\""
         }
@@ -30,10 +30,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/github.com/streetwriters/notesnook/releases/download/v$version/notesnook_win_x64.exe#/dl.7z"
+                "url": "https://gh.llkk.cc/https://github.com/streetwriters/notesnook/releases/download/v$version/notesnook_win_x64.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://gh.llkk.cc/github.com/streetwriters/notesnook/releases/download/v$version/notesnook_win_arm64.exe#/dl.7z"
+                "url": "https://gh.llkk.cc/https://github.com/streetwriters/notesnook/releases/download/v$version/notesnook_win_arm64.exe#/dl.7z"
             }
         },
         "hash": {

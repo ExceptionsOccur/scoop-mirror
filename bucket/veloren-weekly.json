@@ -14,7 +14,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/github.com/veloren/veloren/releases/download/weekly/weekly-windows-x86_64-2025-03-13T00_36.zip",
+            "url": "https://gh.llkk.cc/https://github.com/veloren/veloren/releases/download/weekly/weekly-windows-x86_64-2025-03-13T00_36.zip",
             "hash": "8710fc31750d162e42d787d921f9337a9e57078ba93e3ad0cdd52fc105b32e7a"
         }
     },
@@ -41,7 +41,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/github.com/veloren/veloren/releases/download/weekly/weekly-windows-x86_64-$version.zip"
+                "url": "https://gh.llkk.cc/https://github.com/veloren/veloren/releases/download/weekly/weekly-windows-x86_64-$version.zip"
             }
         }
     }

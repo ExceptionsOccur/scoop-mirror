@@ -12,7 +12,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/github.com/Stirling-Tools/Stirling-PDF/releases/download/v0.44.1/Stirling-PDF.jar",
+            "url": "https://gh.llkk.cc/https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v0.44.1/Stirling-PDF.jar",
             "hash": "de6e06e0c51fec86bba8d2214d18ea59d455b6dbd366f68d763b38bfce94a1c6"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/github.com/Stirling-Tools/Stirling-PDF/releases/download/v$version/Stirling-PDF.jar"
+                "url": "https://gh.llkk.cc/https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v$version/Stirling-PDF.jar"
             }
         }
     }

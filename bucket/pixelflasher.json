@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/github.com/badabing2005/PixelFlasher/releases/download/v7.11.1.0/PixelFlasher.exe",
+            "url": "https://gh.llkk.cc/https://github.com/badabing2005/PixelFlasher/releases/download/v7.11.1.0/PixelFlasher.exe",
             "hash": "7e59e8e2c749f96a4da6bde257b030ed32585939069fb046527ea8b19e39cd85"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/github.com/badabing2005/PixelFlasher/releases/download/v$version/PixelFlasher.exe",
+                "url": "https://gh.llkk.cc/https://github.com/badabing2005/PixelFlasher/releases/download/v$version/PixelFlasher.exe",
                 "hash": {
                     "url": "$url.sha256",
                     "find": "$sha256"
