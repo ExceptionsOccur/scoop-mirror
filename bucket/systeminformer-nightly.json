@@ -3,7 +3,7 @@
     "description": "A powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.",
     "homepage": "https://systeminformer.sourceforge.io",
     "license": "MIT",
-    "url": "https://github.moeyy.xyz/github.com/winsiderss/si-builds/releases/download/3.2.25072.1944/systeminformer-3.2.25072.1944-canary-bin.zip",
+    "url": "https://gh.llkk.cc/github.com/winsiderss/si-builds/releases/download/3.2.25072.1944/systeminformer-3.2.25072.1944-canary-bin.zip",
     "hash": "129d4a44dae0acb68849059386d70e19a1ebcc6c607de8cda8620a33e0d49ba9",
     "architecture": {
         "32bit": {
@@ -40,7 +40,7 @@
         "regex": "systeminformer-([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://github.moeyy.xyz/github.com/winsiderss/si-builds/releases/download/$version/systeminformer-$version-canary-bin.zip",
+        "url": "https://gh.llkk.cc/github.com/winsiderss/si-builds/releases/download/$version/systeminformer-$version-canary-bin.zip",
         "hash": {
             "url": "https://systeminformer.sourceforge.io/canary",
             "regex": "(?s)Hashes.*?Binaries.*?SHA2.*?$sha256"

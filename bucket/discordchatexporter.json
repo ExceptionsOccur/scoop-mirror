@@ -9,15 +9,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.moeyy.xyz/github.com/Tyrrrz/DiscordChatExporter/releases/download/2.44.1/DiscordChatExporter.win-x64.zip",
+            "url": "https://gh.llkk.cc/github.com/Tyrrrz/DiscordChatExporter/releases/download/2.44.1/DiscordChatExporter.win-x64.zip",
             "hash": "997a53f877f142b86af7ddf0acb743507449599922eee8770a3942bfde95e315"
         },
         "32bit": {
-            "url": "https://github.moeyy.xyz/github.com/Tyrrrz/DiscordChatExporter/releases/download/2.44.1/DiscordChatExporter.win-x86.zip",
+            "url": "https://gh.llkk.cc/github.com/Tyrrrz/DiscordChatExporter/releases/download/2.44.1/DiscordChatExporter.win-x86.zip",
             "hash": "0e2bcdf74f667cf09dfaa9a6b7ed340dcc84d6d0f4dd53fa4fabe5aa014ff2d1"
         },
         "arm64": {
-            "url": "https://github.moeyy.xyz/github.com/Tyrrrz/DiscordChatExporter/releases/download/2.44.1/DiscordChatExporter.win-arm64.zip",
+            "url": "https://gh.llkk.cc/github.com/Tyrrrz/DiscordChatExporter/releases/download/2.44.1/DiscordChatExporter.win-arm64.zip",
             "hash": "7196e083369df798c11001e9dce14d7bcf8f7921f32c041676d6f16be4adef47"
         }
     },
@@ -34,13 +34,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.moeyy.xyz/github.com/Tyrrrz/DiscordChatExporter/releases/download/$version/DiscordChatExporter.win-x64.zip"
+                "url": "https://gh.llkk.cc/github.com/Tyrrrz/DiscordChatExporter/releases/download/$version/DiscordChatExporter.win-x64.zip"
             },
             "32bit": {
-                "url": "https://github.moeyy.xyz/github.com/Tyrrrz/DiscordChatExporter/releases/download/$version/DiscordChatExporter.win-x86.zip"
+                "url": "https://gh.llkk.cc/github.com/Tyrrrz/DiscordChatExporter/releases/download/$version/DiscordChatExporter.win-x86.zip"
             },
             "arm64": {
-                "url": "https://github.moeyy.xyz/github.com/Tyrrrz/DiscordChatExporter/releases/download/$version/DiscordChatExporter.win-arm64.zip"
+                "url": "https://gh.llkk.cc/github.com/Tyrrrz/DiscordChatExporter/releases/download/$version/DiscordChatExporter.win-arm64.zip"
             }
         }
     }

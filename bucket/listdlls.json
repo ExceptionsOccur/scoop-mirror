@@ -22,7 +22,7 @@
         }
     },
     "checkver": {
-        "url": "https://github.moeyy.xyz/raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/listdlls.md",
+        "url": "https://gh.llkk.cc/raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/listdlls.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {

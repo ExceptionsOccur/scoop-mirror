@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.moeyy.xyz/github.com/xushengfeng/eSearch/releases/download/14.5.0/eSearch-14.5.0-win32-x64.zip",
+            "url": "https://gh.llkk.cc/github.com/xushengfeng/eSearch/releases/download/14.5.0/eSearch-14.5.0-win32-x64.zip",
             "hash": "2f0fa503a0320e057b1f6a9a6c3b1516029fe424cf849f1aa04725e10acd8cbc"
         },
         "arm64": {
-            "url": "https://github.moeyy.xyz/github.com/xushengfeng/eSearch/releases/download/14.5.0/eSearch-14.5.0-win32-arm64.zip",
+            "url": "https://gh.llkk.cc/github.com/xushengfeng/eSearch/releases/download/14.5.0/eSearch-14.5.0-win32-arm64.zip",
             "hash": "5ce8894da9f265bafad6d6d26d01a7e9ca66e3931788ba17d85c804a700fc119"
         }
     },
@@ -27,10 +27,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.moeyy.xyz/github.com/xushengfeng/eSearch/releases/download/$version/eSearch-$version-win32-x64.zip"
+                "url": "https://gh.llkk.cc/github.com/xushengfeng/eSearch/releases/download/$version/eSearch-$version-win32-x64.zip"
             },
             "arm64": {
-                "url": "https://github.moeyy.xyz/github.com/xushengfeng/eSearch/releases/download/$version/eSearch-$version-win32-arm64.zip"
+                "url": "https://gh.llkk.cc/github.com/xushengfeng/eSearch/releases/download/$version/eSearch-$version-win32-arm64.zip"
             }
         }
     }

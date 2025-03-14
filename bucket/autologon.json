@@ -51,7 +51,7 @@
         }
     },
     "checkver": {
-        "url": "https://github.moeyy.xyz/raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/autologon.md",
+        "url": "https://gh.llkk.cc/raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/autologon.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {

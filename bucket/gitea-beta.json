@@ -6,11 +6,11 @@
     "notes": "Run 'gitea web -c \"$persist_dir\\custom\\conf\\app.ini\"' to start the webserver",
     "architecture": {
         "64bit": {
-            "url": "https://github.moeyy.xyz/github.com/go-gitea/gitea/releases/download/v1.23.5/gitea-1.23.5-windows-4.0-amd64.exe#/gitea.exe",
+            "url": "https://gh.llkk.cc/github.com/go-gitea/gitea/releases/download/v1.23.5/gitea-1.23.5-windows-4.0-amd64.exe#/gitea.exe",
             "hash": "83d18015be1a210da3d6873d664a42dbbc61ffeea2e86ebbac5c4b299b2d7815"
         },
         "32bit": {
-            "url": "https://github.moeyy.xyz/github.com/go-gitea/gitea/releases/download/v1.23.5/gitea-1.23.5-windows-4.0-386.exe#/gitea.exe",
+            "url": "https://gh.llkk.cc/github.com/go-gitea/gitea/releases/download/v1.23.5/gitea-1.23.5-windows-4.0-386.exe#/gitea.exe",
             "hash": "8e4e0f59b7f0946a99b71f5527f4e0f4d1b910bfdb65b793dceaa8d92fe51082"
         }
     },
@@ -32,10 +32,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.moeyy.xyz/github.com/go-gitea/gitea/releases/download/v$version/gitea-$version-windows-4.0-amd64.exe#/gitea.exe"
+                "url": "https://gh.llkk.cc/github.com/go-gitea/gitea/releases/download/v$version/gitea-$version-windows-4.0-amd64.exe#/gitea.exe"
             },
             "32bit": {
-                "url": "https://github.moeyy.xyz/github.com/go-gitea/gitea/releases/download/v$version/gitea-$version-windows-4.0-386.exe#/gitea.exe"
+                "url": "https://gh.llkk.cc/github.com/go-gitea/gitea/releases/download/v$version/gitea-$version-windows-4.0-386.exe#/gitea.exe"
             }
         },
         "hash": {

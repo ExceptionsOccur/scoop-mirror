@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.moeyy.xyz/github.com/ClementTsang/bottom/releases/download/nightly/bottom_x86_64-pc-windows-msvc.zip",
+            "url": "https://gh.llkk.cc/github.com/ClementTsang/bottom/releases/download/nightly/bottom_x86_64-pc-windows-msvc.zip",
             "hash": "51e370a1773c589190ca24c2c497601480f65b7646e2501252a293b153bdbca5"
         },
         "32bit": {
-            "url": "https://github.moeyy.xyz/github.com/ClementTsang/bottom/releases/download/nightly/bottom_i686-pc-windows-msvc.zip",
+            "url": "https://gh.llkk.cc/github.com/ClementTsang/bottom/releases/download/nightly/bottom_i686-pc-windows-msvc.zip",
             "hash": "bc88a82200f3af1db01818b55f119a0fef28c2ed803de69c3bb62d0b91e16d4c"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.moeyy.xyz/github.com/ClementTsang/bottom/releases/download/nightly/bottom_x86_64-pc-windows-msvc.zip"
+                "url": "https://gh.llkk.cc/github.com/ClementTsang/bottom/releases/download/nightly/bottom_x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://github.moeyy.xyz/github.com/ClementTsang/bottom/releases/download/nightly/bottom_i686-pc-windows-msvc.zip"
+                "url": "https://gh.llkk.cc/github.com/ClementTsang/bottom/releases/download/nightly/bottom_i686-pc-windows-msvc.zip"
             }
         }
     }

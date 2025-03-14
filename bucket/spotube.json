@@ -5,7 +5,7 @@
     "license": "BSD-4-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.moeyy.xyz/github.com/KRTirtho/spotube/releases/download/v4.0.0/Spotube-windows-x86_64-setup.exe",
+            "url": "https://gh.llkk.cc/github.com/KRTirtho/spotube/releases/download/v4.0.0/Spotube-windows-x86_64-setup.exe",
             "hash": "8834763b3687cee813434b17e29379490725caa20e259ceb1d842cb007dbfaf7"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.moeyy.xyz/github.com/KRTirtho/spotube/releases/download/v$version/Spotube-windows-x86_64-setup.exe"
+                "url": "https://gh.llkk.cc/github.com/KRTirtho/spotube/releases/download/v$version/Spotube-windows-x86_64-setup.exe"
             }
         },
         "hash": {

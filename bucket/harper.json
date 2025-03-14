@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.moeyy.xyz/github.com/Automattic/harper/releases/download/v0.25.1/harper-ls-x86_64-pc-windows-msvc.zip",
-                "https://github.moeyy.xyz/github.com/Automattic/harper/releases/download/v0.25.1/harper-cli-x86_64-pc-windows-msvc.zip"
+                "https://gh.llkk.cc/github.com/Automattic/harper/releases/download/v0.25.1/harper-ls-x86_64-pc-windows-msvc.zip",
+                "https://gh.llkk.cc/github.com/Automattic/harper/releases/download/v0.25.1/harper-cli-x86_64-pc-windows-msvc.zip"
             ],
             "hash": [
                 "0d764832561899e362a1b2945f21a6e5c6e93163f6d3bc96ee9863cacbc427e3",
@@ -26,8 +26,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://github.moeyy.xyz/github.com/Automattic/harper/releases/download/v$version/harper-ls-x86_64-pc-windows-msvc.zip",
-                    "https://github.moeyy.xyz/github.com/Automattic/harper/releases/download/v$version/harper-cli-x86_64-pc-windows-msvc.zip"
+                    "https://gh.llkk.cc/github.com/Automattic/harper/releases/download/v$version/harper-ls-x86_64-pc-windows-msvc.zip",
+                    "https://gh.llkk.cc/github.com/Automattic/harper/releases/download/v$version/harper-cli-x86_64-pc-windows-msvc.zip"
                 ]
             }
         }

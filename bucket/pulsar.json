@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.moeyy.xyz/github.com/pulsar-edit/pulsar/releases/download/v1.126.0/Windows.Pulsar-1.126.0-win.zip",
+            "url": "https://gh.llkk.cc/github.com/pulsar-edit/pulsar/releases/download/v1.126.0/Windows.Pulsar-1.126.0-win.zip",
             "hash": "1235f3636b657c0a49f8fad7f9f56c6687258993649993a578f7543a73bc3b46"
         }
     },
@@ -34,7 +34,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.moeyy.xyz/github.com/pulsar-edit/pulsar/releases/download/v$version/Windows.Pulsar-$version-win.zip"
+                "url": "https://gh.llkk.cc/github.com/pulsar-edit/pulsar/releases/download/v$version/Windows.Pulsar-$version-win.zip"
             }
         },
         "hash": {

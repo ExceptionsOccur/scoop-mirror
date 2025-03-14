@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.moeyy.xyz/github.com/Lymphatus/caesium-image-compressor/releases/download/v2.8.3/caesium-image-compressor-2.8.3-win-portable.zip",
+            "url": "https://gh.llkk.cc/github.com/Lymphatus/caesium-image-compressor/releases/download/v2.8.3/caesium-image-compressor-2.8.3-win-portable.zip",
             "hash": "b6d3af0349f5535e669ebc9246d725e8e2abcf443adb841bbfed418c09263f79",
             "extract_dir": "caesium-image-compressor-2.8.3-win"
         }
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.moeyy.xyz/github.com/Lymphatus/caesium-image-compressor/releases/download/v$version/caesium-image-compressor-$version-win-portable.zip",
+                "url": "https://gh.llkk.cc/github.com/Lymphatus/caesium-image-compressor/releases/download/v$version/caesium-image-compressor-$version-win-portable.zip",
                 "extract_dir": "caesium-image-compressor-$version-win"
             }
         }

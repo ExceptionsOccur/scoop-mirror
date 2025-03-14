@@ -30,7 +30,7 @@
         }
     },
     "checkver": {
-        "url": "https://github.moeyy.xyz/raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/junction.md",
+        "url": "https://gh.llkk.cc/raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/junction.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {
