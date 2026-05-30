@@ -1,12 +1,12 @@
 {
     "version": "b9414",
-    "description": "Inference of LLaMA model in pure C/C++ (OpenCL for Adreno GPUs)",
+    "description": "Inference of LLaMA model in pure C/C++ (CUDA 13.3 version)",
     "homepage": "https://github.com/ggml-org/llama.cpp",
     "license": "MIT",
     "architecture": {
-        "arm64": {
-            "url": "https://gh.llkk.cc/https://github.com/ggml-org/llama.cpp/releases/download/b9414/llama-b9414-bin-win-opencl-adreno-arm64.zip",
-            "hash": "6de2a6b2a5a1e9ec60fd4b8664138d59797012953f5d6979fee1d3a2a59d9f4f"
+        "64bit": {
+            "url": "https://gh.llkk.cc/https://github.com/ggml-org/llama.cpp/releases/download/b9414/llama-b9414-bin-win-cuda-13.3-x64.zip",
+            "hash": "57bdf1d7935f97f09819d2834a9dd9601c16061fa48518c39e87b75192e3e434"
         }
     },
     "bin": [
@@ -35,8 +35,8 @@
     },
     "autoupdate": {
         "architecture": {
-            "arm64": {
-                "url": "https://gh.llkk.cc/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-opencl-adreno-arm64.zip"
+            "64bit": {
+                "url": "https://gh.llkk.cc/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-cuda-13.3-x64.zip"
             }
         }
     }
