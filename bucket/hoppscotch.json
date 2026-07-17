@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/hoppscotch/releases/releases/download/v26.6.0-0/Hoppscotch_win_x64.msi",
+            "url": "https://ghproxy.net/https://github.com/hoppscotch/releases/releases/download/v26.6.0-0/Hoppscotch_win_x64.msi",
             "hash": "e209453adac1a12bebf06e480fd6c83c6445cd681c0534348f14b26854a44ae7"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/hoppscotch/releases/releases/download/v$version/Hoppscotch_win_x64.msi"
+                "url": "https://ghproxy.net/https://github.com/hoppscotch/releases/releases/download/v$version/Hoppscotch_win_x64.msi"
             }
         }
     }

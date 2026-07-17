@@ -5,7 +5,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/jlcodes99/cockpit-tools/releases/download/v1.3.8/Cockpit.Tools_1.3.8_x64_en-US.msi",
+            "url": "https://ghproxy.net/https://github.com/jlcodes99/cockpit-tools/releases/download/v1.3.8/Cockpit.Tools_1.3.8_x64_en-US.msi",
             "hash": "a1883496d1f8a03263d73f067e62607e9e7128430adf8646b590b20bcf9e1882"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/jlcodes99/cockpit-tools/releases/download/v$version/Cockpit.Tools_$version_x64_en-US.msi"
+                "url": "https://ghproxy.net/https://github.com/jlcodes99/cockpit-tools/releases/download/v$version/Cockpit.Tools_$version_x64_en-US.msi"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/christo-auer/eilmeldung/releases/download/1.6.1/eilmeldung-x86_64-pc-windows-msvc-1.6.1.tar.gz",
+            "url": "https://ghproxy.net/https://github.com/christo-auer/eilmeldung/releases/download/1.6.1/eilmeldung-x86_64-pc-windows-msvc-1.6.1.tar.gz",
             "hash": "e353ef3efcc0b296f0dc8499debe87f97b77e3d53344f4163bb3ee3b2dce57cb"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/christo-auer/eilmeldung/releases/download/$version/eilmeldung-x86_64-pc-windows-msvc-$version.tar.gz"
+                "url": "https://ghproxy.net/https://github.com/christo-auer/eilmeldung/releases/download/$version/eilmeldung-x86_64-pc-windows-msvc-$version.tar.gz"
             }
         }
     }

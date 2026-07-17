@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/vnotex/vnote/releases/download/v4.2.0/VNote-4.2.0-win64.zip",
+            "url": "https://ghproxy.net/https://github.com/vnotex/vnote/releases/download/v4.2.0/VNote-4.2.0-win64.zip",
             "hash": "9acbdfa45156f8ebbb627edaec3cf0322867fdf2b12c2be9ef057ae9a729d8cc",
             "extract_dir": "VNote-4.2.0-win64\\bin"
         }
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/vnotex/vnote/releases/download/v$version/VNote-$version-win64.zip",
+                "url": "https://ghproxy.net/https://github.com/vnotex/vnote/releases/download/v$version/VNote-$version-win64.zip",
                 "extract_dir": "VNote-$version-win64\\bin"
             }
         }

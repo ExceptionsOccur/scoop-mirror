@@ -5,15 +5,15 @@
     "license": "OSL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-win-x64.zip",
+            "url": "https://ghproxy.net/https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-win-x64.zip",
             "hash": "175616eee99d5cc827d0535268eea55a481ee8b57adbf7b36bd5173a50b0f356"
         },
         "32bit": {
-            "url": "https://gh.llkk.cc/https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-win-ia32.zip",
+            "url": "https://ghproxy.net/https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-win-ia32.zip",
             "hash": "8c5690ad3e1d2bdfb52133391e2c24de27128662f3a069d9e749a98c04eb8d3b"
         },
         "arm64": {
-            "url": "https://gh.llkk.cc/https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-win-arm64.zip",
+            "url": "https://ghproxy.net/https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-win-arm64.zip",
             "hash": "2e660cef801d8ae574624579f4c94968f777a8387e223af1b3a0bc8fc09c91f6"
         }
     },
@@ -27,13 +27,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/Milkshiift/GoofCord/releases/download/v$version/GoofCord-$version-win-x64.zip"
+                "url": "https://ghproxy.net/https://github.com/Milkshiift/GoofCord/releases/download/v$version/GoofCord-$version-win-x64.zip"
             },
             "32bit": {
-                "url": "https://gh.llkk.cc/https://github.com/Milkshiift/GoofCord/releases/download/v$version/GoofCord-$version-win-ia32.zip"
+                "url": "https://ghproxy.net/https://github.com/Milkshiift/GoofCord/releases/download/v$version/GoofCord-$version-win-ia32.zip"
             },
             "arm64": {
-                "url": "https://gh.llkk.cc/https://github.com/Milkshiift/GoofCord/releases/download/v$version/GoofCord-$version-win-arm64.zip"
+                "url": "https://ghproxy.net/https://github.com/Milkshiift/GoofCord/releases/download/v$version/GoofCord-$version-win-arm64.zip"
             }
         }
     }

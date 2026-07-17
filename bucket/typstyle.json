@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/typstyle-rs/typstyle/releases/download/v0.15.0/typstyle-x86_64-pc-windows-msvc.exe#/typstyle.exe",
+            "url": "https://ghproxy.net/https://github.com/typstyle-rs/typstyle/releases/download/v0.15.0/typstyle-x86_64-pc-windows-msvc.exe#/typstyle.exe",
             "hash": "ff04ab943537779246274dc0ff9bb71fae6a9d232ce4b54b1b5d5710c20be714"
         },
         "arm64": {
-            "url": "https://gh.llkk.cc/https://github.com/typstyle-rs/typstyle/releases/download/v0.15.0/typstyle-aarch64-pc-windows-msvc.exe#/typstyle.exe",
+            "url": "https://ghproxy.net/https://github.com/typstyle-rs/typstyle/releases/download/v0.15.0/typstyle-aarch64-pc-windows-msvc.exe#/typstyle.exe",
             "hash": "1362b4e48f16fc8f94170d645ff6c44339d1fe358905378ca5605320510596ae"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/typstyle-rs/typstyle/releases/download/v$version/typstyle-x86_64-pc-windows-msvc.exe#/typstyle.exe"
+                "url": "https://ghproxy.net/https://github.com/typstyle-rs/typstyle/releases/download/v$version/typstyle-x86_64-pc-windows-msvc.exe#/typstyle.exe"
             },
             "arm64": {
-                "url": "https://gh.llkk.cc/https://github.com/typstyle-rs/typstyle/releases/download/v$version/typstyle-aarch64-pc-windows-msvc.exe#/typstyle.exe"
+                "url": "https://ghproxy.net/https://github.com/typstyle-rs/typstyle/releases/download/v$version/typstyle-aarch64-pc-windows-msvc.exe#/typstyle.exe"
             }
         }
     }

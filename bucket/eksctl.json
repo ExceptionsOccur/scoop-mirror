@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/eksctl-io/eksctl/releases/download/v0.229.0/eksctl_Windows_amd64.zip",
+            "url": "https://ghproxy.net/https://github.com/eksctl-io/eksctl/releases/download/v0.229.0/eksctl_Windows_amd64.zip",
             "hash": "7e5387d8ae8346f51448ada616950af3047714a83bee6611070181e3c47f6dc0"
         },
         "arm64": {
-            "url": "https://gh.llkk.cc/https://github.com/eksctl-io/eksctl/releases/download/v0.229.0/eksctl_Windows_arm64.zip",
+            "url": "https://ghproxy.net/https://github.com/eksctl-io/eksctl/releases/download/v0.229.0/eksctl_Windows_arm64.zip",
             "hash": "d8f28428106af1d6851226a5a05d122595ea5a4ab9c2ce33126607c0c49dc016"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/eksctl-io/eksctl/releases/download/v$version/eksctl_Windows_amd64.zip"
+                "url": "https://ghproxy.net/https://github.com/eksctl-io/eksctl/releases/download/v$version/eksctl_Windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh.llkk.cc/https://github.com/eksctl-io/eksctl/releases/download/v$version/eksctl_Windows_arm64.zip"
+                "url": "https://ghproxy.net/https://github.com/eksctl-io/eksctl/releases/download/v$version/eksctl_Windows_arm64.zip"
             }
         },
         "hash": {

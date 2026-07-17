@@ -5,7 +5,7 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/erebe/wstunnel/releases/download/v10.6.1/wstunnel_10.6.1_windows_amd64.tar.gz",
+            "url": "https://ghproxy.net/https://github.com/erebe/wstunnel/releases/download/v10.6.1/wstunnel_10.6.1_windows_amd64.tar.gz",
             "hash": "49b0d739c7cf0f983936ba5f4bbc9fab9e1873baf21e555dbb9450548eabaef5"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/erebe/wstunnel/releases/download/v$version/wstunnel_$version_windows_amd64.tar.gz"
+                "url": "https://ghproxy.net/https://github.com/erebe/wstunnel/releases/download/v$version/wstunnel_$version_windows_amd64.tar.gz"
             }
         },
         "hash": {

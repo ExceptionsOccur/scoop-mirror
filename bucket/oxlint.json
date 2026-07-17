@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/oxc-project/oxc/releases/download/apps_v1.74.0/oxlint-x86_64-pc-windows-msvc.zip",
+            "url": "https://ghproxy.net/https://github.com/oxc-project/oxc/releases/download/apps_v1.74.0/oxlint-x86_64-pc-windows-msvc.zip",
             "hash": "8de55c7444f8ce53dd7e92e48c83e18c0b2fe5d680179c0daf0fa2eb24048613"
         },
         "32bit": {
-            "url": "https://gh.llkk.cc/https://github.com/oxc-project/oxc/releases/download/apps_v1.74.0/oxlint-i686-pc-windows-msvc.zip",
+            "url": "https://ghproxy.net/https://github.com/oxc-project/oxc/releases/download/apps_v1.74.0/oxlint-i686-pc-windows-msvc.zip",
             "hash": "7b1103f2087ef33795b2259b4cfbb6416aee8b0a0fd3d294430bcc58cd82772d"
         },
         "arm64": {
-            "url": "https://gh.llkk.cc/https://github.com/oxc-project/oxc/releases/download/apps_v1.74.0/oxlint-aarch64-pc-windows-msvc.zip",
+            "url": "https://ghproxy.net/https://github.com/oxc-project/oxc/releases/download/apps_v1.74.0/oxlint-aarch64-pc-windows-msvc.zip",
             "hash": "c3fe9be0265d52defc5c7f71437233d79d42a9eb9ac5f7fb44a09d6b8d9dc219"
         }
     },
@@ -26,13 +26,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/oxc-project/oxc/releases/download/apps_v$version/oxlint-x86_64-pc-windows-msvc.zip"
+                "url": "https://ghproxy.net/https://github.com/oxc-project/oxc/releases/download/apps_v$version/oxlint-x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://gh.llkk.cc/https://github.com/oxc-project/oxc/releases/download/apps_v$version/oxlint-i686-pc-windows-msvc.zip"
+                "url": "https://ghproxy.net/https://github.com/oxc-project/oxc/releases/download/apps_v$version/oxlint-i686-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh.llkk.cc/https://github.com/oxc-project/oxc/releases/download/apps_v$version/oxlint-aarch64-pc-windows-msvc.zip"
+                "url": "https://ghproxy.net/https://github.com/oxc-project/oxc/releases/download/apps_v$version/oxlint-aarch64-pc-windows-msvc.zip"
             }
         }
     }

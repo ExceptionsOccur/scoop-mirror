@@ -6,7 +6,7 @@
         "identifier": "Freeware",
         "url": "https://www.oracle.com/downloads/licenses/graal-free-license.html"
     },
-    "url": "https://gh.llkk.cc/https://github.com/graalvm/oracle-graalvm-ea-builds/releases/download/jdk-25i2-25.0.3-ea.03/graalvm-jdk-25i2-25.0.3-ea.03_windows-x64_bin.zip",
+    "url": "https://ghproxy.net/https://github.com/graalvm/oracle-graalvm-ea-builds/releases/download/jdk-25i2-25.0.3-ea.03/graalvm-jdk-25i2-25.0.3-ea.03_windows-x64_bin.zip",
     "hash": "1e0bf3215f5ab65929ff969ce7efa0aeeccab5058de0b774aed4ac0c7c87fbbb",
     "extract_to": "tmp",
     "installer": {
@@ -25,6 +25,6 @@
         "regex": "tag/jdk-([\\w.-]+)"
     },
     "autoupdate": {
-        "url": "https://gh.llkk.cc/https://github.com/graalvm/oracle-graalvm-ea-builds/releases/download/jdk-$version/graalvm-jdk-$version_windows-x64_bin.zip"
+        "url": "https://ghproxy.net/https://github.com/graalvm/oracle-graalvm-ea-builds/releases/download/jdk-$version/graalvm-jdk-$version_windows-x64_bin.zip"
     }
 }

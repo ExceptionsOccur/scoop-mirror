@@ -6,11 +6,11 @@
     "license": "MIT",
     "architecture": {
         "32bit": {
-            "url": "https://gh.llkk.cc/https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.15.1+0/HiGHS.v1.15.1.i686-w64-mingw32-cxx11.tar.gz#/dl.gz",
+            "url": "https://ghproxy.net/https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.15.1+0/HiGHS.v1.15.1.i686-w64-mingw32-cxx11.tar.gz#/dl.gz",
             "hash": "3342f46c19881ba93c7fada6cde00254b813f02503fc5d38d92a5bcb335eba94"
         },
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.15.1+0/HiGHS.v1.15.1.x86_64-w64-mingw32-cxx11.tar.gz#/dl.gz",
+            "url": "https://ghproxy.net/https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v1.15.1+0/HiGHS.v1.15.1.x86_64-w64-mingw32-cxx11.tar.gz#/dl.gz",
             "hash": "1ed9fb8b02526a6cda18edaf52ea38364063d975e1c816d3709c8510c1320cfe"
         }
     },
@@ -33,10 +33,10 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://gh.llkk.cc/https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v$version/HiGHS.v$matchHead.i686-w64-mingw32-cxx11.tar.gz#/dl.gz"
+                "url": "https://ghproxy.net/https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v$version/HiGHS.v$matchHead.i686-w64-mingw32-cxx11.tar.gz#/dl.gz"
             },
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v$version/HiGHS.v$matchHead.x86_64-w64-mingw32-cxx11.tar.gz#/dl.gz"
+                "url": "https://ghproxy.net/https://github.com/JuliaBinaryWrappers/HiGHS_jll.jl/releases/download/HiGHS-v$version/HiGHS.v$matchHead.x86_64-w64-mingw32-cxx11.tar.gz#/dl.gz"
             }
         }
     }

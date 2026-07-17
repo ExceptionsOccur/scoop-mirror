@@ -10,7 +10,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/roslynpad/roslynpad/releases/download/21.1/RoslynPad-windows-x64.zip",
+            "url": "https://ghproxy.net/https://github.com/roslynpad/roslynpad/releases/download/21.1/RoslynPad-windows-x64.zip",
             "hash": "89debf27b63d71526a4be4dfedb07424f632268dfdf2266dc2d3649fd4adefd8"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/roslynpad/roslynpad/releases/download/$version/RoslynPad-windows-x64.zip"
+                "url": "https://ghproxy.net/https://github.com/roslynpad/roslynpad/releases/download/$version/RoslynPad-windows-x64.zip"
             }
         }
     }

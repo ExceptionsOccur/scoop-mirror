@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.28.0/azd-windows-amd64.zip",
+            "url": "https://ghproxy.net/https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.28.0/azd-windows-amd64.zip",
             "hash": "569f4602627b8b51aaf2a7909b1d71092b5d283fd4fbbd012c2c9a689707fea8"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_$version/azd-windows-amd64.zip"
+                "url": "https://ghproxy.net/https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_$version/azd-windows-amd64.zip"
             }
         }
     }

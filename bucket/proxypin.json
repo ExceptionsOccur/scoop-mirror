@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/wanghongenpin/proxypin/releases/download/v1.3.0/proxypin-windows-setup.exe",
+            "url": "https://ghproxy.net/https://github.com/wanghongenpin/proxypin/releases/download/v1.3.0/proxypin-windows-setup.exe",
             "hash": "264fe634e1b6a06d45c5bc684e888e85e175603094da89e99dbb9a246a1e2454"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/wanghongenpin/proxypin/releases/download/v$version/proxypin-windows-setup.exe"
+                "url": "https://ghproxy.net/https://github.com/wanghongenpin/proxypin/releases/download/v$version/proxypin-windows-setup.exe"
             }
         }
     }

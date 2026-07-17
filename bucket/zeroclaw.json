@@ -5,7 +5,7 @@
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/zeroclaw-labs/zeroclaw/releases/download/v0.8.3/zeroclaw-x86_64-pc-windows-msvc.zip",
+            "url": "https://ghproxy.net/https://github.com/zeroclaw-labs/zeroclaw/releases/download/v0.8.3/zeroclaw-x86_64-pc-windows-msvc.zip",
             "hash": "00da56062ff3f96f7dae20d9cc471e8e63e569dabffea6fda45793f5728a4db5"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/zeroclaw-labs/zeroclaw/releases/download/v$version/zeroclaw-x86_64-pc-windows-msvc.zip"
+                "url": "https://ghproxy.net/https://github.com/zeroclaw-labs/zeroclaw/releases/download/v$version/zeroclaw-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

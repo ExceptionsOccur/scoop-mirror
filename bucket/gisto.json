@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/Gisto/Gisto/releases/download/v2.13.2/Gisto_2.13.2_x64_en-US.msi",
+            "url": "https://ghproxy.net/https://github.com/Gisto/Gisto/releases/download/v2.13.2/Gisto_2.13.2_x64_en-US.msi",
             "hash": "4f9bc1db91a89e67e6fd3547e5d799f19a08eddb893a6db6da344e097d918fef"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/Gisto/Gisto/releases/download/v$version/Gisto_$version_x64_en-US.msi"
+                "url": "https://ghproxy.net/https://github.com/Gisto/Gisto/releases/download/v$version/Gisto_$version_x64_en-US.msi"
             }
         }
     }

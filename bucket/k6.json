@@ -5,7 +5,7 @@
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/grafana/k6/releases/download/v2.1.0/k6-v2.1.0-windows-amd64.zip",
+            "url": "https://ghproxy.net/https://github.com/grafana/k6/releases/download/v2.1.0/k6-v2.1.0-windows-amd64.zip",
             "hash": "185ca503ead8f0348daa79c002469e5eb324473c39452f29b5f70b1c1b4c8503",
             "extract_dir": "k6-v2.1.0-windows-amd64"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/grafana/k6/releases/download/v$version/k6-v$version-windows-amd64.zip",
+                "url": "https://ghproxy.net/https://github.com/grafana/k6/releases/download/v$version/k6-v$version-windows-amd64.zip",
                 "extract_dir": "k6-v$version-windows-amd64"
             }
         },

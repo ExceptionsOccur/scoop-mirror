@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/OpenWhispr/openwhispr/releases/download/v1.7.5/OpenWhispr-Setup-1.7.5.exe#/dl.7z",
+            "url": "https://ghproxy.net/https://github.com/OpenWhispr/openwhispr/releases/download/v1.7.5/OpenWhispr-Setup-1.7.5.exe#/dl.7z",
             "hash": "sha512:23df6af9e199edec45aa9522064840740fa388ed158b9a65544e4f27aa38dfdca2c36f3f501e7b801efbc3f72fb63c4c7018f95148fe80e8654f1bc24b30122e",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""
         }
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/OpenWhispr/openwhispr/releases/download/v$version/OpenWhispr-Setup-$version.exe#/dl.7z"
+                "url": "https://ghproxy.net/https://github.com/OpenWhispr/openwhispr/releases/download/v$version/OpenWhispr-Setup-$version.exe#/dl.7z"
             }
         },
         "hash": {

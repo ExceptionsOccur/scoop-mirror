@@ -5,12 +5,12 @@
     "license": "ZLIB",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/aardappel/treesheets/releases/download/3262/TreeSheets-3262-winx64.zip",
+            "url": "https://ghproxy.net/https://github.com/aardappel/treesheets/releases/download/3262/TreeSheets-3262-winx64.zip",
             "hash": "c0aed0d0723da5b3dfc6033b830e4ffb013da8e5dc68d3c3c1ad3f99c5658c85",
             "extract_dir": "TreeSheets-3262-winx64"
         },
         "arm64": {
-            "url": "https://gh.llkk.cc/https://github.com/aardappel/treesheets/releases/download/3262/TreeSheets-3262-winarm64.zip",
+            "url": "https://ghproxy.net/https://github.com/aardappel/treesheets/releases/download/3262/TreeSheets-3262-winarm64.zip",
             "hash": "402c66265b3aee5612f8d4c39ec5bbcc4bad3c71a557c0655e27170daf072ca7",
             "extract_dir": "TreeSheets-3262-winarm64"
         }
@@ -39,11 +39,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/aardappel/treesheets/releases/download/$version/TreeSheets-$version-winx64.zip",
+                "url": "https://ghproxy.net/https://github.com/aardappel/treesheets/releases/download/$version/TreeSheets-$version-winx64.zip",
                 "extract_dir": "TreeSheets-$version-winx64"
             },
             "arm64": {
-                "url": "https://gh.llkk.cc/https://github.com/aardappel/treesheets/releases/download/$version/TreeSheets-$version-winarm64.zip",
+                "url": "https://ghproxy.net/https://github.com/aardappel/treesheets/releases/download/$version/TreeSheets-$version-winarm64.zip",
                 "extract_dir": "TreeSheets-$version-winarm64"
             }
         }

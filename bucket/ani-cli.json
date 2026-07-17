@@ -14,11 +14,11 @@
         ],
         "alternate player": "extras/vlc"
     },
-    "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/pystardust/ani-cli/refs/tags/v4.14/ani-cli",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/pystardust/ani-cli/refs/tags/v4.14/ani-cli",
     "hash": "bf710f72fd4ecb328f8f2253c913813d8f3ae4a063dcd54aed2e4b117b1b2c37",
     "bin": "ani-cli",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/pystardust/ani-cli/refs/tags/v$version/ani-cli"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/pystardust/ani-cli/refs/tags/v$version/ani-cli"
     }
 }

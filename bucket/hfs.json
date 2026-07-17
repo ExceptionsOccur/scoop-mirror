@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/rejetto/hfs/releases/download/v3.2.1/hfs-windows-x64-3.2.1.zip",
+            "url": "https://ghproxy.net/https://github.com/rejetto/hfs/releases/download/v3.2.1/hfs-windows-x64-3.2.1.zip",
             "hash": "00556018afdd618fbcc0d3d0669f97db73cf75ec43716afbb43e4f5aaac087c9"
         }
     },
@@ -33,6 +33,6 @@
         "github": "https://github.com/rejetto/hfs"
     },
     "autoupdate": {
-        "url": "https://gh.llkk.cc/https://github.com/rejetto/hfs/releases/download/v$version/hfs-windows-x64-$version.zip"
+        "url": "https://ghproxy.net/https://github.com/rejetto/hfs/releases/download/v$version/hfs-windows-x64-$version.zip"
     }
 }

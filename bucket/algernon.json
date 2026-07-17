@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/xyproto/algernon/releases/download/v1.17.10/algernon-1.17.10-windows_x86_64_static.zip",
+            "url": "https://ghproxy.net/https://github.com/xyproto/algernon/releases/download/v1.17.10/algernon-1.17.10-windows_x86_64_static.zip",
             "hash": "cdc2b95c3b05165f19147e7c606bfb13bda50594064def55db582af45504cc90",
             "extract_dir": "algernon-1.17.10-windows_x86_64_static"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/xyproto/algernon/releases/download/v$version/algernon-$version-windows_x86_64_static.zip",
+                "url": "https://ghproxy.net/https://github.com/xyproto/algernon/releases/download/v$version/algernon-$version-windows_x86_64_static.zip",
                 "extract_dir": "algernon-$version-windows_x86_64_static"
             }
         }

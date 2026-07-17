@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/xataio/pgstream/releases/download/v1.2.0/pgstream.win.amd64.exe#/pgstream.exe",
+            "url": "https://ghproxy.net/https://github.com/xataio/pgstream/releases/download/v1.2.0/pgstream.win.amd64.exe#/pgstream.exe",
             "hash": "99531b61fe1b5ca8776a22fc6a1f734042294009e44e55159292ea1d67115588"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/xataio/pgstream/releases/download/v$version/pgstream.win.amd64.exe#/pgstream.exe"
+                "url": "https://ghproxy.net/https://github.com/xataio/pgstream/releases/download/v$version/pgstream.win.amd64.exe#/pgstream.exe"
             }
         },
         "hash": {

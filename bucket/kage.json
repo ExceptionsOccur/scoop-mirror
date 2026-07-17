@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/tamnd/kage/releases/download/v0.3.10/kage_0.3.10_windows_amd64.zip",
+            "url": "https://ghproxy.net/https://github.com/tamnd/kage/releases/download/v0.3.10/kage_0.3.10_windows_amd64.zip",
             "hash": "aff210eaf9e089a359e735f5bd4df82fb5a7729edc85cd88f16f795f28c752c1"
         },
         "arm64": {
-            "url": "https://gh.llkk.cc/https://github.com/tamnd/kage/releases/download/v0.3.10/kage_0.3.10_windows_arm64.zip",
+            "url": "https://ghproxy.net/https://github.com/tamnd/kage/releases/download/v0.3.10/kage_0.3.10_windows_arm64.zip",
             "hash": "fda90a5c7c1306a3e8dace1b8cc4db91bd85fd64b13b8d3b9dab321e37f93edc"
         }
     },
@@ -20,14 +20,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/tamnd/kage/releases/download/v$version/kage_$version_windows_amd64.zip"
+                "url": "https://ghproxy.net/https://github.com/tamnd/kage/releases/download/v$version/kage_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh.llkk.cc/https://github.com/tamnd/kage/releases/download/v$version/kage_$version_windows_arm64.zip"
+                "url": "https://ghproxy.net/https://github.com/tamnd/kage/releases/download/v$version/kage_$version_windows_arm64.zip"
             }
         },
         "hash": {
-            "url": "https://gh.llkk.cc/https://github.com/tamnd/kage/releases/download/v$version/checksums.txt"
+            "url": "https://ghproxy.net/https://github.com/tamnd/kage/releases/download/v$version/checksums.txt"
         }
     }
 }

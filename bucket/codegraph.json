@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/colbymchenry/codegraph/releases/download/v1.4.1/codegraph-win32-x64.zip",
+            "url": "https://ghproxy.net/https://github.com/colbymchenry/codegraph/releases/download/v1.4.1/codegraph-win32-x64.zip",
             "hash": "559cb1010b7899b5137f0801d35698f722a33370e907a84968852d3d68f6458d",
             "extract_dir": "codegraph-win32-x64"
         },
         "arm64": {
-            "url": "https://gh.llkk.cc/https://github.com/colbymchenry/codegraph/releases/download/v1.4.1/codegraph-win32-arm64.zip",
+            "url": "https://ghproxy.net/https://github.com/colbymchenry/codegraph/releases/download/v1.4.1/codegraph-win32-arm64.zip",
             "hash": "1adaf3ec30143996fc1a240f4399b4cd82eb494b29240b103444b1f78f4c7b95",
             "extract_dir": "codegraph-win32-arm64"
         }
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/colbymchenry/codegraph/releases/download/v$version/codegraph-win32-x64.zip"
+                "url": "https://ghproxy.net/https://github.com/colbymchenry/codegraph/releases/download/v$version/codegraph-win32-x64.zip"
             },
             "arm64": {
-                "url": "https://gh.llkk.cc/https://github.com/colbymchenry/codegraph/releases/download/v$version/codegraph-win32-arm64.zip"
+                "url": "https://ghproxy.net/https://github.com/colbymchenry/codegraph/releases/download/v$version/codegraph-win32-arm64.zip"
             }
         },
         "hash": {

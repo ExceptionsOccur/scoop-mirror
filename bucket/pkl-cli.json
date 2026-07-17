@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/apple/pkl/releases/download/0.32.0/pkl-windows-amd64.exe#/pkl.exe",
+            "url": "https://ghproxy.net/https://github.com/apple/pkl/releases/download/0.32.0/pkl-windows-amd64.exe#/pkl.exe",
             "hash": "61c40e940d5e61a0c54cc6bdef6ff26d44f02aeccd19fa0407125dc617dba030"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/apple/pkl/releases/download/$version/pkl-windows-amd64.exe#/pkl.exe"
+                "url": "https://ghproxy.net/https://github.com/apple/pkl/releases/download/$version/pkl-windows-amd64.exe#/pkl.exe"
             }
         }
     }

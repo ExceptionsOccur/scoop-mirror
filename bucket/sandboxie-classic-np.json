@@ -13,7 +13,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.18.0/Sandboxie-Classic-x64-v5.73.0.exe#/setup.exe",
+            "url": "https://ghproxy.net/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.18.0/Sandboxie-Classic-x64-v5.73.0.exe#/setup.exe",
             "hash": "cee13e96f1fc70f74795722ebc01be5172903d9b071adcfa226c5dd9db548abc"
         }
     },
@@ -33,7 +33,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/sandboxie-plus/Sandboxie/releases/download/$matchTag/Sandboxie-Classic-x64-v$version.exe#/setup.exe"
+                "url": "https://ghproxy.net/https://github.com/sandboxie-plus/Sandboxie/releases/download/$matchTag/Sandboxie-Classic-x64-v$version.exe#/setup.exe"
             }
         },
         "hash": {

@@ -3,7 +3,7 @@
     "version": "25.2.4-dev-20260717_0119",
     "homepage": "https://www.graalvm.org/",
     "license": "GPL-2.0",
-    "url": "https://gh.llkk.cc/https://github.com/graalvm/graalvm-ce-dev-builds/releases/download/25.2.4-dev-20260717_0119/graalvm-community-dev-windows-amd64.zip",
+    "url": "https://ghproxy.net/https://github.com/graalvm/graalvm-ce-dev-builds/releases/download/25.2.4-dev-20260717_0119/graalvm-community-dev-windows-amd64.zip",
     "hash": "b373dc009bf2b7e6bd38493364c941254cfc98fe2916608d3a5c77f47d4ddd14",
     "extract_to": "tmp",
     "installer": {
@@ -23,6 +23,6 @@
         "regex": "([\\d.]+-dev-\\d{8}_\\d{4})"
     },
     "autoupdate": {
-        "url": "https://gh.llkk.cc/https://github.com/graalvm/graalvm-ce-dev-builds/releases/download/$version/graalvm-community-dev-windows-amd64.zip"
+        "url": "https://ghproxy.net/https://github.com/graalvm/graalvm-ce-dev-builds/releases/download/$version/graalvm-community-dev-windows-amd64.zip"
     }
 }

@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/aquaproj/aqua/releases/download/v2.62.0/aqua_windows_amd64.zip",
+            "url": "https://ghproxy.net/https://github.com/aquaproj/aqua/releases/download/v2.62.0/aqua_windows_amd64.zip",
             "hash": "22fd5ddaa771478f8e3aa0d62d61e6cbd3f4fb6d894a4d7acab725bef7eb2dbd"
         },
         "arm64": {
-            "url": "https://gh.llkk.cc/https://github.com/aquaproj/aqua/releases/download/v2.62.0/aqua_windows_arm64.zip",
+            "url": "https://ghproxy.net/https://github.com/aquaproj/aqua/releases/download/v2.62.0/aqua_windows_arm64.zip",
             "hash": "7629b5cb596a0f41b063e8a872648cb4e21b75860e7cd925724fe6e27840758a"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/aquaproj/aqua/releases/download/v$version/aqua_windows_amd64.zip"
+                "url": "https://ghproxy.net/https://github.com/aquaproj/aqua/releases/download/v$version/aqua_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh.llkk.cc/https://github.com/aquaproj/aqua/releases/download/v$version/aqua_windows_arm64.zip"
+                "url": "https://ghproxy.net/https://github.com/aquaproj/aqua/releases/download/v$version/aqua_windows_arm64.zip"
             }
         },
         "hash": {

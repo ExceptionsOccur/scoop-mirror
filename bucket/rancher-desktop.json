@@ -9,7 +9,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.23.1/Rancher.Desktop.Setup.1.23.1.msi",
+            "url": "https://ghproxy.net/https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.23.1/Rancher.Desktop.Setup.1.23.1.msi",
             "hash": "sha512:7470dffd5444de1af4d7c7e5f7a607e5ecd727949f8a3e7e59d6d548d91b78e666718af483fa821396f69060ec4305c018e7d259abd3a410a2893f946bc51f9b"
         }
     },
@@ -33,7 +33,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/rancher-sandbox/rancher-desktop/releases/download/v$version/Rancher.Desktop.Setup.$version.msi",
+                "url": "https://ghproxy.net/https://github.com/rancher-sandbox/rancher-desktop/releases/download/v$version/Rancher.Desktop.Setup.$version.msi",
                 "hash": {
                     "url": "$url.sha512sum"
                 }

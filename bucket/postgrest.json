@@ -9,7 +9,7 @@
     "depends": "psqlodbc",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/PostgREST/postgrest/releases/download/v14.15/postgrest-v14.15-windows-x86-64.zip",
+            "url": "https://ghproxy.net/https://github.com/PostgREST/postgrest/releases/download/v14.15/postgrest-v14.15-windows-x86-64.zip",
             "hash": "cf1a1ca713556fd9f82f73478c23b71ef92d9a104b47103714192dc9d7c0ff99"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/PostgREST/postgrest/releases/download/v$version/postgrest-v$version-windows-x86-64.zip"
+                "url": "https://ghproxy.net/https://github.com/PostgREST/postgrest/releases/download/v$version/postgrest-v$version-windows-x86-64.zip"
             }
         }
     }

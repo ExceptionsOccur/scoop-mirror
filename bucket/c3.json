@@ -13,7 +13,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/c3lang/c3c/releases/download/v0.8.2/c3-windows.zip",
+            "url": "https://ghproxy.net/https://github.com/c3lang/c3c/releases/download/v0.8.2/c3-windows.zip",
             "hash": "66612b5849b4a3efe72272b93bffc1622a30f2e93f9e9d7f6edf506af8a60f28"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/c3lang/c3c/releases/download/v$version/c3-windows.zip"
+                "url": "https://ghproxy.net/https://github.com/c3lang/c3c/releases/download/v$version/c3-windows.zip"
             }
         }
     }

@@ -17,11 +17,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/eythaann/Seelen-UI/releases/download/v2.7.4/Seelen.UI_2.7.4_x64-setup.exe#/dl.7z",
+            "url": "https://ghproxy.net/https://github.com/eythaann/Seelen-UI/releases/download/v2.7.4/Seelen.UI_2.7.4_x64-setup.exe#/dl.7z",
             "hash": "31eaaa72259acdd9661d489b7999451b438a6e818fc2e0320a3d99a07ae0a93b"
         },
         "arm64": {
-            "url": "https://gh.llkk.cc/https://github.com/eythaann/Seelen-UI/releases/download/v2.7.4/Seelen.UI_2.7.4_arm64-setup.exe#/dl.7z",
+            "url": "https://ghproxy.net/https://github.com/eythaann/Seelen-UI/releases/download/v2.7.4/Seelen.UI_2.7.4_arm64-setup.exe#/dl.7z",
             "hash": "b2f2b88c3d19aaa130ac78b2d6fef34c99512db544df50e596aada5b0db387b9"
         }
     },
@@ -55,10 +55,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/eythaann/Seelen-UI/releases/download/v$version/Seelen.UI_$version_x64-setup.exe#/dl.7z"
+                "url": "https://ghproxy.net/https://github.com/eythaann/Seelen-UI/releases/download/v$version/Seelen.UI_$version_x64-setup.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://gh.llkk.cc/https://github.com/eythaann/Seelen-UI/releases/download/v$version/Seelen.UI_$version_arm64-setup.exe#/dl.7z"
+                "url": "https://ghproxy.net/https://github.com/eythaann/Seelen-UI/releases/download/v$version/Seelen.UI_$version_arm64-setup.exe#/dl.7z"
             }
         }
     }

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/torakiki/pdfsam-visual-public/releases/download/v7.0.1/pdfsam-visual-7.0.1-windows-x64.zip",
+            "url": "https://ghproxy.net/https://github.com/torakiki/pdfsam-visual-public/releases/download/v7.0.1/pdfsam-visual-7.0.1-windows-x64.zip",
             "hash": "baaa41ce8bcb7abc378091393a2bc276afa01bcbe0dd6746f6f6df9db78da20e"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/torakiki/pdfsam-visual-public/releases/download/v$version/pdfsam-visual-$version-windows-x64.zip"
+                "url": "https://ghproxy.net/https://github.com/torakiki/pdfsam-visual-public/releases/download/v$version/pdfsam-visual-$version-windows-x64.zip"
             }
         }
     }

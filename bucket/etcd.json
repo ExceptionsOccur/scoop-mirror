@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/etcd-io/etcd/releases/download/v3.7.0/etcd-v3.7.0-windows-amd64.zip",
+            "url": "https://ghproxy.net/https://github.com/etcd-io/etcd/releases/download/v3.7.0/etcd-v3.7.0-windows-amd64.zip",
             "hash": "0f3720f02a0401ddf9fd79ca41e8d04f54b05fda6cbe49a4e0f35c83d0f2bca2",
             "extract_dir": "etcd-v3.7.0-windows-amd64"
         }
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/etcd-io/etcd/releases/download/v$version/etcd-v$version-windows-amd64.zip",
+                "url": "https://ghproxy.net/https://github.com/etcd-io/etcd/releases/download/v$version/etcd-v$version-windows-amd64.zip",
                 "extract_dir": "etcd-v$version-windows-amd64",
                 "hash": {
                     "url": "$baseurl/SHA256SUMS",

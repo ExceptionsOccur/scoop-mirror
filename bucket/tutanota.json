@@ -5,7 +5,7 @@
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-355.260710.0/tutanota-desktop-win.exe#/dl.7z",
+            "url": "https://ghproxy.net/https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-355.260710.0/tutanota-desktop-win.exe#/dl.7z",
             "hash": "1ffc62fc3cd7a41dafb0fd706fc33171b3bef219bd2f1d5e8721a1dbbd0b93bf"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-$version/tutanota-desktop-win.exe#/dl.7z",
+                "url": "https://ghproxy.net/https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-$version/tutanota-desktop-win.exe#/dl.7z",
                 "hash": {
                     "url": "https://github.com/tutao/tutanota/releases/tag/tutanota-desktop-release-$version",
                     "regex": "tutanota-desktop-win.exe:.*\\n$sha256"

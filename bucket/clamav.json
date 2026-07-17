@@ -11,17 +11,17 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/Cisco-Talos/clamav/releases/download/clamav-1.5.3/clamav-1.5.3.win.x64.zip",
+            "url": "https://ghproxy.net/https://github.com/Cisco-Talos/clamav/releases/download/clamav-1.5.3/clamav-1.5.3.win.x64.zip",
             "hash": "e998b3b98c2812726ca7f4db06bf89c4b52a7eb7160ab93403c3ec790a9be6b6",
             "extract_dir": "clamav-1.5.3.win.x64"
         },
         "32bit": {
-            "url": "https://gh.llkk.cc/https://github.com/Cisco-Talos/clamav/releases/download/clamav-1.5.3/clamav-1.5.3.win.win32.zip",
+            "url": "https://ghproxy.net/https://github.com/Cisco-Talos/clamav/releases/download/clamav-1.5.3/clamav-1.5.3.win.win32.zip",
             "hash": "934cf2e53aa6457fa7227b766af4d939fc8945db0bca3760e3a186a581e3105b",
             "extract_dir": "clamav-1.5.3.win.win32"
         },
         "arm64": {
-            "url": "https://gh.llkk.cc/https://github.com/Cisco-Talos/clamav/releases/download/clamav-1.5.3/clamav-1.5.3.win.arm64.zip",
+            "url": "https://ghproxy.net/https://github.com/Cisco-Talos/clamav/releases/download/clamav-1.5.3/clamav-1.5.3.win.arm64.zip",
             "hash": "ea290c562e175dc0497ad7ac4fa7e106f857e247c9c1ce6e89750dedaae3547c",
             "extract_dir": "clamav-1.5.3.win.arm64"
         }
@@ -48,15 +48,15 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/Cisco-Talos/clamav/releases/download/clamav-$version/clamav-$version.win.x64.zip",
+                "url": "https://ghproxy.net/https://github.com/Cisco-Talos/clamav/releases/download/clamav-$version/clamav-$version.win.x64.zip",
                 "extract_dir": "clamav-$version.win.x64"
             },
             "32bit": {
-                "url": "https://gh.llkk.cc/https://github.com/Cisco-Talos/clamav/releases/download/clamav-$version/clamav-$version.win.win32.zip",
+                "url": "https://ghproxy.net/https://github.com/Cisco-Talos/clamav/releases/download/clamav-$version/clamav-$version.win.win32.zip",
                 "extract_dir": "clamav-$version.win.win32"
             },
             "arm64": {
-                "url": "https://gh.llkk.cc/https://github.com/Cisco-Talos/clamav/releases/download/clamav-$version/clamav-$version.win.arm64.zip",
+                "url": "https://ghproxy.net/https://github.com/Cisco-Talos/clamav/releases/download/clamav-$version/clamav-$version.win.arm64.zip",
                 "extract_dir": "clamav-$version.win.arm64"
             }
         }

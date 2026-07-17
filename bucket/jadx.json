@@ -7,8 +7,8 @@
         "JDK": "java/openjdk"
     },
     "url": [
-        "https://gh.llkk.cc/https://github.com/skylot/jadx/releases/download/v1.5.6/jadx-1.5.6.zip",
-        "https://gh.llkk.cc/https://github.com/skylot/jadx/raw/master/jadx-gui/src/main/resources/logos/jadx-logo.ico"
+        "https://ghproxy.net/https://github.com/skylot/jadx/releases/download/v1.5.6/jadx-1.5.6.zip",
+        "https://ghproxy.net/https://github.com/skylot/jadx/raw/master/jadx-gui/src/main/resources/logos/jadx-logo.ico"
     ],
     "hash": [
         "545ea2be9c242511bc145755cf4bda2485ade42966e096f8b4d3da2a230e8974",
@@ -29,8 +29,8 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://gh.llkk.cc/https://github.com/skylot/jadx/releases/download/v$version/jadx-$version.zip",
-            "https://gh.llkk.cc/https://github.com/skylot/jadx/raw/master/jadx-gui/src/main/resources/logos/jadx-logo.ico"
+            "https://ghproxy.net/https://github.com/skylot/jadx/releases/download/v$version/jadx-$version.zip",
+            "https://ghproxy.net/https://github.com/skylot/jadx/raw/master/jadx-gui/src/main/resources/logos/jadx-logo.ico"
         ]
     }
 }

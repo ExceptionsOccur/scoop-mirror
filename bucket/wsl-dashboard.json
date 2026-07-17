@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/owu/wsl-dashboard/releases/download/v0.9.1/WSLDashboard.0.9.1.Portable.x64.zip",
+            "url": "https://ghproxy.net/https://github.com/owu/wsl-dashboard/releases/download/v0.9.1/WSLDashboard.0.9.1.Portable.x64.zip",
             "hash": "9ce70228023fc8b40884db14c8c10abc3ffa91b02c08996c6fe32e8567e35605"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/owu/wsl-dashboard/releases/download/v$version/WSLDashboard.$version.Portable.x64.zip"
+                "url": "https://ghproxy.net/https://github.com/owu/wsl-dashboard/releases/download/v$version/WSLDashboard.$version.Portable.x64.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/LadybugDB/ladybug/releases/download/v0.18.2/lbug_cli-windows-x86_64.zip",
+            "url": "https://ghproxy.net/https://github.com/LadybugDB/ladybug/releases/download/v0.18.2/lbug_cli-windows-x86_64.zip",
             "hash": "6257397864f6d9df9b2217287de0b31b9a76e25630aab0ef0daa73c92a4c1a3b"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/LadybugDB/ladybug/releases/download/v$version/lbug_cli-windows-x86_64.zip"
+                "url": "https://ghproxy.net/https://github.com/LadybugDB/ladybug/releases/download/v$version/lbug_cli-windows-x86_64.zip"
             }
         }
     }

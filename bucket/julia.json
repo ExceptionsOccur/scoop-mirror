@@ -18,7 +18,7 @@
     },
     "bin": "bin\\julia.exe",
     "checkver": {
-        "url": "https://gh.llkk.cc/https://github.com/JuliaLang/www.julialang.org/raw/main/config.md",
+        "url": "https://ghproxy.net/https://github.com/JuliaLang/www.julialang.org/raw/main/config.md",
         "regex": "(?m:^stable_release *= *\"([0-9.]+)\"$)"
     },
     "autoupdate": {

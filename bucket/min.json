@@ -5,15 +5,15 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/minbrowser/min/releases/download/v1.35.6/Min-v1.35.6-windows.zip",
+            "url": "https://ghproxy.net/https://github.com/minbrowser/min/releases/download/v1.35.6/Min-v1.35.6-windows.zip",
             "hash": "c91e387ed35270ae0127294660cf5d1110f654472d8d24514ef5cc79249a375b"
         },
         "32bit": {
-            "url": "https://gh.llkk.cc/https://github.com/minbrowser/min/releases/download/v1.35.6/Min-v1.35.6-windows-ia32.zip",
+            "url": "https://ghproxy.net/https://github.com/minbrowser/min/releases/download/v1.35.6/Min-v1.35.6-windows-ia32.zip",
             "hash": "7b6fa0eedfa8544924a29e229993e08f9aaa3988908215d8547276e3572eee97"
         },
         "arm64": {
-            "url": "https://gh.llkk.cc/https://github.com/minbrowser/min/releases/download/v1.35.6/Min-v1.35.6-windows-arm64.zip",
+            "url": "https://ghproxy.net/https://github.com/minbrowser/min/releases/download/v1.35.6/Min-v1.35.6-windows-arm64.zip",
             "hash": "0089bff4847fd8fe740cf03ce73e805754ff746ce007a8ea62902899fc592050"
         }
     },
@@ -31,13 +31,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/minbrowser/min/releases/download/v$version/Min-v$version-windows.zip"
+                "url": "https://ghproxy.net/https://github.com/minbrowser/min/releases/download/v$version/Min-v$version-windows.zip"
             },
             "32bit": {
-                "url": "https://gh.llkk.cc/https://github.com/minbrowser/min/releases/download/v$version/Min-v$version-windows-ia32.zip"
+                "url": "https://ghproxy.net/https://github.com/minbrowser/min/releases/download/v$version/Min-v$version-windows-ia32.zip"
             },
             "arm64": {
-                "url": "https://gh.llkk.cc/https://github.com/minbrowser/min/releases/download/v$version/Min-v$version-windows-arm64.zip"
+                "url": "https://ghproxy.net/https://github.com/minbrowser/min/releases/download/v$version/Min-v$version-windows-arm64.zip"
             }
         },
         "extract_dir": "Min-v$version"

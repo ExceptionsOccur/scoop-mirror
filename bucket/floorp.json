@@ -11,7 +11,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/Floorp-Projects/Floorp-Portable-v2/releases/download/v12.16.2/floorp-windows-x86_64.portable.7z",
+            "url": "https://ghproxy.net/https://github.com/Floorp-Projects/Floorp-Portable-v2/releases/download/v12.16.2/floorp-windows-x86_64.portable.7z",
             "hash": "795eabad59349bf055da26e6ca18e4a4b081e77292c1884ee395cd58ef6038fb"
         }
     },
@@ -38,7 +38,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/Floorp-Projects/Floorp-Portable-v2/releases/download/v$version/floorp-windows-x86_64.portable.7z",
+                "url": "https://ghproxy.net/https://github.com/Floorp-Projects/Floorp-Portable-v2/releases/download/v$version/floorp-windows-x86_64.portable.7z",
                 "hash": {
                     "url": "$baseurl/checksums.txt",
                     "find": "$sha256\\s+$basename"

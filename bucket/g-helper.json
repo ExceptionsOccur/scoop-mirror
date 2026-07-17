@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/seerge/g-helper/releases/download/v0.264/GHelper.zip",
+            "url": "https://ghproxy.net/https://github.com/seerge/g-helper/releases/download/v0.264/GHelper.zip",
             "hash": "99c7c1a270fe3740681624bc5698c9a52d38cacf7ba529be1f31d99ca8fd804c"
         }
     },
@@ -37,7 +37,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/seerge/g-helper/releases/download/v$version/GHelper.zip"
+                "url": "https://ghproxy.net/https://github.com/seerge/g-helper/releases/download/v$version/GHelper.zip"
             }
         }
     }

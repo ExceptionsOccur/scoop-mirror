@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/aelassas/servy/releases/download/v8.6/servy-8.6-x64-installer.exe",
+            "url": "https://ghproxy.net/https://github.com/aelassas/servy/releases/download/v8.6/servy-8.6-x64-installer.exe",
             "hash": "49f688f053f6c1408107f968cf806e694ce65f0cdf53ce5542234dc0b950893c"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/aelassas/servy/releases/download/v$version/servy-$version-x64-installer.exe"
+                "url": "https://ghproxy.net/https://github.com/aelassas/servy/releases/download/v$version/servy-$version-x64-installer.exe"
             }
         }
     }

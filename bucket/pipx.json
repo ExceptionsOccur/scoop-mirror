@@ -6,7 +6,7 @@
     "suggest": {
         "Python": "python"
     },
-    "url": "https://gh.llkk.cc/https://github.com/pypa/pipx/releases/download/1.16.0/pipx.pyz",
+    "url": "https://ghproxy.net/https://github.com/pypa/pipx/releases/download/1.16.0/pipx.pyz",
     "hash": "2b4931409f31d679ecd7cd03c92d7df58f14d32f37145cd109054830d31b0f6f",
     "pre_install": [
         "$cmd = $null",
@@ -24,6 +24,6 @@
         "github": "https://github.com/pypa/pipx"
     },
     "autoupdate": {
-        "url": "https://gh.llkk.cc/https://github.com/pypa/pipx/releases/download/$version/pipx.pyz"
+        "url": "https://ghproxy.net/https://github.com/pypa/pipx/releases/download/$version/pipx.pyz"
     }
 }

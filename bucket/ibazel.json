@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/bazelbuild/bazel-watcher/releases/download/v0.30.0/ibazel_windows_amd64.exe#/ibazel.exe",
+            "url": "https://ghproxy.net/https://github.com/bazelbuild/bazel-watcher/releases/download/v0.30.0/ibazel_windows_amd64.exe#/ibazel.exe",
             "hash": "3b928ff433a8ad173091ba6d83d535863de85a20ee4023c06977685c21f03e82"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/bazelbuild/bazel-watcher/releases/download/v$version/ibazel_windows_amd64.exe#/ibazel.exe"
+                "url": "https://ghproxy.net/https://github.com/bazelbuild/bazel-watcher/releases/download/v$version/ibazel_windows_amd64.exe#/ibazel.exe"
             }
         }
     }

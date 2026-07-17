@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/kohii/smoothcsv3/releases/download/v3.23.0/SmoothCSV_3.23.0_x64_portable.zip",
+            "url": "https://ghproxy.net/https://github.com/kohii/smoothcsv3/releases/download/v3.23.0/SmoothCSV_3.23.0_x64_portable.zip",
             "hash": "da20382b4d1156e19623bd695cd5a8a253f05cdff956a26284a8f720bbb4dc91"
         },
         "arm64": {
-            "url": "https://gh.llkk.cc/https://github.com/kohii/smoothcsv3/releases/download/v3.23.0/SmoothCSV_3.23.0_arm64_portable.zip",
+            "url": "https://ghproxy.net/https://github.com/kohii/smoothcsv3/releases/download/v3.23.0/SmoothCSV_3.23.0_arm64_portable.zip",
             "hash": "ad89568c407b4a9e6e4c70b5a360b74a78e64676801f9f3a961de277fd143508"
         }
     },
@@ -30,10 +30,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/kohii/smoothcsv3/releases/download/v$version/SmoothCSV_$version_x64_portable.zip"
+                "url": "https://ghproxy.net/https://github.com/kohii/smoothcsv3/releases/download/v$version/SmoothCSV_$version_x64_portable.zip"
             },
             "arm64": {
-                "url": "https://gh.llkk.cc/https://github.com/kohii/smoothcsv3/releases/download/v$version/SmoothCSV_$version_arm64_portable.zip"
+                "url": "https://ghproxy.net/https://github.com/kohii/smoothcsv3/releases/download/v$version/SmoothCSV_$version_arm64_portable.zip"
             }
         }
     }

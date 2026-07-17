@@ -5,11 +5,11 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/kdeldycke/meta-package-manager/releases/download/v7.2.0/meta-package-manager-7.2.0-windows-x64.exe#/mpm.exe",
+            "url": "https://ghproxy.net/https://github.com/kdeldycke/meta-package-manager/releases/download/v7.2.0/meta-package-manager-7.2.0-windows-x64.exe#/mpm.exe",
             "hash": "04510eb885f9e41ca820d9d55e09ffcca882694630ba9a1d0dd07a5976b88dbd"
         },
         "arm64": {
-            "url": "https://gh.llkk.cc/https://github.com/kdeldycke/meta-package-manager/releases/download/v7.2.0/meta-package-manager-7.2.0-windows-arm64.exe#/mpm.exe",
+            "url": "https://ghproxy.net/https://github.com/kdeldycke/meta-package-manager/releases/download/v7.2.0/meta-package-manager-7.2.0-windows-arm64.exe#/mpm.exe",
             "hash": "36ea1e2e35fd854fa800f6a0daa135ec905f1f3959053d169bdc399c8120fcf9"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/kdeldycke/meta-package-manager/releases/download/v$version/meta-package-manager-$version-windows-x64.exe#/mpm.exe"
+                "url": "https://ghproxy.net/https://github.com/kdeldycke/meta-package-manager/releases/download/v$version/meta-package-manager-$version-windows-x64.exe#/mpm.exe"
             },
             "arm64": {
-                "url": "https://gh.llkk.cc/https://github.com/kdeldycke/meta-package-manager/releases/download/v$version/meta-package-manager-$version-windows-arm64.exe#/mpm.exe"
+                "url": "https://ghproxy.net/https://github.com/kdeldycke/meta-package-manager/releases/download/v$version/meta-package-manager-$version-windows-arm64.exe#/mpm.exe"
             }
         }
     }

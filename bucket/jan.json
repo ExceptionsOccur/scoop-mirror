@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/janhq/jan/releases/download/v0.8.3/Jan_0.8.3_x64-setup.exe#/dl.7z",
+            "url": "https://ghproxy.net/https://github.com/janhq/jan/releases/download/v0.8.3/Jan_0.8.3_x64-setup.exe#/dl.7z",
             "hash": "411dc07174f2dbda01ffc807cedb9ecf75cc6730057ed59432c7ca2d466fb939"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/janhq/jan/releases/download/v$version/Jan_$version_x64-setup.exe#/dl.7z"
+                "url": "https://ghproxy.net/https://github.com/janhq/jan/releases/download/v$version/Jan_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

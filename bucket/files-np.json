@@ -28,7 +28,7 @@
             }
         },
         "hash": {
-            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/microsoft/winget-pkgs/HEAD/manifests/f/FilesCommunity/Files/$version/FilesCommunity.Files.installer.yaml",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/microsoft/winget-pkgs/HEAD/manifests/f/FilesCommunity/Files/$version/FilesCommunity.Files.installer.yaml",
             "regex": "(?s)$basename.+?$sha256"
         }
     }

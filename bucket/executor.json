@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "32bit": {
-            "url": "https://gh.llkk.cc/https://github.com/executordk/executor-community/releases/download/v2.3.9/Executor_v2.3.9_32bit.zip",
+            "url": "https://ghproxy.net/https://github.com/executordk/executor-community/releases/download/v2.3.9/Executor_v2.3.9_32bit.zip",
             "hash": "8dd21dabbe7d008e142da957104623960054f73e45fdf88ad48dcf619735db2f",
             "extract_dir": "Executor32bit"
         },
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/executordk/executor-community/releases/download/v2.3.9/Executor_v2.3.9_64bit.zip",
+            "url": "https://ghproxy.net/https://github.com/executordk/executor-community/releases/download/v2.3.9/Executor_v2.3.9_64bit.zip",
             "hash": "0a608129ca940e46f74c8dc98844190f122ec1f7a0a50d0aa465b478bc68528b",
             "extract_dir": "Executor64bit"
         }
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://gh.llkk.cc/https://github.com/executordk/executor-community/releases/download/v$version/Executor_v$version_32bit.zip"
+                "url": "https://ghproxy.net/https://github.com/executordk/executor-community/releases/download/v$version/Executor_v$version_32bit.zip"
             },
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/executordk/executor-community/releases/download/v$version/Executor_v$version_64bit.zip"
+                "url": "https://ghproxy.net/https://github.com/executordk/executor-community/releases/download/v$version/Executor_v$version_64bit.zip"
             }
         }
     }

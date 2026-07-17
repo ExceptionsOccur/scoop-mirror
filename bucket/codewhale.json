@@ -9,8 +9,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh.llkk.cc/https://github.com/Hmbown/CodeWhale/releases/download/v0.9.0/codewhale-tui-windows-x64.exe#/codewhale-tui.exe",
-                "https://gh.llkk.cc/https://github.com/Hmbown/CodeWhale/releases/download/v0.9.0/codewhale-windows-x64.exe#/codewhale.exe"
+                "https://ghproxy.net/https://github.com/Hmbown/CodeWhale/releases/download/v0.9.0/codewhale-tui-windows-x64.exe#/codewhale-tui.exe",
+                "https://ghproxy.net/https://github.com/Hmbown/CodeWhale/releases/download/v0.9.0/codewhale-windows-x64.exe#/codewhale.exe"
             ],
             "hash": [
                 "694e132193adef1a45e18a1e3ba75d64ce2b51ffd84e273c7f8d39d355032d2c",
@@ -26,8 +26,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh.llkk.cc/https://github.com/Hmbown/CodeWhale/releases/download/v$version/codewhale-tui-windows-x64.exe#/codewhale-tui.exe",
-                    "https://gh.llkk.cc/https://github.com/Hmbown/CodeWhale/releases/download/v$version/codewhale-windows-x64.exe#/codewhale.exe"
+                    "https://ghproxy.net/https://github.com/Hmbown/CodeWhale/releases/download/v$version/codewhale-tui-windows-x64.exe#/codewhale-tui.exe",
+                    "https://ghproxy.net/https://github.com/Hmbown/CodeWhale/releases/download/v$version/codewhale-windows-x64.exe#/codewhale.exe"
                 ]
             }
         },

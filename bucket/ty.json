@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/astral-sh/ty/releases/download/0.0.60/ty-x86_64-pc-windows-msvc.zip",
+            "url": "https://ghproxy.net/https://github.com/astral-sh/ty/releases/download/0.0.60/ty-x86_64-pc-windows-msvc.zip",
             "hash": "5fa3e3368a6f70eb13a6c090c404c70330691f283b97ec19994fa285d026f84f"
         },
         "32bit": {
-            "url": "https://gh.llkk.cc/https://github.com/astral-sh/ty/releases/download/0.0.60/ty-i686-pc-windows-msvc.zip",
+            "url": "https://ghproxy.net/https://github.com/astral-sh/ty/releases/download/0.0.60/ty-i686-pc-windows-msvc.zip",
             "hash": "d2b17073df88dc5cb7504902edb913c8268b8bb007dffbfc88470ef6733574dd"
         },
         "arm64": {
-            "url": "https://gh.llkk.cc/https://github.com/astral-sh/ty/releases/download/0.0.60/ty-aarch64-pc-windows-msvc.zip",
+            "url": "https://ghproxy.net/https://github.com/astral-sh/ty/releases/download/0.0.60/ty-aarch64-pc-windows-msvc.zip",
             "hash": "14084128e0fc7448bf60fc67903f836dd664a81ed07db9a33171fa1e420efecc"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/astral-sh/ty/releases/download/$version/ty-x86_64-pc-windows-msvc.zip"
+                "url": "https://ghproxy.net/https://github.com/astral-sh/ty/releases/download/$version/ty-x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://gh.llkk.cc/https://github.com/astral-sh/ty/releases/download/$version/ty-i686-pc-windows-msvc.zip"
+                "url": "https://ghproxy.net/https://github.com/astral-sh/ty/releases/download/$version/ty-i686-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh.llkk.cc/https://github.com/astral-sh/ty/releases/download/$version/ty-aarch64-pc-windows-msvc.zip"
+                "url": "https://ghproxy.net/https://github.com/astral-sh/ty/releases/download/$version/ty-aarch64-pc-windows-msvc.zip"
             }
         },
         "hash": {

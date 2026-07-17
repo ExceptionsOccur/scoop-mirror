@@ -5,7 +5,7 @@
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/nextai-translator/nextai-translator/releases/download/v0.6.22/NextAI.Translator_0.6.22_x64-setup.exe#/dl.7z",
+            "url": "https://ghproxy.net/https://github.com/nextai-translator/nextai-translator/releases/download/v0.6.22/NextAI.Translator_0.6.22_x64-setup.exe#/dl.7z",
             "hash": "6769f4453abdf3fef4913872bedfa4cece36c4629e7c9ca84fd93fdbdb7f1d54"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/nextai-translator/nextai-translator/releases/download/v$version/NextAI.Translator_$version_x64-setup.exe#/dl.7z"
+                "url": "https://ghproxy.net/https://github.com/nextai-translator/nextai-translator/releases/download/v$version/NextAI.Translator_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/astral-sh/ruff/releases/download/0.15.22/ruff-x86_64-pc-windows-msvc.zip",
+            "url": "https://ghproxy.net/https://github.com/astral-sh/ruff/releases/download/0.15.22/ruff-x86_64-pc-windows-msvc.zip",
             "hash": "6e5419593984941405e9add902e89c6ea4af87d97919ac5ef82e1bc4e43bbd8d"
         },
         "32bit": {
-            "url": "https://gh.llkk.cc/https://github.com/astral-sh/ruff/releases/download/0.15.22/ruff-i686-pc-windows-msvc.zip",
+            "url": "https://ghproxy.net/https://github.com/astral-sh/ruff/releases/download/0.15.22/ruff-i686-pc-windows-msvc.zip",
             "hash": "a30a9a9aa89f582d12b14a10235de48a08656539fe1c5949ab915130718073b6"
         },
         "arm64": {
-            "url": "https://gh.llkk.cc/https://github.com/astral-sh/ruff/releases/download/0.15.22/ruff-aarch64-pc-windows-msvc.zip",
+            "url": "https://ghproxy.net/https://github.com/astral-sh/ruff/releases/download/0.15.22/ruff-aarch64-pc-windows-msvc.zip",
             "hash": "76a57fe257602c386499437071a16abb1ee51fff68c8b4c28b0bf8a0d9f7aa34"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/astral-sh/ruff/releases/download/$version/ruff-x86_64-pc-windows-msvc.zip"
+                "url": "https://ghproxy.net/https://github.com/astral-sh/ruff/releases/download/$version/ruff-x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://gh.llkk.cc/https://github.com/astral-sh/ruff/releases/download/$version/ruff-i686-pc-windows-msvc.zip"
+                "url": "https://ghproxy.net/https://github.com/astral-sh/ruff/releases/download/$version/ruff-i686-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh.llkk.cc/https://github.com/astral-sh/ruff/releases/download/$version/ruff-aarch64-pc-windows-msvc.zip"
+                "url": "https://ghproxy.net/https://github.com/astral-sh/ruff/releases/download/$version/ruff-aarch64-pc-windows-msvc.zip"
             }
         },
         "hash": {
