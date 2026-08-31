@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/SeleniumHQ/selenium_manager_artifacts/releases/download/selenium-manager-3f61eec/selenium-manager-windows.exe#/selenium-manager.exe",
+            "url": "https://gh-proxy.com/https://github.com/SeleniumHQ/selenium_manager_artifacts/releases/download/selenium-manager-3f61eec/selenium-manager-windows.exe#/selenium-manager.exe",
             "hash": "79ea01dba38fee92802aea868623de282c42145b32e3b97fd2ff2802e804355d"
         }
     },
@@ -16,7 +16,7 @@
             "# This script was written based on the conversation here https://github.com/SeleniumHQ/selenium/issues/11694. Once binaries are released, we won't need this script.",
             "$selenium_release = $page | ConvertFrom-Json",
             "$selenium_ver_string = $selenium_release.tag_name",
-            "$selenium_manager_ver_string = @((Invoke-WebRequest -Uri ('https://ghproxy.net/https://github.com/SeleniumHQ/selenium/raw/' + $selenium_ver_string + '/common/selenium_manager.bzl') -UseBasicParsing).Content -split \"`n\" | Select-String 'selenium-manager-([a-z0-9]+)').Matches.Value[0]",
+            "$selenium_manager_ver_string = @((Invoke-WebRequest -Uri ('https://gh-proxy.com/https://github.com/SeleniumHQ/selenium/raw/' + $selenium_ver_string + '/common/selenium_manager.bzl') -UseBasicParsing).Content -split \"`n\" | Select-String 'selenium-manager-([a-z0-9]+)').Matches.Value[0]",
             "$output = @{ result = \"$selenium_ver_string $selenium_manager_ver_string\" } | ConvertTo-Json -Compress",
             "Write-Output $output"
         ],
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/SeleniumHQ/selenium_manager_artifacts/releases/download/$matchManagerversion/selenium-manager-windows.exe#/selenium-manager.exe"
+                "url": "https://gh-proxy.com/https://github.com/SeleniumHQ/selenium_manager_artifacts/releases/download/$matchManagerversion/selenium-manager-windows.exe#/selenium-manager.exe"
             }
         }
     }

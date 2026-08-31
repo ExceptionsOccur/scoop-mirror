@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/releases/download/v1.0.60/dws-windows-amd64.zip",
+            "url": "https://gh-proxy.com/https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/releases/download/v1.0.60/dws-windows-amd64.zip",
             "hash": "cce1cb02fece17443957441207849f3dd465bb3261377dedc349d27046cedcb6"
         },
         "arm64": {
-            "url": "https://ghproxy.net/https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/releases/download/v1.0.60/dws-windows-arm64.zip",
+            "url": "https://gh-proxy.com/https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/releases/download/v1.0.60/dws-windows-arm64.zip",
             "hash": "9aff0ff67df946e1c552c999e3ac594eb5b2159922aaf0472dec671796f3ec1f"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/releases/download/v$version/dws-windows-amd64.zip"
+                "url": "https://gh-proxy.com/https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/releases/download/v$version/dws-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://ghproxy.net/https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/releases/download/v$version/dws-windows-arm64.zip"
+                "url": "https://gh-proxy.com/https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/releases/download/v$version/dws-windows-arm64.zip"
             }
         },
         "hash": {

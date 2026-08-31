@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/openclaw/gogcli/releases/download/v0.38.1/gogcli_0.38.1_windows_amd64.zip",
+            "url": "https://gh-proxy.com/https://github.com/openclaw/gogcli/releases/download/v0.38.1/gogcli_0.38.1_windows_amd64.zip",
             "hash": "5523764e142d36a460b8c51779fe79b1e34ffcdcb960addd7901542d206e927d"
         },
         "arm64": {
-            "url": "https://ghproxy.net/https://github.com/openclaw/gogcli/releases/download/v0.38.1/gogcli_0.38.1_windows_arm64.zip",
+            "url": "https://gh-proxy.com/https://github.com/openclaw/gogcli/releases/download/v0.38.1/gogcli_0.38.1_windows_arm64.zip",
             "hash": "ed28faa690ed036001e3969855010bcb9fdc2256695791836bfbc63c10ae50ef"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/openclaw/gogcli/releases/download/v$version/gogcli_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.com/https://github.com/openclaw/gogcli/releases/download/v$version/gogcli_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://ghproxy.net/https://github.com/openclaw/gogcli/releases/download/v$version/gogcli_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.com/https://github.com/openclaw/gogcli/releases/download/v$version/gogcli_$version_windows_arm64.zip"
             }
         },
         "hash": {

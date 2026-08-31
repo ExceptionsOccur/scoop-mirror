@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/DearVa/Everywhere/releases/download/v0.8.1/Everywhere-Windows-x64-v0.8.1.zip",
+            "url": "https://gh-proxy.com/https://github.com/DearVa/Everywhere/releases/download/v0.8.1/Everywhere-Windows-x64-v0.8.1.zip",
             "hash": "03bfea00a675199bd581ad8c14fac5a10f8fb6da4b135dd9f9ec3d78377f388c"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/DearVa/Everywhere/releases/download/v$version/Everywhere-Windows-x64-v$version.zip"
+                "url": "https://gh-proxy.com/https://github.com/DearVa/Everywhere/releases/download/v$version/Everywhere-Windows-x64-v$version.zip"
             }
         }
     }

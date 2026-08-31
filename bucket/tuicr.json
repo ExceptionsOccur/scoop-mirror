@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/agavra/tuicr/releases/download/v0.24.0/tuicr-0.24.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.com/https://github.com/agavra/tuicr/releases/download/v0.24.0/tuicr-0.24.0-x86_64-pc-windows-msvc.zip",
             "hash": "c1cd6a5418ff5d39673949a0078872df3622a1832780352df3af56556056a2f0"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/agavra/tuicr/releases/download/v$version/tuicr-$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.com/https://github.com/agavra/tuicr/releases/download/v$version/tuicr-$version-x86_64-pc-windows-msvc.zip"
             }
         }
     }

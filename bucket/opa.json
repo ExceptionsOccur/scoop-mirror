@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/open-policy-agent/opa/releases/download/v1.20.1/opa_windows_amd64.exe#/opa.exe",
+            "url": "https://gh-proxy.com/https://github.com/open-policy-agent/opa/releases/download/v1.20.1/opa_windows_amd64.exe#/opa.exe",
             "hash": "e154e5ecd3de588e9251ffdab5f0acc0efd1e90c05d9a25b33f7c8a45fbe0d8f"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/open-policy-agent/opa/releases/download/v$version/opa_windows_amd64.exe#/opa.exe"
+                "url": "https://gh-proxy.com/https://github.com/open-policy-agent/opa/releases/download/v$version/opa_windows_amd64.exe#/opa.exe"
             }
         }
     }

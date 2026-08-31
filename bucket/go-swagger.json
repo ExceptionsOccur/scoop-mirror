@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/go-swagger/go-swagger/releases/download/v0.36.5/swagger_windows_amd64.exe#/swagger.exe",
+            "url": "https://gh-proxy.com/https://github.com/go-swagger/go-swagger/releases/download/v0.36.5/swagger_windows_amd64.exe#/swagger.exe",
             "hash": "35c8c09a943e5d9ac3596346d3facd38806959801ef737918d9a1c7b460f3b94"
         },
         "arm64": {
-            "url": "https://ghproxy.net/https://github.com/go-swagger/go-swagger/releases/download/v0.36.5/swagger_windows_arm64.exe#/swagger.exe",
+            "url": "https://gh-proxy.com/https://github.com/go-swagger/go-swagger/releases/download/v0.36.5/swagger_windows_arm64.exe#/swagger.exe",
             "hash": "d2721cfa379a87403b689df9ffb20e9426917ea5686855bace7594a75e5d4daa"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/go-swagger/go-swagger/releases/download/v$version/swagger_windows_amd64.exe#/swagger.exe"
+                "url": "https://gh-proxy.com/https://github.com/go-swagger/go-swagger/releases/download/v$version/swagger_windows_amd64.exe#/swagger.exe"
             },
             "arm64": {
-                "url": "https://ghproxy.net/https://github.com/go-swagger/go-swagger/releases/download/v$version/swagger_windows_arm64.exe#/swagger.exe"
+                "url": "https://gh-proxy.com/https://github.com/go-swagger/go-swagger/releases/download/v$version/swagger_windows_arm64.exe#/swagger.exe"
             }
         },
         "hash": {

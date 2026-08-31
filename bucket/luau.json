@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/luau-lang/luau/releases/download/0.736/luau-windows.zip",
+            "url": "https://gh-proxy.com/https://github.com/luau-lang/luau/releases/download/0.736/luau-windows.zip",
             "hash": "d6aa4edaf2417a4f70d59f470d0cd02c4a7ce42387f433d7cddbbfe948e66c8f"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/luau-lang/luau/releases/download/$version/luau-windows.zip"
+                "url": "https://gh-proxy.com/https://github.com/luau-lang/luau/releases/download/$version/luau-windows.zip"
             }
         }
     }

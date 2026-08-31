@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/mayocream/koharu/releases/download/0.79.4/koharu_0.79.4_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.com/https://github.com/mayocream/koharu/releases/download/0.79.4/koharu_0.79.4_x64-setup.exe#/dl.7z",
             "hash": "0c770a8e369568f657d058b659805faac434f3fb339b13854a63542cc489c052"
         }
     },
@@ -37,7 +37,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/mayocream/koharu/releases/download/$version/koharu_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.com/https://github.com/mayocream/koharu/releases/download/$version/koharu_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

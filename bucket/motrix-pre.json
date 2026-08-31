@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/agalwood/Motrix/releases/download/v2.0.0-beta.28/Motrix-2.0.0-beta.28-win.zip",
+            "url": "https://gh-proxy.com/https://github.com/agalwood/Motrix/releases/download/v2.0.0-beta.28/Motrix-2.0.0-beta.28-win.zip",
             "hash": "c8a8b1f169b7e14ae05a437c887d382eb77cf1599b4480f01958c417c5e4d402"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/agalwood/Motrix/releases/download/v$version/Motrix-$version-win.zip"
+                "url": "https://gh-proxy.com/https://github.com/agalwood/Motrix/releases/download/v$version/Motrix-$version-win.zip"
             }
         }
     }

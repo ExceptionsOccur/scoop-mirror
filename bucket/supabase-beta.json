@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/supabase/cli/releases/download/v2.117.0-beta.6/supabase_2.117.0-beta.6_windows_amd64.zip",
+            "url": "https://gh-proxy.com/https://github.com/supabase/cli/releases/download/v2.117.0-beta.6/supabase_2.117.0-beta.6_windows_amd64.zip",
             "hash": "003938c69263a45e8e3787057937cde872c468eff7e56a6e13e939e3cc3cabe2"
         },
         "arm64": {
-            "url": "https://ghproxy.net/https://github.com/supabase/cli/releases/download/v2.117.0-beta.6/supabase_2.117.0-beta.6_windows_arm64.zip",
+            "url": "https://gh-proxy.com/https://github.com/supabase/cli/releases/download/v2.117.0-beta.6/supabase_2.117.0-beta.6_windows_arm64.zip",
             "hash": "0e5e052b2d6772c194878c0a3ba11d2aeeb99ef6f49974095bd628f7f4ce56a0"
         }
     },
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/supabase/cli/releases/download/v$version/supabase_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.com/https://github.com/supabase/cli/releases/download/v$version/supabase_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://ghproxy.net/https://github.com/supabase/cli/releases/download/v$version/supabase_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.com/https://github.com/supabase/cli/releases/download/v$version/supabase_$version_windows_arm64.zip"
             }
         },
         "hash": {

@@ -11,8 +11,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://ghproxy.net/https://github.com/ollama/ollama/releases/download/v0.33.2/ollama-windows-amd64.zip",
-                "https://ghproxy.net/https://github.com/ollama/ollama/releases/download/v0.33.2/ollama-windows-amd64-rocm.zip"
+                "https://gh-proxy.com/https://github.com/ollama/ollama/releases/download/v0.33.2/ollama-windows-amd64.zip",
+                "https://gh-proxy.com/https://github.com/ollama/ollama/releases/download/v0.33.2/ollama-windows-amd64-rocm.zip"
             ],
             "hash": [
                 "2439cbea65310b1aadf7d8fc41d7faf5d033f920d42e00a476c58bf9bff6950e",
@@ -28,8 +28,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://ghproxy.net/https://github.com/ollama/ollama/releases/download/v$version/ollama-windows-amd64.zip",
-                    "https://ghproxy.net/https://github.com/ollama/ollama/releases/download/v$version/ollama-windows-amd64-rocm.zip"
+                    "https://gh-proxy.com/https://github.com/ollama/ollama/releases/download/v$version/ollama-windows-amd64.zip",
+                    "https://gh-proxy.com/https://github.com/ollama/ollama/releases/download/v$version/ollama-windows-amd64-rocm.zip"
                 ]
             }
         },

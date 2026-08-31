@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/rancher/cli/releases/download/v2.15.1/rancher-windows-amd64-v2.15.1.zip",
+            "url": "https://gh-proxy.com/https://github.com/rancher/cli/releases/download/v2.15.1/rancher-windows-amd64-v2.15.1.zip",
             "hash": "b3a594c6367b229aedae2eb9c29187e7ae8a32ab011ea15dafaebb46062d648f"
         },
         "32bit": {
-            "url": "https://ghproxy.net/https://github.com/rancher/cli/releases/download/v2.15.1/rancher-windows-386-v2.15.1.zip",
+            "url": "https://gh-proxy.com/https://github.com/rancher/cli/releases/download/v2.15.1/rancher-windows-386-v2.15.1.zip",
             "hash": "1f97fdc700a59948cad78a80141f8e559997d40cdd52b9d84bc4bfedf7846e73"
         }
     },
@@ -19,10 +19,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/rancher/cli/releases/download/v$version/rancher-windows-amd64-v$version.zip"
+                "url": "https://gh-proxy.com/https://github.com/rancher/cli/releases/download/v$version/rancher-windows-amd64-v$version.zip"
             },
             "32bit": {
-                "url": "https://ghproxy.net/https://github.com/rancher/cli/releases/download/v$version/rancher-windows-386-v$version.zip"
+                "url": "https://gh-proxy.com/https://github.com/rancher/cli/releases/download/v$version/rancher-windows-386-v$version.zip"
             }
         },
         "hash": {

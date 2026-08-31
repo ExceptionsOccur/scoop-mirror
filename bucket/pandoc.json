@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/jgm/pandoc/releases/download/3.11/pandoc-3.11-windows-x86_64.zip",
+            "url": "https://gh-proxy.com/https://github.com/jgm/pandoc/releases/download/3.11/pandoc-3.11-windows-x86_64.zip",
             "hash": "2ab72baf2399450e148ddf7a2a8689806c42e1bba71862b57e220fd9b8456d3d"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/jgm/pandoc/releases/download/$version/pandoc-$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.com/https://github.com/jgm/pandoc/releases/download/$version/pandoc-$version-windows-x86_64.zip"
             },
             "32bit": {
-                "url": "https://ghproxy.net/https://github.com/jgm/pandoc/releases/download/$version/pandoc-$version-windows-i386.zip"
+                "url": "https://gh-proxy.com/https://github.com/jgm/pandoc/releases/download/$version/pandoc-$version-windows-i386.zip"
             }
         },
         "extract_dir": "pandoc-$version"

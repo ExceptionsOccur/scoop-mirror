@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/anomalyco/opencode/releases/download/v1.18.25/opencode-desktop-win-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.com/https://github.com/anomalyco/opencode/releases/download/v1.18.25/opencode-desktop-win-x64.exe#/dl.7z",
             "hash": "d2b743342b0d80b4520cdbeaa739d677f427afccf57e87c8f98da86e90f26efa"
         },
         "arm64": {
-            "url": "https://ghproxy.net/https://github.com/anomalyco/opencode/releases/download/v1.18.25/opencode-desktop-win-arm64.exe#/dl.7z",
+            "url": "https://gh-proxy.com/https://github.com/anomalyco/opencode/releases/download/v1.18.25/opencode-desktop-win-arm64.exe#/dl.7z",
             "hash": "f22e64e4517e91c0df453237b6dff8e48a78e681dde5ee8ba9ad34dfdd52d6e7"
         }
     },
@@ -29,10 +29,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/anomalyco/opencode/releases/download/v$version/opencode-desktop-win-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.com/https://github.com/anomalyco/opencode/releases/download/v$version/opencode-desktop-win-x64.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://ghproxy.net/https://github.com/anomalyco/opencode/releases/download/v$version/opencode-desktop-win-arm64.exe#/dl.7z"
+                "url": "https://gh-proxy.com/https://github.com/anomalyco/opencode/releases/download/v$version/opencode-desktop-win-arm64.exe#/dl.7z"
             }
         }
     }

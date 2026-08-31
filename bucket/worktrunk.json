@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/max-sixty/worktrunk/releases/download/v0.75.0/worktrunk-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.com/https://github.com/max-sixty/worktrunk/releases/download/v0.75.0/worktrunk-x86_64-pc-windows-msvc.zip",
             "hash": "ded8b08156410ce9bf217d9a8e5b7c150eb52d0960799c3846fde1b80f616b20"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/max-sixty/worktrunk/releases/download/v$version/worktrunk-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.com/https://github.com/max-sixty/worktrunk/releases/download/v$version/worktrunk-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

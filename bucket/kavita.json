@@ -6,11 +6,11 @@
     "notes": "Default URL is http://localhost:5000/login",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/Kareadita/Kavita/releases/download/v0.9.1.0/kavita-win-x64.tar.gz",
+            "url": "https://gh-proxy.com/https://github.com/Kareadita/Kavita/releases/download/v0.9.1.0/kavita-win-x64.tar.gz",
             "hash": "fc6909b1a3135038c17d7dab539db1252dc16fd5ab021b211e63c405e80552a8"
         },
         "32bit": {
-            "url": "https://ghproxy.net/https://github.com/Kareadita/Kavita/releases/download/v0.9.1.0/kavita-win-x86.tar.gz",
+            "url": "https://gh-proxy.com/https://github.com/Kareadita/Kavita/releases/download/v0.9.1.0/kavita-win-x86.tar.gz",
             "hash": "67f5228b7f9cdcf2dc94e9219c74902ce2b7484a927e425491f0fba71c5c87f4"
         }
     },
@@ -26,10 +26,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/Kareadita/Kavita/releases/download/v$version/kavita-win-x64.tar.gz"
+                "url": "https://gh-proxy.com/https://github.com/Kareadita/Kavita/releases/download/v$version/kavita-win-x64.tar.gz"
             },
             "32bit": {
-                "url": "https://ghproxy.net/https://github.com/Kareadita/Kavita/releases/download/v$version/kavita-win-x86.tar.gz"
+                "url": "https://gh-proxy.com/https://github.com/Kareadita/Kavita/releases/download/v$version/kavita-win-x86.tar.gz"
             }
         }
     }

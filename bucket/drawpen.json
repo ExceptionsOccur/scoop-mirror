@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.57/DrawPen-win32-x64-0.0.57.zip",
+            "url": "https://gh-proxy.com/https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.57/DrawPen-win32-x64-0.0.57.zip",
             "hash": "91cdd499d8f4967eba220d66482c597753a2f0efd524e24b7efcf41624535df8"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/DmytroVasin/DrawPen/releases/download/v$version/DrawPen-win32-x64-$version.zip"
+                "url": "https://gh-proxy.com/https://github.com/DmytroVasin/DrawPen/releases/download/v$version/DrawPen-win32-x64-$version.zip"
             }
         }
     }

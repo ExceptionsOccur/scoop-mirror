@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/ByteNess/aws-vault/releases/download/v7.13.6/aws-vault-windows-amd64.exe#/aws-vault.exe",
+            "url": "https://gh-proxy.com/https://github.com/ByteNess/aws-vault/releases/download/v7.13.6/aws-vault-windows-amd64.exe#/aws-vault.exe",
             "hash": "7b7fbb59063545a2d7cd15399f1de42812bfdd2a5d671eb0ca3af0db4db0b22f"
         },
         "arm64": {
-            "url": "https://ghproxy.net/https://github.com/ByteNess/aws-vault/releases/download/v7.13.6/aws-vault-windows-arm64.exe#/aws-vault.exe",
+            "url": "https://gh-proxy.com/https://github.com/ByteNess/aws-vault/releases/download/v7.13.6/aws-vault-windows-arm64.exe#/aws-vault.exe",
             "hash": "66f7691c1625b98d71cc738cf4854b82667710efcee4d72a242b78044f951e19"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/ByteNess/aws-vault/releases/download/v$version/aws-vault-windows-amd64.exe#/aws-vault.exe"
+                "url": "https://gh-proxy.com/https://github.com/ByteNess/aws-vault/releases/download/v$version/aws-vault-windows-amd64.exe#/aws-vault.exe"
             },
             "arm64": {
-                "url": "https://ghproxy.net/https://github.com/ByteNess/aws-vault/releases/download/v$version/aws-vault-windows-arm64.exe#/aws-vault.exe"
+                "url": "https://gh-proxy.com/https://github.com/ByteNess/aws-vault/releases/download/v$version/aws-vault-windows-arm64.exe#/aws-vault.exe"
             }
         },
         "hash": {

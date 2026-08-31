@@ -5,11 +5,11 @@
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/symfony-cli/symfony-cli/releases/download/v5.20.0/symfony-cli_windows_amd64.zip",
+            "url": "https://gh-proxy.com/https://github.com/symfony-cli/symfony-cli/releases/download/v5.20.0/symfony-cli_windows_amd64.zip",
             "hash": "8ddd48b442f2a0028a3d2f9f6778a991b261cf2cad48511f5d04bff9b472ec31"
         },
         "32bit": {
-            "url": "https://ghproxy.net/https://github.com/symfony-cli/symfony-cli/releases/download/v5.20.0/symfony-cli_windows_386.zip",
+            "url": "https://gh-proxy.com/https://github.com/symfony-cli/symfony-cli/releases/download/v5.20.0/symfony-cli_windows_386.zip",
             "hash": "761159c9a83613a4da028cd881b8a11b7fba08f763870fd76558778efa3b5ef0"
         }
     },
@@ -20,14 +20,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/symfony-cli/symfony-cli/releases/download/v$version/symfony-cli_windows_amd64.zip"
+                "url": "https://gh-proxy.com/https://github.com/symfony-cli/symfony-cli/releases/download/v$version/symfony-cli_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://ghproxy.net/https://github.com/symfony-cli/symfony-cli/releases/download/v$version/symfony-cli_windows_386.zip"
+                "url": "https://gh-proxy.com/https://github.com/symfony-cli/symfony-cli/releases/download/v$version/symfony-cli_windows_386.zip"
             }
         },
         "hash": {
-            "url": "https://ghproxy.net/https://github.com/symfony-cli/symfony-cli/releases/download/v$version/checksums.txt"
+            "url": "https://gh-proxy.com/https://github.com/symfony-cli/symfony-cli/releases/download/v$version/checksums.txt"
         }
     }
 }

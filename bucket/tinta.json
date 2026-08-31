@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/oipoistar/tinta/releases/download/v3.5.0/tinta.exe",
+            "url": "https://gh-proxy.com/https://github.com/oipoistar/tinta/releases/download/v3.5.0/tinta.exe",
             "hash": "4f83d73a98c1b3de05452e15999060d701a91059e0a459065f9d52a17199d8ad"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/oipoistar/tinta/releases/download/v$version/tinta.exe"
+                "url": "https://gh-proxy.com/https://github.com/oipoistar/tinta/releases/download/v$version/tinta.exe"
             }
         }
     }

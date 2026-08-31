@@ -41,7 +41,7 @@
             }
         },
         "hash": {
-            "url": "https://ghproxy.net/https://github.com/pulumi/pulumi/releases/download/v$version/SHA512SUMS"
+            "url": "https://gh-proxy.com/https://github.com/pulumi/pulumi/releases/download/v$version/SHA512SUMS"
         }
     }
 }

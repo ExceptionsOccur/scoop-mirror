@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/ClementTsang/bottom/releases/download/nightly-3066c959-1787964591/bottom_x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.com/https://github.com/ClementTsang/bottom/releases/download/nightly-3066c959-1787964591/bottom_x86_64-pc-windows-msvc.zip",
             "hash": "2522ec9b9e1f884432c0b751af3019e33646b7e075d784a92b9114db136f8fb0"
         },
         "32bit": {
-            "url": "https://ghproxy.net/https://github.com/ClementTsang/bottom/releases/download/nightly-3066c959-1787964591/bottom_i686-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.com/https://github.com/ClementTsang/bottom/releases/download/nightly-3066c959-1787964591/bottom_i686-pc-windows-msvc.zip",
             "hash": "bcba193cb9322be0806fd50d74439fb230e3b23578f15f06af854ccf1b4f2979"
         },
         "arm64": {
-            "url": "https://ghproxy.net/https://github.com/ClementTsang/bottom/releases/download/nightly-3066c959-1787964591/bottom_aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.com/https://github.com/ClementTsang/bottom/releases/download/nightly-3066c959-1787964591/bottom_aarch64-pc-windows-msvc.zip",
             "hash": "c27501d080ff95ef0356b00acb768db9d2f2e6a72fc1dea0ede895b0af62282c"
         }
     },
@@ -26,13 +26,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/ClementTsang/bottom/releases/download/nightly-$matchTag/bottom_x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.com/https://github.com/ClementTsang/bottom/releases/download/nightly-$matchTag/bottom_x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://ghproxy.net/https://github.com/ClementTsang/bottom/releases/download/nightly-$matchTag/bottom_i686-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.com/https://github.com/ClementTsang/bottom/releases/download/nightly-$matchTag/bottom_i686-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://ghproxy.net/https://github.com/ClementTsang/bottom/releases/download/nightly-$matchTag/bottom_aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.com/https://github.com/ClementTsang/bottom/releases/download/nightly-$matchTag/bottom_aarch64-pc-windows-msvc.zip"
             }
         }
     }

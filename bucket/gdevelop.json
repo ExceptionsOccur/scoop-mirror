@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/4ian/GDevelop/releases/download/v5.6.281/GDevelop-5-Setup-5.6.281.exe#/dl.7z",
+            "url": "https://gh-proxy.com/https://github.com/4ian/GDevelop/releases/download/v5.6.281/GDevelop-5-Setup-5.6.281.exe#/dl.7z",
             "hash": "sha512:bacf2a6a1b52cfe74fe1e51bbb1c925e91edc6405aeb2ec56cafc995203b567c95d2c23a26bcb27a88d0c8954289b693cf756b634d1fe6e1f8537a6e5cc0529f"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/4ian/GDevelop/releases/download/v$version/GDevelop-$majorVersion-Setup-$version.exe#/dl.7z",
+                "url": "https://gh-proxy.com/https://github.com/4ian/GDevelop/releases/download/v$version/GDevelop-$majorVersion-Setup-$version.exe#/dl.7z",
                 "hash": {
                     "url": "$baseurl/latest.yml",
                     "regex": "sha512:\\s$base64"

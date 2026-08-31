@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/VirusTotal/yara-x/releases/download/v1.20.0/yara-x-v1.20.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.com/https://github.com/VirusTotal/yara-x/releases/download/v1.20.0/yara-x-v1.20.0-x86_64-pc-windows-msvc.zip",
             "hash": "b1e2840bac593aea353d2b2b341f5a862c9d61c0c406d9abbbad9e1fa35163a1"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/VirusTotal/yara-x/releases/download/v$version/yara-x-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.com/https://github.com/VirusTotal/yara-x/releases/download/v$version/yara-x-v$version-x86_64-pc-windows-msvc.zip"
             }
         }
     }

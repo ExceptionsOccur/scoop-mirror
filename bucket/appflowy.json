@@ -5,7 +5,7 @@
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.0/AppFlowy-0.14.0-windows-x86_64.zip",
+            "url": "https://gh-proxy.com/https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.0/AppFlowy-0.14.0-windows-x86_64.zip",
             "hash": "76ce3f1ee54a9fbda85e565138af336b9b2e412e7eeb19329b23a3167ede56ae"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/AppFlowy-IO/AppFlowy/releases/download/$version/AppFlowy-$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.com/https://github.com/AppFlowy-IO/AppFlowy/releases/download/$version/AppFlowy-$version-windows-x86_64.zip"
             }
         }
     }

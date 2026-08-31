@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/earendil-works/pi/releases/download/v0.84.4/pi-windows-x64.zip",
+            "url": "https://gh-proxy.com/https://github.com/earendil-works/pi/releases/download/v0.84.4/pi-windows-x64.zip",
             "hash": "03b2318774f18721e959d9f8f3340a9f942e7aa516fb7030d3007a12a40a4a97"
         },
         "arm64": {
-            "url": "https://ghproxy.net/https://github.com/earendil-works/pi/releases/download/v0.84.4/pi-windows-arm64.zip",
+            "url": "https://gh-proxy.com/https://github.com/earendil-works/pi/releases/download/v0.84.4/pi-windows-arm64.zip",
             "hash": "6b2726efc34a9158ab06bf7b981f7bcccf15de9ea236a3f4ef7a894a78aa386e"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/earendil-works/pi/releases/download/v$version/pi-windows-x64.zip"
+                "url": "https://gh-proxy.com/https://github.com/earendil-works/pi/releases/download/v$version/pi-windows-x64.zip"
             },
             "arm64": {
-                "url": "https://ghproxy.net/https://github.com/earendil-works/pi/releases/download/v$version/pi-windows-arm64.zip"
+                "url": "https://gh-proxy.com/https://github.com/earendil-works/pi/releases/download/v$version/pi-windows-arm64.zip"
             }
         }
     }

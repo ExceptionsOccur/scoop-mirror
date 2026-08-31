@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/t8y2/dbx/releases/download/v0.5.98/DBX_0.5.98_x64-portable.zip",
+            "url": "https://gh-proxy.com/https://github.com/t8y2/dbx/releases/download/v0.5.98/DBX_0.5.98_x64-portable.zip",
             "hash": "af617a7fe207c5e36a228b8072f6d824e66358cad64bbf04ac5a69215a5a9cdc"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/t8y2/dbx/releases/download/v$version/DBX_$version_x64-portable.zip"
+                "url": "https://gh-proxy.com/https://github.com/t8y2/dbx/releases/download/v$version/DBX_$version_x64-portable.zip"
             }
         }
     }

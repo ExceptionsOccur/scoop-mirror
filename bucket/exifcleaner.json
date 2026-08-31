@@ -3,7 +3,7 @@
     "description": "Image metadata cleaner",
     "homepage": "https://exifcleaner.com",
     "license": "MIT",
-    "url": "https://ghproxy.net/https://github.com/szTheory/exifcleaner/releases/download/v4.2.1/ExifCleaner.Setup.4.2.1.exe#/dl.7z",
+    "url": "https://gh-proxy.com/https://github.com/szTheory/exifcleaner/releases/download/v4.2.1/ExifCleaner.Setup.4.2.1.exe#/dl.7z",
     "hash": "64906e696158b0eebbc867289574cc44168b43f4055c89150469ea247e049271",
     "architecture": {
         "64bit": {
@@ -24,7 +24,7 @@
         "github": "https://github.com/szTheory/exifcleaner"
     },
     "autoupdate": {
-        "url": "https://ghproxy.net/https://github.com/szTheory/exifcleaner/releases/download/v$version/ExifCleaner.Setup.$version.exe#/dl.7z",
+        "url": "https://gh-proxy.com/https://github.com/szTheory/exifcleaner/releases/download/v$version/ExifCleaner.Setup.$version.exe#/dl.7z",
         "hash": {
             "url": "$baseurl/SHASUMS256.txt"
         }

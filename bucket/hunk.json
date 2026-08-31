@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/modem-dev/hunk/releases/download/v0.20.1/hunkdiff-windows-x64.tar.gz",
+            "url": "https://gh-proxy.com/https://github.com/modem-dev/hunk/releases/download/v0.20.1/hunkdiff-windows-x64.tar.gz",
             "hash": "55c410f8335920a6075549c27f36c29a71552c9de2c70bea20e23a9349563de5",
             "extract_dir": "hunkdiff-windows-x64"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/modem-dev/hunk/releases/download/v$version/hunkdiff-windows-x64.tar.gz"
+                "url": "https://gh-proxy.com/https://github.com/modem-dev/hunk/releases/download/v$version/hunkdiff-windows-x64.tar.gz"
             }
         }
     }

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/qarmin/czkawka/releases/download/12.0.1/windows_krokiet_on_windows_all_backends.zip",
+            "url": "https://gh-proxy.com/https://github.com/qarmin/czkawka/releases/download/12.0.1/windows_krokiet_on_windows_all_backends.zip",
             "hash": "13f68c9b29b7667caf913c1223dbcdb58e9e51b8a050e00ed1f1fd31508d17b5"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/qarmin/czkawka/releases/download/$version/windows_krokiet_on_windows_all_backends.zip"
+                "url": "https://gh-proxy.com/https://github.com/qarmin/czkawka/releases/download/$version/windows_krokiet_on_windows_all_backends.zip"
             }
         }
     }

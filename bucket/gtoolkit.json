@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/feenkcom/gtoolkit/releases/download/v1.1.568/GlamorousToolkit-Windows-x86_64-v1.1.568.zip",
+            "url": "https://gh-proxy.com/https://github.com/feenkcom/gtoolkit/releases/download/v1.1.568/GlamorousToolkit-Windows-x86_64-v1.1.568.zip",
             "hash": "c2e34cd3a788369d01574b71a1ed9343030936cbbb73917f94f86cb21677bcc7"
         },
         "arm64": {
-            "url": "https://ghproxy.net/https://github.com/feenkcom/gtoolkit/releases/download/v1.1.568/GlamorousToolkit-Windows-aarch64-v1.1.568.zip",
+            "url": "https://gh-proxy.com/https://github.com/feenkcom/gtoolkit/releases/download/v1.1.568/GlamorousToolkit-Windows-aarch64-v1.1.568.zip",
             "hash": "071fe70a6afb929124287c36b1f37ef376d0dea902d5d1c8d17210fed4d8e02f"
         }
     },
@@ -26,10 +26,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/feenkcom/gtoolkit/releases/download/v$version/GlamorousToolkit-Windows-x86_64-v$version.zip"
+                "url": "https://gh-proxy.com/https://github.com/feenkcom/gtoolkit/releases/download/v$version/GlamorousToolkit-Windows-x86_64-v$version.zip"
             },
             "arm64": {
-                "url": "https://ghproxy.net/https://github.com/feenkcom/gtoolkit/releases/download/v$version/GlamorousToolkit-Windows-aarch64-v$version.zip"
+                "url": "https://gh-proxy.com/https://github.com/feenkcom/gtoolkit/releases/download/v$version/GlamorousToolkit-Windows-aarch64-v$version.zip"
             }
         },
         "hash": {

@@ -10,7 +10,7 @@
         "  - 'autohotkey /script \"$dir\\UX\\ui-uninstall.ahk\"'",
         "See also: https://github.com/ScoopInstaller/Extras/issues/10066"
     ],
-    "url": "https://ghproxy.net/https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.27/AutoHotkey_2.0.27.zip",
+    "url": "https://gh-proxy.com/https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.27/AutoHotkey_2.0.27.zip",
     "hash": "f72cad4b98a7b5aa050b35d6deaa0b0e3949929b2aaff7d0d69858f1f380b3ef",
     "extract_to": "installer",
     "installer": {
@@ -78,7 +78,7 @@
         "github": "https://github.com/AutoHotkey/AutoHotkey"
     },
     "autoupdate": {
-        "url": "https://ghproxy.net/https://github.com/AutoHotkey/AutoHotkey/releases/download/v$version/AutoHotkey_$version.zip",
+        "url": "https://gh-proxy.com/https://github.com/AutoHotkey/AutoHotkey/releases/download/v$version/AutoHotkey_$version.zip",
         "hash": {
             "url": "https://github.com/AutoHotkey/AutoHotkey/releases/tag/v$version",
             "regex": "$sha256</code>[\\s]+AutoHotkey_$version\\.zip"
